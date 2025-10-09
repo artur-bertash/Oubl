@@ -1,0 +1,15 @@
+.video {
+    background-color: rgba(189, 191, 194, 0.765);
+    border-radius: 8px;
+    padding: 8px;
+    text-align: start;
+    overflow: hidden;
+    
+    
+}
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+}

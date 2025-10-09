@@ -1,0 +1,18 @@
+.learn-more {
+    padding: 48px;
+    background-color: rgb(240, 248, 255, 0.8);
+    border-radius: 8px;
+    max-width: 800px;
+    display: flex;
+    gap: 24px;
+    text-align: start;
+    
+}
+
+img {
+    max-width: 300px;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 8px;
+    
+}
