@@ -5,8 +5,11 @@ function Home() {
     return (
         <div>
             <h1>Oubl — Classic French, modern memory.</h1>
-            <button onClick={() => navigate("/videos")}>Begin</button>
-            <button onClick={() => navigate("learn-more")}>Learn more</button>
+            <div className="buttons">
+                <button onClick={() => navigate("/videos")}>Begin</button>
+                <button onClick={() => navigate("/learn-more")}>Why not Dualingo</button>
+            </div>
+            
         </div>
     )
 }
