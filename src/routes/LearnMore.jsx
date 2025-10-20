@@ -20,7 +20,7 @@ function LearnMore() {
             </div>
             </div>
             <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGg0a3R4dmZkMDA1bGRhMmkza2M4ZzJlM3dvODk4aGtkZzZhdGN6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pGKwT5JXyNWm6JmJE4/giphy.gif"></img>
-        
+            
         </div>
         </>
     );

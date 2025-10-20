@@ -2,10 +2,12 @@
 
 .video-page {
   position: relative;
-  overflow: hidden;
+  
   margin: 40px auto;
   border-radius: 12px;
   text-align: center;
+  display: flex;
+  gap: 20px;
 }
 
 .video-player {

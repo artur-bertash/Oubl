@@ -1,11 +1,25 @@
 
-import "../styles/Subtitles.css"
-function Subtitles({currTime, subs}) {
+
+function Subtitles({currTime, subs, clickedWord, setClickedWord}) {
+    
     const cue = subs.find(s=> s.start <= currTime && s.end >= currTime)
     console.log(currTime)
+    let sub = ""
+    if (cue) {
+        sub = cue.text
+    } 
+    
     return (
-        <div>
-            {cue ? cue.text : ""}
+        <div className="subs">
+            {sub.split(" ").map((word, index) => (
+                <span 
+                    key={index} 
+                    className={clickedWord === index ? "clicked-word" : ""} 
+                    onClick={() => setClickedWord(word)}
+                >
+                    {word + " "}
+                </span>
+            ))}
         </div>
     )
 }
