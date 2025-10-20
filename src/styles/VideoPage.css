@@ -1,0 +1,33 @@
+/* VideoPage.css */
+
+.video-page {
+  position: relative;
+  overflow: hidden;
+  margin: 40px auto;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.video-player {
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+}
+
+.next-btn {
+  position: fixed;
+  bottom: 50px;
+  right: 30px;
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  background-color: #a8b1bb;
+  color: white;
+  transition: background 0.2s;
+}
+
+.next-btn:hover {
+  background-color: #005fd1;
+}
