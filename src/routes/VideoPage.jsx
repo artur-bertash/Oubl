@@ -3,6 +3,8 @@ import { useParams, useNavigate } from "react-router-dom"
 import { useEffect, useRef, useState } from "react"
 import "../styles/VideoPage.css"
 import GoBack from "../components/GoBack"
+import Subtitles from "../components/Subtitles"
+import WordExplanation from "../components/WordExplanation"
 
 function VideoPage() {
   const { videoId } = useParams()
@@ -18,6 +20,7 @@ function VideoPage() {
     { start: 10, end: 20, text: "Comment ça va ?" },
     { start: 20, end: 30, text: "Très bien, merci." },
   ])
+  const [clickedWord, setClickedWord] = useState(null)
 
   
   function handleTimeUpdate() {
@@ -74,6 +77,9 @@ function VideoPage() {
   return (
     <div className="video-page">
       <GoBack />
+      <div className="video-sub">
+
+      
       <video
         key={episode.id}
         ref={videoRef}
@@ -89,14 +95,19 @@ function VideoPage() {
       </video>
 
       <div className="subtitle-line">
-        {currCue ? currCue.text : "Press → to start"}
+        <Subtitles currTime={currentTime} subs={subs} clickedWord={clickedWord} setClickedWord={setClickedWord}/>
       </div>
+      </div>
+      {clickedWord !== null && (
+        <WordExplanation word={clickedWord} />
+      )}
 
       {ended && (
         <button className="next-btn" onClick={goToNextEpisode}>
           Next Episode
         </button>
       )}
+
     </div>
   )
 }

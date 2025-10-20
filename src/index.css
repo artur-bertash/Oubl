@@ -139,3 +139,53 @@ button:focus-visible {
   color: #888;
 }
 
+.wrapper-home { 
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100wh;
+}
+
+
+html, body {
+  overflow: auto;          
+  scrollbar-width: none;   
+}
+
+
+html::-webkit-scrollbar,
+body::-webkit-scrollbar {
+  display: none;
+}
+
+.bottom {
+  padding: 36px;
+  background-color: rgb(128, 128, 128, 0.8);
+  border-radius: 8px;
+  color: white;
+}
+
+
+.subtitle-line {
+  font-size: larger;
+  font-weight: 600;
+  padding: 12px;
+  border-radius: 8px;
+  background-color: rgb(128, 128, 128, 0.3);
+  
+}
+
+.word-explanation {
+  position: absolute;
+  
+  left: calc(100% + 100px);
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 16px;
+  border-radius: 8px;
+  max-width: 300px;
+}
+
