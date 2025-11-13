@@ -174,7 +174,12 @@ body::-webkit-scrollbar {
   padding: 12px;
   border-radius: 8px;
   background-color: rgb(128, 128, 128, 0.3);
+  width: 600px;
+  box-sizing: border-box;
   
+  overflow-wrap: break-word;
+  max-width: 600px;
+  margin-top: 12px;
 }
 
 .word-explanation {
@@ -189,3 +194,9 @@ body::-webkit-scrollbar {
   max-width: 300px;
 }
 
+
+.clicked-word {
+  background-color: #213547;
+  border-radius: 4px;
+  padding: 4px;
+}
