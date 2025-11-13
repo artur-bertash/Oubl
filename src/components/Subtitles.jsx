@@ -12,12 +12,14 @@ function Subtitles({currTime, subs, clickedWord, setClickedWord}) {
     return (
         <div className="subs">
             {sub.split(" ").map((word, index) => (
-                <span 
-                    key={index} 
-                    className={clickedWord === index ? "clicked-word" : ""} 
-                    onClick={() => setClickedWord(word)}
-                >
-                    {word + " "}
+                <span key={index} >
+                    <span 
+                        className={clickedWord.index === index && clickedWord.word === word ? "clicked-word" : ""} 
+                        onClick={() => setClickedWord({index, word})}
+                    >
+                        {word}
+                    </span>
+                    {" "}
                 </span>
             ))}
         </div>

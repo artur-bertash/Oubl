@@ -5,6 +5,7 @@ import "../styles/VideoPage.css";
 import GoBack from "../components/GoBack";
 import Subtitles from "../components/Subtitles";
 import WordExplanation from "../components/WordExplanation";
+import convertSrt from "../logic/srtToObj";
 
 function VideoPage() {
   const { videoId } = useParams();
@@ -15,12 +16,15 @@ function VideoPage() {
   const [currentTime, setCurrentTime] = useState(0);
   const [ended, setEnded] = useState(false);
   const [currCue, setCurrCue] = useState(null);
-  const [subs] = useState([
+  const [subs, setSubs] = useState([
     { start: 0.0, end: 10, text: "Bonjour !" },
     { start: 10, end: 20, text: "Comment ça va ?" },
     { start: 20, end: 30, text: "Très bien, merci." },
   ]);
-  const [clickedWord, setClickedWord] = useState(null)
+  
+  const [clickedWord, setClickedWord] = useState({index: -1, 
+                                                  word: ""
+  })
 
   
   function handleTimeUpdate() {
@@ -74,6 +78,22 @@ function VideoPage() {
     return () => window.removeEventListener("keydown", handleKey);
   }, [currCue, subs]);
 
+  useEffect(() => {
+  async function loadSubs() {
+    try {
+      
+      const res = await fetch(`/subs/${videoId}.srt`);
+      const text = await res.text();
+      setSubs(convertSrt(text));
+      console.log(convertSrt(text))
+    } catch (e) {
+      console.error("Failed to load subtitles:", e);
+    }
+  }
+
+  loadSubs();
+}, [videoId]);
+
   return (
     <div className="video-page">
       <GoBack />
@@ -98,8 +118,8 @@ function VideoPage() {
         <Subtitles currTime={currentTime} subs={subs} clickedWord={clickedWord} setClickedWord={setClickedWord}/>
       </div>
       </div>
-      {clickedWord !== null && (
-        <WordExplanation word={clickedWord} />
+      {clickedWord.index !== -1 && (
+        <WordExplanation word={clickedWord.word} />
       )}
 
       {ended && (
