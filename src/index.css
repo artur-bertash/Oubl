@@ -169,6 +169,8 @@ body::-webkit-scrollbar {
 
 
 .subtitle-line {
+  position: absolute;
+  top: calc(100% + 16px);
   font-size: larger;
   font-weight: 600;
   padding: 12px;
@@ -185,7 +187,7 @@ body::-webkit-scrollbar {
 .word-explanation {
   position: absolute;
   
-  left: calc(100% + 100px);
+  left: calc(100% + 64px);
   width: 100%;
   background-color: rgba(0, 0, 0, 0.8);
   color: white;
