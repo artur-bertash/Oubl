@@ -3,14 +3,18 @@
 function Subtitles({currTime, subs, clickedWord, setClickedWord}) {
     
     const cue = subs.find(s=> s.start <= currTime && s.end >= currTime)
+    let isNothing = false
     console.log(currTime)
     let sub = ""
     if (cue) {
         sub = cue.text
-    } 
+    } else {
+        isNothing = true
+    }
     
     return (
-        <div className="subs">
+        <>
+        {!isNothing && <div className="subtitle-line">
             {sub.split(" ").map((word, index) => (
                 <span key={index} >
                     <span 
@@ -22,7 +26,8 @@ function Subtitles({currTime, subs, clickedWord, setClickedWord}) {
                     {" "}
                 </span>
             ))}
-        </div>
+        </div>}
+        </>
     )
 }
 

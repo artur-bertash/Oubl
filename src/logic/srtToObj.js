@@ -4,10 +4,11 @@ export default function convertSrt(srt) {
     const subs = []
 
     function timeToSeconds(str) {
-        const [h, m, s] = str.split(/[: ,]/)
+        const [h, m, s, ms] = str.split(/[: ,]/)
+        
         console.log(h, m, s)
         console.log(parseInt(h), parseInt(m), parseInt(s))
-        return parseInt(h) * 3600 + parseInt(m) * 60 + parseInt(s)
+        return parseInt(h) * 3600 + parseInt(m) * 60 + parseInt(s) + parseInt(ms) / 1000
 
     }
     let i = 0
@@ -31,4 +32,5 @@ export default function convertSrt(srt) {
     
     return subs
 }
+
 

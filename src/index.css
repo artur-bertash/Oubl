@@ -170,7 +170,7 @@ body::-webkit-scrollbar {
 
 .subtitle-line {
   position: absolute;
-  top: calc(100% + 16px);
+  top: calc(100%);
   font-size: larger;
   font-weight: 600;
   padding: 12px;
@@ -189,7 +189,7 @@ body::-webkit-scrollbar {
   
   left: calc(100% + 64px);
   width: 100%;
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(98, 97, 97, 0.8);
   color: white;
   padding: 16px;
   border-radius: 8px;
@@ -198,7 +198,8 @@ body::-webkit-scrollbar {
 
 
 .clicked-word {
-  background-color: #213547;
+  background-color: #838587;
+  color: white;
   border-radius: 4px;
   padding: 4px;
 }

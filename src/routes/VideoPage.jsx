@@ -15,7 +15,7 @@ function VideoPage() {
 
   const [currentTime, setCurrentTime] = useState(0)
   const [ended, setEnded] = useState(false)
-  const [currCue, setCurrCue] = useState(null)
+  const [currCueIndex, setCurrCueIndex] = useState(-1)
   const [subs, setSubs] = useState([
     { start: 0.0, end: 10, text: "Bonjour !" },
     { start: 10, end: 20, text: "Comment ça va ?" },
@@ -33,8 +33,8 @@ function VideoPage() {
 
     const t = video.currentTime
     setCurrentTime(t)
-    const activeCue = subs.find((s) => s.start <= t && s.end > t)
-    setCurrCue(activeCue || null)
+    const activeCueIndex = subs.findIndex((s) => s.start <= t && s.end > t)
+    setCurrCueIndex(activeCueIndex || -1)
   }
 
   function handleEnded() {
@@ -54,29 +54,29 @@ function VideoPage() {
   
   useEffect(() => {
     const handleKey = (e) => {
-      if (!currCue || !videoRef.current) return
+      if (!currCueIndex || !videoRef.current) return
       const video = videoRef.current
       video.play()
       if (e.key === "ArrowRight") {
         
-        const i = subs.findIndex((s) => s === currCue)
-        if (i < subs.length - 1) {
-          video.currentTime = subs[i + 1].start + 0.01
+        
+        if (currCueIndex < subs.length - 1) {
+          video.currentTime = subs[currCueIndex + 1].start + 0.01
         }
       }
 
       if (e.key === "ArrowLeft") {
         
-        const i = subs.findIndex((s) => s === currCue)
+        const i = subs.findIndex((s) => s === currCueIndex)
         if (i > 0) {
-          video.currentTime = subs[i - 1].start + 0.01
+          video.currentTime = subs[currCueIndex - 1].start + 0.01
         }
       }
     }
 
     window.addEventListener("keydown", handleKey)
     return () => window.removeEventListener("keydown", handleKey)
-  }, [currCue, subs])
+  }, [currCueIndex, subs])
 
   useEffect(() => {
   async function loadSubs() {
@@ -84,8 +84,8 @@ function VideoPage() {
       
       const res = await fetch(`/subs/${videoId}.srt`)
       const text = await res.text()
-      setSubs(convertSrt(text))
-      console.log(convertSrt(text))
+      setSubs(convertSrt(text))  
+      
     } catch (e) {
       console.error("Failed to load subtitles:", e)
     }
@@ -114,12 +114,12 @@ function VideoPage() {
         <source src={episode.videoUrl} type="video/mp4" />
       </video>
 
-      <div className="subtitle-line">
+      <div >
         <Subtitles currTime={currentTime} subs={subs} clickedWord={clickedWord} setClickedWord={setClickedWord}/>
       </div>
       </div>
       {clickedWord.index !== -1 && (
-        <WordExplanation word={clickedWord.word} />
+        <WordExplanation word={clickedWord.word} previousCues={currCueIndex > 0 ? subs[currCueIndex - 1].text : ""} nextCues={currCueIndex < subs.length - 1 ? subs[currCueIndex + 1].text : ""} currCue={(currCueIndex > 0 && currCueIndex < subs.length) ? subs[currCueIndex].text : "" }/>
       )}
 
       {ended && (
