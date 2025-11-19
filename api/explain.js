@@ -1,46 +1,55 @@
 export default async function handler(req, res) {
   try {
-    const { word, previousCues, nextCues, currCue} = JSON.parse(req.body);
+    // Handle req.body - it might already be parsed or might be a string
+    
+    const body = typeof req.body === 'string' ? JSON.parse(req.body) : req.body;
+    console.log(body)
+    const { word, previousCues, nextCues, currCue } = body;
 
-    const key = process.env.OPENROUTER_KEY; // SAFE: only on server
+    const key = process.env.OPENROUTER_KEY;
 
-    const res = await fetch('https://openrouter.ai/api/v1/chat/completions', {
-                method: 'POST',
-                headers: {
-                    Authorization: `Bearer ${key}`,
-                    'HTTP-Referer': '<YOUR_SITE_URL>', // Optional. Site URL for rankings on openrouter.ai.
-                    'X-Title': '<YOUR_SITE_NAME>', // Optional. Site title for rankings on openrouter.ai.
-                    'Content-Type': 'application/json',
-                },
-                body: JSON.stringify({
-                    model: 'qwen/qwen3-30b-a3b:free',
-                    messages: [
-                    {
-                        role: 'user',
-                        content: `
-                Explain the target French word in context.
-                Give 1–3 short, natural sentences in English, not labels or bullet points. Do not overword, but be clear. 
-                Do NOT use headings like “Form:” or “Meaning:”.
-                Explain:
-                what it means in this specific sentence
-                Keep it simple, natural and short.
+    // IMPORTANT: don't shadow res, rename the fetch response
+    const openrouterRes = await fetch('https://openrouter.ai/api/v1/chat/completions', {
+      method: 'POST',
+      headers: {
+        Authorization: `Bearer ${key}`,
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        model: 'qwen/qwen3-30b-a3b:free',
+        messages: [
+          {
+            role: 'user',
+            content: `
+              Explain the target French word in context.
+              Give 1–3 short, natural sentences in English.
+              Word: ${word}
+              Previous: ${previousCues}
+              Current: ${currCue}
+              Next: ${nextCues}
+            `,
+          },
+        ],
+      }),
+    });
 
-                Format:
-                <short explanation written in normal sentences>
+    const data = await openrouterRes.json();
 
-                Input:
-                Word: ${word}
-                Previous: ${previousCues}
-                Current: ${currCue}
-                Next: ${nextCues}
-                        `,
-                    },
-                    ],
-                }),
-                });
-    const data = await response.json();
-    res.status(200).json(data);
+    // Check if OpenRouter returned an error
+    if (data.error) {
+      return res.status(500).json({ 
+        error: data.error.message || 'OpenRouter API error',
+        code: data.error.code,
+      });
+    }
+
+    // Extract the explanation text from the response
+    const explanation = data.choices?.[0]?.message?.content || 'No explanation available';
+    
+    return res.status(200).json({ explanation });
+
   } catch (err) {
-    res.status(500).json({ error: err.message });
+    console.error("SERVER ERROR:", err);
+    return res.status(500).json({ error: err.message });
   }
 }
