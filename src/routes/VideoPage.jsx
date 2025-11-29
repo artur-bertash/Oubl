@@ -58,7 +58,7 @@ function VideoPage() {
   
   useEffect(() => {
     const handleKey = (e) => {
-      if (!currCueIndex || !videoRef.current) return;
+      if (currCueIndex === -1 || !videoRef.current) return;
       const video = videoRef.current;
       video.play()
       if (e.key === "ArrowRight") {
@@ -71,8 +71,7 @@ function VideoPage() {
 
       if (e.key === "ArrowLeft") {
         
-        const i = subs.findIndex((s) => s === currCueIndex);
-        if (i > 0) {
+        if (currCueIndex > 0) {
           video.currentTime = subs[currCueIndex - 1].start + 0.01;
         }
       }
