@@ -3,11 +3,12 @@
 .video-page {
   position: relative;
   
-  margin: 40px auto;
+  margin: 20px auto;
   border-radius: 12px;
   text-align: center;
   display: flex;
   gap: 50px;
+  align-items: flex-start;
   
 }
 
@@ -16,6 +17,7 @@
   flex-direction: column;
   width: 600px;
   flex-shrink: 0;
+  margin-top: 0;
 }
 
 .video-player {
@@ -42,3 +44,5 @@
 .next-btn:hover {
   background-color: #005fd1;
 }
+
+
