@@ -184,6 +184,10 @@ body::-webkit-scrollbar {
   margin-top: 12px;
 }
 
+.subtitle-line:nth-of-type(2) {
+  top: calc(100% + 70px);
+}
+
 .word-explanation {
   position: absolute;
   

@@ -21,7 +21,11 @@ function VideoPage() {
     { start: 10, end: 20, text: "Comment ça va ?" },
     { start: 20, end: 30, text: "Très bien, merci." },
   ])
-  
+  const [subsEnglish, setSubsEnglish] = useState([
+    { start: 0.0, end: 10, text: "Bonjour !" },
+    { start: 10, end: 20, text: "Comment ça va ?" },
+    { start: 20, end: 30, text: "Très bien, merci." },
+  ])
   const [clickedWord, setClickedWord] = useState({index: -1, 
                                                   word: ""
   })
@@ -82,9 +86,12 @@ function VideoPage() {
   async function loadSubs() {
     try {
       
-      const res = await fetch(`/subs/${videoId}.srt`)
+      const res = await fetch(`/subs_french/${videoId}.srt`)
       const text = await res.text()
       setSubs(convertSrt(text))  
+      const resEnglish = await fetch(`/subs_english/${videoId}.srt`)
+      const textEnglish = await resEnglish.text()
+      setSubsEnglish(convertSrt(textEnglish))  
       
     } catch (e) {
       console.error("Failed to load subtitles:", e)
@@ -116,6 +123,10 @@ function VideoPage() {
 
       <div >
         <Subtitles currTime={currentTime} subs={subs} clickedWord={clickedWord} setClickedWord={setClickedWord}/>
+        <Subtitles currTime={currentTime} subs={subsEnglish} clickedWord={clickedWord} setClickedWord={setClickedWord} />
+      </div>
+      <div>
+        
       </div>
       </div>
       {clickedWord.index !== -1 && (
