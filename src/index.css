@@ -25,7 +25,7 @@ a:hover {
 body {
   margin: 0;
   display: flex;
-  place-items: center;
+  place-items: start;
   min-width: 320px;
   min-height: 100vh;
   background-color: white;
@@ -168,9 +168,13 @@ body::-webkit-scrollbar {
 }
 
 
-.subtitle-line {
+.subtitle-wrapper {
   position: absolute;
   top: calc(100%);
+  
+}
+
+.subtitle-line {
   font-size: larger;
   font-weight: 600;
   padding: 12px;
@@ -182,10 +186,6 @@ body::-webkit-scrollbar {
   overflow-wrap: break-word;
   max-width: 600px;
   margin-top: 12px;
-}
-
-.subtitle-line:nth-of-type(2) {
-  top: calc(100% + 70px);
 }
 
 .word-explanation {
