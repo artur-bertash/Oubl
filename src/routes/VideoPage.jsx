@@ -121,7 +121,7 @@ function VideoPage() {
         <source src={episode.videoUrl} type="video/mp4" />
       </video>
 
-      <div >
+      <div className="subtitle-wrapper">
         <Subtitles currTime={currentTime} subs={subs} clickedWord={clickedWord} setClickedWord={setClickedWord}/>
         <Subtitles currTime={currentTime} subs={subsEnglish} clickedWord={clickedWord} setClickedWord={setClickedWord} />
       </div>
