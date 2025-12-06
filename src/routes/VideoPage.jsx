@@ -6,6 +6,9 @@ import GoBack from "../components/GoBack"
 import Subtitles from "../components/Subtitles"
 import WordExplanation from "../components/WordExplanation"
 import convertSrt from "../logic/srtToObj"
+import StatusConenction from "../components/StatusConnection"
+import sendToAnki from "../logic/sendToAnki"
+
 
 function VideoPage() {
   const { videoId } = useParams()
@@ -29,6 +32,7 @@ function VideoPage() {
   const [clickedWord, setClickedWord] = useState({index: -1, 
                                                   word: ""
   })
+  const [isAnkiConencted, setAnkiConnection] = useState(true)
 
   
   function handleTimeUpdate() {
@@ -55,6 +59,22 @@ function VideoPage() {
     setEnded(false)
   }
 
+  useEffect(() => {
+  const video = videoRef.current
+  if (!video) return
+
+
+  if (video.readyState < 2) {
+   
+    return
+  }
+
+  console.log(clickedWord)
+  
+}, [clickedWord])
+
+  
+
   
   useEffect(() => {
     const handleKey = (e) => {
@@ -77,10 +97,36 @@ function VideoPage() {
         }
       }
     }
+   
 
     window.addEventListener("keydown", handleKey)
     return () => window.removeEventListener("keydown", handleKey)
   }, [currCueIndex, subs])
+
+  useEffect(() => {
+  let interval
+  async function checkConnection() {
+    try {
+      const check = await sendToAnki("version", 5)
+
+      if (check?.error) {
+        setAnkiConnection(false)
+        console.log("Anki is discoonnected")
+      } else {
+        console.log("is COnnected")
+        setAnkiConnection(true)
+    }
+    } catch(err) {
+      console.log(err)
+      setAnkiConnection(false)
+    }
+    
+  }
+
+  checkConnection()
+  interval = setInterval(checkConnection, 5000)
+  return () => clearInterval(interval)
+}, [])
 
   useEffect(() => {
   async function loadSubs() {
@@ -132,13 +178,13 @@ function VideoPage() {
       {clickedWord.index !== -1 && (
         <WordExplanation word={clickedWord.word} previousCues={currCueIndex > 0 ? subs[currCueIndex - 1].text : ""} nextCues={currCueIndex < subs.length - 1 ? subs[currCueIndex + 1].text : ""} currCue={(currCueIndex > 0 && currCueIndex < subs.length) ? subs[currCueIndex].text : "" }/>
       )}
-
+      <StatusConenction isAnkiConencted={isAnkiConencted}/>
       {ended && (
         <button className="next-btn" onClick={goToNextEpisode}>
           Next Episode
         </button>
       )}
-
+    
     </div>
   )
 }

@@ -190,7 +190,7 @@ body::-webkit-scrollbar {
 
 .word-explanation {
   position: absolute;
-  
+  text-align: left;
   left: calc(100% + 64px);
   width: 100%;
   background-color: rgba(98, 97, 97, 0.8);
@@ -198,6 +198,16 @@ body::-webkit-scrollbar {
   padding: 16px;
   border-radius: 8px;
   max-width: 300px;
+}
+
+.buttonsAddAnki {
+  width: 100%;
+  display: flex;
+  gap: 12px;
+  margin-top: 24px;
+}
+.buttonsAddAnki > * {
+  width: 100%;
 }
 
 
