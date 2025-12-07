@@ -1,6 +1,8 @@
 import * as deepl from "deepl-node";
 
 let deeplClient = null;
+import dotenv from "dotenv";
+dotenv.config({ path: ".env.local" });
 
 function getDeepLClient() {
     if (!deeplClient) {

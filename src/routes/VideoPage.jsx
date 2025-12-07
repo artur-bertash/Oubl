@@ -33,7 +33,7 @@ function VideoPage() {
                                                   word: ""
   })
   const [isAnkiConencted, setAnkiConnection] = useState(true)
-
+  const [isPlaying, setPlaing] = useState(true)
   
   function handleTimeUpdate() {
     const video = videoRef.current
@@ -42,7 +42,8 @@ function VideoPage() {
     const t = video.currentTime
     setCurrentTime(t)
     const activeCueIndex = subs.findIndex((s) => s.start <= t && s.end > t)
-    setCurrCueIndex(activeCueIndex || -1)
+    setCurrCueIndex(activeCueIndex >= 0 ? activeCueIndex : -1)
+
   }
 
   function handleEnded() {
@@ -78,22 +79,33 @@ function VideoPage() {
   
   useEffect(() => {
     const handleKey = (e) => {
-      if (!currCueIndex || !videoRef.current) return
+     
       const video = videoRef.current
-      video.play()
+      if (e.code === "Space") {
+        console.log(typeof(e))
+        if (isPlaying) {
+          video.pause()
+          setPlaing(false)
+        } else {
+          video.play()
+          setPlaing(true)
+        }
+      }
       if (e.key === "ArrowRight") {
         
         
         if (currCueIndex < subs.length - 1) {
           video.currentTime = subs[currCueIndex + 1].start + 0.01
+          video.play()
         }
       }
 
       if (e.key === "ArrowLeft") {
         
-        const i = subs.findIndex((s) => s === currCueIndex)
-        if (i > 0) {
+       
+        if (currCueIndex > 0) {
           video.currentTime = subs[currCueIndex - 1].start + 0.01
+          video.play()
         }
       }
     }
@@ -101,7 +113,7 @@ function VideoPage() {
 
     window.addEventListener("keydown", handleKey)
     return () => window.removeEventListener("keydown", handleKey)
-  }, [currCueIndex, subs])
+  }, [currCueIndex, subs, isPlaying])
 
   useEffect(() => {
   let interval
@@ -157,7 +169,7 @@ function VideoPage() {
         key={episode.id}
         ref={videoRef}
         autoPlay
-        controls
+        controls={false}
         onTimeUpdate={handleTimeUpdate}
         onEnded={handleEnded}
         className="video-player"
