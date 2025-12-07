@@ -34,17 +34,17 @@ function WordExplanation({word, previousCues, nextCues, currCue, episode }) {
     }
 
 
-    async function addWordHandle() {
-        const translation = await getTranslation(word)
+    async function AddWordSentenceHandler(type) {
+        const translation = await getTranslation(type == "word" ? word : currCue)
         await ankiConnectInvoke("addNote", 5, {"note": {
             "deckName": "FIA",
             "modelName": "Basic", 
             "fields": {
-                "Front": `${word}`,
+                "Front": `${type == "word" ? word : currCue}`,
                 "Back": `${translation}`
             },
             "tags": [
-                "word", `${episode}`
+                `${type}`, `${episode}`
             ],
             "audio": { 
                 "url": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=猫&kana=ねこ",
@@ -56,6 +56,7 @@ function WordExplanation({word, previousCues, nextCues, currCue, episode }) {
         
         console.log(translation)
     }
+    
 
     useEffect(() => {
         async function getExplanation() {
@@ -122,8 +123,8 @@ function WordExplanation({word, previousCues, nextCues, currCue, episode }) {
                 </>
             )}
             <div className='buttonsAddAnki'>
-                <button onClick={addWordHandle}>Add Word</button>
-                <button>Add sentence</button>
+                <button onClick={() => {AddWordSentenceHandler("word")}}>Add Word</button>
+                <button onClick={() => {AddWordSentenceHandler("sentence")}}>Add sentence</button>
             </div>
             
             
