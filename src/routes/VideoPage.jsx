@@ -29,12 +29,13 @@ function VideoPage() {
     { start: 10, end: 20, text: "Comment ça va ?" },
     { start: 20, end: 30, text: "Très bien, merci." },
   ]);
-  const [clickedWord, setClickedWord] = useState({index: -1, 
-                                                  word: ""
+  const [clickedWord, setClickedWord] = useState({
+    index: -1,
+    word: ""
   })
   const [isAnkiConencted, setAnkiConnection] = useState(true)
   const [isPlaying, setPlaing] = useState(true)
-  
+
   function handleTimeUpdate() {
     const video = videoRef.current;
     if (!video) return;
@@ -61,28 +62,28 @@ function VideoPage() {
   }
 
   useEffect(() => {
-  const video = videoRef.current;
-  if (!video) return;
+    const video = videoRef.current;
+    if (!video) return;
 
 
-  if (video.readyState < 2) {
-   
-    return;
-  }
+    if (video.readyState < 2) {
 
-  console.log(clickedWord)
-  
-}, [clickedWord])
+      return;
+    }
 
-  
+    console.log(clickedWord)
 
-  
+  }, [clickedWord])
+
+
+
+
   useEffect(() => {
     const handleKey = (e) => {
-     
+
       const video = videoRef.current;
       if (e.code === "Space") {
-        console.log(typeof(e))
+        console.log(typeof (e))
         if (isPlaying) {
           video.pause()
           setPlaing(false)
@@ -92,8 +93,8 @@ function VideoPage() {
         }
       }
       if (e.key === "ArrowRight") {
-        
-        
+
+
         if (currCueIndex < subs.length - 1) {
           video.currentTime = subs[currCueIndex + 1].start + 0.01;
           video.play()
@@ -101,102 +102,111 @@ function VideoPage() {
       }
 
       if (e.key === "ArrowLeft") {
-        
-       
+
+
         if (currCueIndex > 0) {
           video.currentTime = subs[currCueIndex - 1].start + 0.01;
           video.play()
         }
       }
     };
-   
+
 
     window.addEventListener("keydown", handleKey);
     return () => window.removeEventListener("keydown", handleKey);
   }, [currCueIndex, subs, isPlaying]);
 
   useEffect(() => {
-  let interval
-  async function checkConnection() {
-    try {
-      const check = await sendToAnki("version", 5);
+    let interval
+    async function checkConnection() {
+      try {
+        const check = await sendToAnki("version", 5);
 
-      if (check?.error) {
-        setAnkiConnection(false);
-        console.log("Anki is discoonnected")
-      } else {
-        console.log("is COnnected")
-        setAnkiConnection(true);
-    }
-    } catch(err) {
-      console.log(err)
-      setAnkiConnection(false)
-    }
-    
-  }
+        if (check?.error) {
+          setAnkiConnection(false);
+          console.log("Anki is discoonnected")
+        } else {
+          console.log("is COnnected")
+          setAnkiConnection(true);
+        }
+      } catch (err) {
+        console.log(err)
+        setAnkiConnection(false)
+      }
 
-  checkConnection();
-  interval = setInterval(checkConnection, 5000)
-  return () => clearInterval(interval);
-}, []);
+    }
+
+    checkConnection();
+    interval = setInterval(checkConnection, 5000)
+    return () => clearInterval(interval);
+  }, []);
 
   useEffect(() => {
-  async function loadSubs() {
-    try {
-      
-      const res = await fetch(`/subs_french/${videoId}.srt`);
-      const text = await res.text();
-      setSubs(convertSrt(text));  
-      const resEnglish = await fetch(`/subs_english/${videoId}.srt`);
-      const textEnglish = await resEnglish.text();
-      setSubsEnglish(convertSrt(textEnglish));  
-      
-    } catch (e) {
-      console.error("Failed to load subtitles:", e);
-    }
-  }
+    async function loadSubs() {
+      try {
 
-  loadSubs();
-}, [videoId]);
+        const res = await fetch(`/subs_french/${videoId}.srt`);
+        const text = await res.text();
+        setSubs(convertSrt(text));
+        const resEnglish = await fetch(`/subs_english/${videoId}.srt`);
+        const textEnglish = await resEnglish.text();
+        setSubsEnglish(convertSrt(textEnglish));
+
+      } catch (e) {
+        console.error("Failed to load subtitles:", e);
+      }
+    }
+
+    loadSubs();
+  }, [videoId]);
 
   return (
     <div className="video-page">
       <GoBack />
       <div className="video-sub">
 
-      
-      <video
-        key={episode.id}
-        ref={videoRef}
-        autoPlay
-        controls={false}
-        onTimeUpdate={handleTimeUpdate}
-        onEnded={handleEnded}
-        className="video-player"
-        controlsList="nofullscreen nodownload noremoteplayback noplaybackrate"
-        disablePictureInPicture
-      >
-        <source src={episode.videoUrl} type="video/mp4" />
-      </video>
 
-      <div className="subtitle-wrapper">
-        <Subtitles currTime={currentTime} subs={subs} clickedWord={clickedWord} setClickedWord={setClickedWord}/>
-        <Subtitles currTime={currentTime} subs={subsEnglish} clickedWord={clickedWord} setClickedWord={setClickedWord} />
-      </div>
-      <div>
-        
-      </div>
+        <video
+          key={episode.id}
+          ref={videoRef}
+          autoPlay
+          controls={false}
+          onTimeUpdate={handleTimeUpdate}
+          onEnded={handleEnded}
+          className="video-player"
+          controlsList="nofullscreen nodownload noremoteplayback noplaybackrate"
+          disablePictureInPicture
+        >
+          <source src={episode.videoUrl} type="video/mp4" />
+        </video>
+
+        <div className="subtitle-wrapper">
+          <Subtitles currTime={currentTime} subs={subs} clickedWord={clickedWord} setClickedWord={setClickedWord} />
+          <Subtitles currTime={currentTime} subs={subsEnglish} clickedWord={clickedWord} setClickedWord={setClickedWord} />
+        </div>
+        <div>
+
+        </div>
       </div>
       {clickedWord.index !== -1 && (
-        <WordExplanation word={clickedWord.word} previousCues={currCueIndex > 0 ? subs[currCueIndex - 1].text : ""} nextCues={currCueIndex < subs.length - 1 ? subs[currCueIndex + 1].text : ""} currCue={(currCueIndex > 0 && currCueIndex < subs.length) ? subs[currCueIndex].text : "" }/>
+        <WordExplanation
+          word={clickedWord.word}
+          previousCues={currCueIndex > 0 ? subs[currCueIndex - 1].text : ""}
+          nextCues={currCueIndex < subs.length - 1 ? subs[currCueIndex + 1].text : ""}
+          currCue={(currCueIndex >= 0 && currCueIndex < subs.length) ? subs[currCueIndex].text : ""}
+          episodeId={videoId}
+          episode={episode.title}
+          timestamp={(currCueIndex >= 0 && currCueIndex < subs.length) ? subs[currCueIndex].start : currentTime}
+          duration={(currCueIndex >= 0 && currCueIndex < subs.length) ? (subs[currCueIndex].end - subs[currCueIndex].start) : 10}
+        />
       )}
-      <StatusConenction isAnkiConencted={isAnkiConencted}/>
+      <StatusConenction isAnkiConencted={isAnkiConencted} />
       {ended && (
         <button className="next-btn" onClick={goToNextEpisode}>
           Next Episode
         </button>
       )}
-    
+
     </div>
   );
 }

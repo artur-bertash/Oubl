@@ -7,1654 +7,1522 @@ Sous-titrage ST' 501
 Sous-titrage MFP.
 
 3
-00:01:00,000 --> 00:01:29,980
-Sous-titrage MFP.
+00:01:00,000 --> 00:01:07,860
+Jeudi soir, appartement des Bélots.
 
 4
-00:01:30,000 --> 00:01:35,580
-En effet, peu après, Robert débouche dans la rue de Vosgirard.
+00:01:08,160 --> 00:01:11,420
+Ça, c'est Hubert. Je reconnais son coup de sonnette.
 
 5
-00:01:50,940 --> 00:01:51,500
-52.
+00:01:13,360 --> 00:01:14,820
+Madame Bélot va ouvrir.
 
 6
-00:01:52,480 --> 00:01:53,740
-Ça doit être par là.
+00:01:17,880 --> 00:01:19,020
+Mes hommages, madame.
 
 7
-00:01:55,960 --> 00:01:57,720
-54 ?
+00:01:19,400 --> 00:01:21,020
+Hubert, quel plaisir de vous voir.
 
 8
-00:01:57,720 --> 00:01:58,860
-Non, alors c'est pas ici.
+00:01:22,640 --> 00:01:24,440
+Merci pour votre magnifique bouquet.
 
 9
-00:02:00,000 --> 00:02:11,960
-46, 28, 12
+00:01:25,380 --> 00:01:27,700
+Je vous en prie, madame, c'est la moindre des choses.
 
 10
-00:02:11,960 --> 00:02:15,240
-Mais où est-ce que c'est le 18 ?
+00:01:27,700 --> 00:01:29,240
+Je sais que vous aimez les roses.
 
 11
-00:02:15,240 --> 00:02:17,260
-Il n'y a pas de 18, ça n'existe pas
+00:01:29,240 --> 00:01:30,720
+Vraiment, vous n'auriez pas dû.
 
 12
-00:02:17,260 --> 00:02:22,580
-Ça alors, est-ce que Mireille m'aurait donné un faux numéro ?
+00:01:35,680 --> 00:01:36,240
+Monsieur.
 
 13
-00:02:22,580 --> 00:02:25,940
-Mais non, voilà, 18 c'est ici
+00:01:36,820 --> 00:01:37,400
+Bonsoir, Hubert.
 
 14
-00:02:25,940 --> 00:02:31,020
-C'est un immeuble assez ancien, à cinq étages, avec un sixième étage sous le toit.
+00:01:37,720 --> 00:01:38,180
+Bonsoir.
 
 15
-00:02:31,440 --> 00:02:36,380
-Près de la porte d'entrée, il y a un bouton et un petit écriteau qui dit « Sonnez et entrez ».
+00:01:38,740 --> 00:01:39,560
+Bonsoir, Hubert.
 
 16
-00:02:36,380 --> 00:02:39,540
-Robert appuie sur le bouton, pousse la porte et entre.
+00:01:40,220 --> 00:01:40,780
+Bonjour, toi.
 
 17
-00:02:40,180 --> 00:02:41,800
-La lumière s'éteint aussitôt.
+00:01:41,560 --> 00:01:42,480
+Bonsoir, Colette.
 
 18
-00:02:52,100 --> 00:02:55,540
-Le vestibule est sombre et sent le pipi de chat.
+00:01:44,140 --> 00:01:44,680
+Bonsoir.
 
 19
-00:02:55,940 --> 00:02:59,080
-Robert cherche une liste des locataires
+00:01:45,940 --> 00:01:46,780
+Ça va ?
 
 20
-00:02:59,080 --> 00:03:00,100
-Il n'y en a pas
+00:01:46,780 --> 00:01:48,760
+Ça va. Tu es fraîche comme une rose.
 
 21
-00:03:00,100 --> 00:03:03,520
-Il se dit qu'il aurait dû demander à Mireille à quel étage elle habitait
+00:01:49,080 --> 00:01:50,760
+Mireille présente Robert à Hubert.
 
 22
-00:03:03,520 --> 00:03:05,140
-Cela aurait été plus simple
+00:01:50,780 --> 00:01:52,340
+Robert, Hubert.
 
 23
-00:03:05,140 --> 00:03:07,820
-Sur la porte vitrée de la loge de la concierge
+00:01:54,660 --> 00:01:55,220
+Bonsoir.
 
 24
-00:03:07,820 --> 00:03:09,960
-Il y a un écriteau qui dit frappez fort
+00:01:59,240 --> 00:02:07,160
+Tout le monde à table
 
 25
-00:03:09,960 --> 00:03:11,540
-Robert frappe
+00:02:07,160 --> 00:02:09,300
+Et tout le monde se dirige vers la salle à manger
 
 26
-00:03:11,540 --> 00:03:13,200
-Aucun effet
+00:02:09,300 --> 00:02:11,520
+Voyons, monsieur Taylor à ma droite
 
 27
-00:03:13,200 --> 00:03:18,720
-Il frappe plus fort
+00:02:11,520 --> 00:02:12,980
+Hubert à ma gauche
 
 28
-00:03:18,720 --> 00:03:22,640
-Oui, qu'est-ce que c'est ?
+00:02:12,980 --> 00:02:16,000
+Colette et Mireille à côté d'Hubert
 
 29
-00:03:22,640 --> 00:03:29,820
-Bello, s'il vous plaît.
+00:02:16,000 --> 00:02:18,040
+Toi Marie-Laure à côté de papa
 
 30
-00:03:30,420 --> 00:03:32,700
-Georgette Bello, au cinquième au fond de la cour.
+00:02:18,040 --> 00:02:21,640
+Tout le monde s'installe
 
 31
-00:03:34,380 --> 00:03:36,220
-Non, monsieur et madame Bello.
+00:02:21,640 --> 00:02:23,080
+Merci Hubert
 
 32
-00:03:36,500 --> 00:03:38,880
-Ah, eux, ils habitent au quatrième droite.
+00:02:29,240 --> 00:02:32,840
+Ce cerf.
 
 33
-00:03:39,420 --> 00:03:41,420
-Prenez l'escalier en face, l'ascenseur marche pas.
+00:02:33,800 --> 00:02:35,120
+Un peu plus de foie gras, monsieur Taylor.
 
 34
-00:03:41,420 --> 00:03:51,120
-L'ascenseur est petit et paraît fragile
+00:02:35,940 --> 00:02:37,340
+Je veux bien, il est délicieux.
 
 35
-00:03:51,120 --> 00:03:55,700
-Même s'il avait marché, Robert aurait sans doute préféré monter à pied
+00:02:38,280 --> 00:02:40,240
+C'est la maman de madame Courtois qui l'ait fait elle-même.
 
 36
-00:03:55,700 --> 00:04:00,740
-Au pied de l'escalier, au rez-de-chaussée, un petit écriteau ordonne
+00:02:44,200 --> 00:02:47,140
+Marie-Laure, tiens-toi bien, s'il te plaît, ou tu vas aller dans ta chambre ?
 
 37
-00:04:00,740 --> 00:04:02,080
-« Essuyez-vous les pieds »
+00:02:47,140 --> 00:02:55,780
+Pendant le repas, Robert est un peu surpris de la façon de parler d'Hubert.
 
 38
-00:04:02,080 --> 00:04:04,820
-Robert obéit, il s'essuie les pieds
+00:02:56,400 --> 00:02:59,120
+Soyez sûr que je partage entièrement votre opinion, cher monsieur.
 
 39
-00:04:04,820 --> 00:04:13,560
-Arrivé sur le palier du quatrième, il remarque près de la porte de droite
+00:02:59,240 --> 00:03:02,980
+Il y a la bonté de me croire, chère madame.
 
 40
-00:04:13,560 --> 00:04:15,500
-Une petite carte de visite qui dit
+00:03:04,560 --> 00:03:06,260
+Veuillez avoir l'obligence de me passer le sel.
 
 41
-00:04:15,500 --> 00:04:18,240
-Monsieur François Bello, ingénieur et cap
+00:03:09,800 --> 00:03:13,640
+Cher monsieur, sachez qu'il n'y a de bon vin qu'en France.
 
 42
-00:04:18,240 --> 00:04:20,660
-Il donne un coup de sonnette discret
+00:03:14,940 --> 00:03:17,660
+Est-ce qu'il y a de bon vin du côté de Provins ?
 
 43
-00:04:20,660 --> 00:04:24,820
-Une jeune fille souriante ouvre
+00:03:17,660 --> 00:03:21,480
+Pour les grands vins, il faut aller un petit peu plus loin, jusqu'en Bourgogne.
 
 44
-00:04:24,820 --> 00:04:26,540
-Ce n'est pas Mireille
+00:03:22,140 --> 00:03:25,580
+Oui, Beaune, Alex Corton, Nuit-Saint-Georges,
 
 45
-00:04:26,540 --> 00:04:28,740
-Ah, excusez-moi, j'ai dû me tromper
+00:03:25,580 --> 00:03:28,880
+Bonne Romanée, Vougeot, Chambault-le-Musigny,
 
 46
-00:04:28,740 --> 00:04:32,000
-Je... je cherchais les Bello
+00:03:29,940 --> 00:03:31,140
+Geoffrey-Chambertin, Fixin.
 
 47
-00:04:32,000 --> 00:04:34,380
-C'est bien ici, vous ne vous êtes pas trompé
+00:03:31,600 --> 00:03:32,380
+Oui, oui, je connais très bien.
 
 48
-00:04:34,380 --> 00:04:40,920
-Vous devez être monsieur Taylor sans doute. Je suis Colette Besson, une amie de Mireille. Entrez donc.
+00:03:32,680 --> 00:03:33,980
+Excellent, excellent.
 
 49
-00:04:47,080 --> 00:04:55,960
-Dans l'entrée, Robert remarque un grand vase avec une demi-douzaine de roses qui se reflètent dans un miroir, ce qui complète heureusement la douzaine.
+00:03:36,500 --> 00:03:39,120
+Si je comprends bien, mademoiselle, vous habitez Provence ?
 
 50
-00:04:57,380 --> 00:04:59,160
-C'est l'Américain !
+00:03:39,120 --> 00:03:40,440
+Oui, mais je viens souvent à Paris.
 
 51
-00:04:59,160 --> 00:05:02,000
-Voyons Marie-Laure, vous devez être polie, qu'est-ce que c'est que ces manières ?
+00:03:40,900 --> 00:03:41,880
+Presque tous les jours, en fait.
 
 52
-00:05:02,000 --> 00:05:06,860
-C'est mon cow-boy adoré. Salut, cow-boy. Où est-ce que tu as laissé ton cheval ?
+00:03:42,900 --> 00:03:43,500
+Je comprends.
 
 53
-00:05:06,860 --> 00:05:08,420
-Je l'ai attaché dans le jardin en bas.
+00:03:44,340 --> 00:03:45,780
+La province, ça doit être un peu ennuyeux.
 
 54
-00:05:08,700 --> 00:05:11,480
-Tu as bien fait, parce qu'ici, on n'a pas de place.
+00:03:46,180 --> 00:03:47,040
+Oh non, pas du tout.
 
 55
-00:05:11,900 --> 00:05:15,920
-Et tu sais, on n'a pas trop l'habitude de recevoir des cow-boys avec des chevaux.
+00:03:47,900 --> 00:03:49,440
+Vous savez, entre Paris et la province,
 
 56
-00:05:16,700 --> 00:05:19,860
-Si vous voulez bien vous asseoir un instant au salon, je vais prévenir Mme Bello.
+00:03:49,640 --> 00:03:50,780
+moi, je crois que je préfère la province.
 
 57
-00:05:22,040 --> 00:05:26,160
-La pièce dans laquelle se trouve Robert est une assez grande salle de séjour
+00:03:51,960 --> 00:03:52,700
+J'aime bien Provence.
 
 58
-00:05:26,160 --> 00:05:31,320
-qui communique avec la salle à manger, où la table est déjà mise pour cette couvert.
+00:03:52,700 --> 00:03:56,840
+Provinces pour provinces, moi je préfère la Provence à Provins
 
 59
-00:05:32,000 --> 00:05:41,380
-Divan, quelques chaises, des fauteuils Louis XVI et second empire, un piano, au mur, deux ou trois tableaux modernes
+00:03:56,840 --> 00:03:59,600
+Ce qui est bête
 
 60
-00:05:41,380 --> 00:05:42,280
-Madame Bellou entre
+00:03:59,600 --> 00:04:01,980
+Marie-Laure, tais-toi s'il te plaît, tiens-toi bien
 
 61
-00:05:42,280 --> 00:05:44,760
-Je suis enchantée de faire votre connaissance
+00:04:01,980 --> 00:04:04,040
+Oh, si on peut même plus rire maintenant
 
 62
-00:05:44,760 --> 00:05:45,140
-Madame
+00:04:04,040 --> 00:04:06,140
+Notre villa n'est pas bien grande
 
 63
-00:05:45,140 --> 00:05:47,020
-Les courtois nous ont beaucoup parlé de vous
+00:04:06,140 --> 00:04:09,060
+Mais nous avons un petit jardin avec quelques pommiers au bout
 
 64
-00:05:47,020 --> 00:05:48,040
-Suivi de monsieur Bellou
+00:04:09,060 --> 00:04:13,460
+C'est agréable, on sent chez soi, derrière les ailes, les murs, la grille
 
 65
-00:05:48,040 --> 00:05:49,320
-Marie-Laure, très heureux de vous connaître
+00:04:13,460 --> 00:04:17,340
+C'est la campagne et pourtant je suis à Paris en une heure ou plus
 
 66
-00:05:49,320 --> 00:05:49,660
-Monsieur
+00:04:17,340 --> 00:04:21,040
+Alors, comment ça va la construction ? Les affaires marchent ?
 
 67
-00:05:49,660 --> 00:05:54,940
-Bonjour Robert, comment vas-tu ? Je vois que tu as déjà fait la connaissance de mes parents
+00:04:21,040 --> 00:04:22,160
+Ah, m'en parlez pas
 
 68
-00:05:54,940 --> 00:05:58,140
-Marie-Laure, éteins la télé s'il te plaît
+00:04:22,160 --> 00:04:26,780
+Ce sont mes oncles qui s'en occupent, mais ils ne font rien de bien fascinant.
 
 69
-00:05:58,140 --> 00:06:02,540
-C'est le bulletin météo. Et Robert, tout étonné, reconnaît le présentateur.
+00:04:28,200 --> 00:04:30,140
+On a fait pas mal de choses intéressantes.
 
 70
-00:06:02,860 --> 00:06:03,700
-Mais je le connais, ce monsieur.
+00:04:30,480 --> 00:04:39,460
+Regardez la Défense, Beaubourg, la Villette, le Palais Omnisport de Bercy, l'Opéra de la Bastille, le Grand Louvre, le Forum des Halles.
 
 71
-00:06:04,780 --> 00:06:05,140
-Vraiment ?
+00:04:40,440 --> 00:04:46,960
+Mais eux, mes oncles, ils ne font que des cages à lapins, des HLM, de logement ouvrier.
 
 72
-00:06:05,960 --> 00:06:06,600
-Pas possible.
+00:04:47,660 --> 00:04:48,120
+Vous voyez le genre.
 
 73
-00:06:06,980 --> 00:06:07,640
-Sans blague.
+00:04:49,380 --> 00:04:51,220
+Qu'est-ce que vous voulez ?
 
 74
-00:06:07,780 --> 00:06:09,840
-Tu connais Alain Gilopétré ? Depuis quand ?
+00:04:51,220 --> 00:04:52,980
+De nos jours, il n'y en a plus que pour la classe ouvrière.
 
 75
-00:06:09,840 --> 00:06:15,080
-Depuis tout à l'heure. Je l'ai rencontré dans la rue. J'étais un peu perdu. Il m'a indiqué la rue de Vaugirard.
+00:04:53,760 --> 00:04:59,620
+Les ouvriers veulent avoir le tout à l'égout, l'eau courante, le chauffage central, le gaz, l'électricité, tout le confort moderne.
 
 76
-00:06:15,420 --> 00:06:17,240
-Et il y a longtemps que vous l'avez vu ?
+00:05:00,580 --> 00:05:06,000
+Il leur faut des lave-vaisselles, des réfrigérateurs, des aspirateurs, des téléviseurs, des vies d'ordures.
 
 77
-00:06:17,240 --> 00:06:20,160
-Non, tout à l'heure. Il y a une demi-heure peut-être.
+00:05:07,200 --> 00:05:15,600
+Mais il y a seulement 100 ans, tous ces gens-là habitaient à 10 dans une pièce sans éclairage, avec l'eau à la pompe et les cabinets au fond de la cour.
 
 78
-00:06:20,480 --> 00:06:21,860
-Eh bien, il a fait vite pour aller au studio.
+00:05:15,600 --> 00:05:19,880
+Il se débrouillait très très bien sans baignoire ni bidet
 
 79
-00:06:22,060 --> 00:06:22,440
-Ah ouais ?
+00:05:19,880 --> 00:05:22,120
+Il n'était pas plus malheureux pour ça
 
 80
-00:06:22,440 --> 00:06:23,260
-Il avait l'air pressé.
+00:05:22,120 --> 00:05:25,140
+Robert ne peut s'empêcher d'intervenir
 
 81
-00:06:23,700 --> 00:06:24,780
-Et tu lui as parlé ?
+00:05:25,140 --> 00:05:27,740
+Il n'était pas plus malheureux pour ça ?
 
 82
-00:06:24,780 --> 00:06:25,120
-Oui.
+00:05:27,740 --> 00:05:28,960
+Ça c'est vous qui le dites, cher monsieur
 
 83
-00:06:25,720 --> 00:06:30,060
-Il va peut-être parler de toi, un cow-boy américain perdu dans les rues de Paris.
+00:05:28,960 --> 00:05:30,720
+Moi je n'en suis pas si sûr
 
 84
-00:06:30,980 --> 00:06:33,120
-Marie-Laure, tu es insupportable.
+00:05:30,720 --> 00:05:34,820
+J'aimerais vous voir, vous, loger à dix dans un taudis infect
 
 85
-00:06:33,880 --> 00:06:35,320
-Titoudon, il fait bien chaud ici.
+00:05:34,820 --> 00:05:37,080
+Sans votre bain quotidien ou votre douche
 
 86
-00:06:35,760 --> 00:06:38,220
-Allons un moment sur le balcon, je vous montrerai la vue.
+00:05:37,080 --> 00:05:39,840
+Sans votre téléphone, votre ascenseur ou vos domestiques
 
 87
-00:06:45,520 --> 00:06:51,320
-Une vue imprenable, comme vous voyez, avec les jardins du Luxembourg juste en face.
+00:05:39,840 --> 00:05:42,260
+Je ne suis pas sûr que vous seriez si heureux que ça
 
 88
-00:06:52,260 --> 00:06:54,160
-Là, le Sénat, naturellement.
+00:05:43,180 --> 00:05:45,540
+Sachez que la classe ouvrière a les mêmes droits au confort
 
 89
-00:06:55,120 --> 00:06:56,920
-Là-bas, à gauche, c'est le Panthéon.
+00:05:45,540 --> 00:05:47,440
+que les descendants des oppresseurs du Moyen-Âge.
 
 90
-00:06:57,820 --> 00:07:02,640
-Et sur la droite, là-bas, hélas, la tour Montparnasse.
+00:05:47,980 --> 00:05:48,920
+À propos de Moyen-Âge,
 
 91
-00:07:03,320 --> 00:07:06,240
-58 étages. Une horreur, une catastrophe.
+00:05:49,800 --> 00:05:51,680
+est-ce que vous êtes allé voir l'exposition
 
 92
-00:07:07,020 --> 00:07:08,060
-On la voit de tout Paris.
+00:05:51,680 --> 00:05:53,520
+des manuscrits carolingiens au Petit Palais?
 
 93
-00:07:08,860 --> 00:07:10,400
-Et la tour Eiffel, on ne la voit pas ?
+00:06:02,180 --> 00:06:05,240
+Aujourd'hui, nous faisons la connaissance d'Hubert.
 
 94
-00:07:10,400 --> 00:07:13,000
-Non, pas d'ici. Elle est plus à droite.
+00:06:05,660 --> 00:06:06,700
+Le voilà qui arrive.
 
 95
-00:07:13,520 --> 00:07:15,520
-On la voit des pièces qui donnent sur la cour.
+00:06:08,560 --> 00:06:10,100
+Ça, c'est Hubert.
 
 96
-00:07:18,000 --> 00:07:19,140
-Venez, monsieur Taylor.
+00:06:10,480 --> 00:06:12,100
+Je reconnais son coup de sonnette.
 
 97
-00:07:19,140 --> 00:07:40,620
-Alors, ici c'est notre chambre, là la salle de bain, mais on ne peut pas voir la tour Eiffel d'ici, on ne peut pas voir le sommet des pièces qui sont de ce côté sur la cour.
+00:06:12,260 --> 00:06:18,160
+Marie-Laure le reconnaît tout de suite, même sans le voir, rien qu'à son coup de sonnette, pas comme les autres.
 
 98
-00:07:40,620 --> 00:07:50,260
-M. Bello et Robert reviennent vers le salon
+00:06:19,220 --> 00:06:25,900
+Hubert n'est pas comme tout le monde. D'abord, il est très poli, excessivement poli même.
 
 99
-00:07:50,260 --> 00:07:51,940
-Vous avez vraiment un très bel appartement
+00:06:26,860 --> 00:06:27,600
+Mes hommages, madame.
 
 100
-00:07:51,940 --> 00:07:54,900
-En passant devant la cuisine
+00:06:28,400 --> 00:06:35,520
+Mes hommages, oh, ça fait très bien, très distingué. Mes hommages, ça va avec le baisement.
 
 101
-00:07:54,900 --> 00:07:59,180
-Eh bien, on dirait que tout le monde est à la cuisine
+00:06:37,520 --> 00:06:37,920
+Regardez.
 
 102
-00:07:59,180 --> 00:08:01,820
-Nous aimons bien cet appartement
+00:06:38,000 --> 00:06:38,760
+On s'en va déjà ?
 
 103
-00:08:01,820 --> 00:08:05,400
-Nous habitions déjà ici quand Mireille est née
+00:06:38,760 --> 00:06:39,520
+Oui, c'est réglé, c'est réglé.
 
 104
-00:08:05,400 --> 00:08:12,580
-Il est très bien situé en plein midi, et il y a beaucoup de soleil.
+00:06:39,520 --> 00:06:41,440
+Permettez, je vais présenter mes hommages à madame.
 
 105
-00:08:13,820 --> 00:08:16,380
-Excusez-moi une minute, je vais préparer les apéritifs.
+00:06:42,260 --> 00:06:44,420
+Mes hommages, madame.
 
 106
-00:08:16,980 --> 00:08:19,120
-Robert et Mireille sont un instant seuls sur le balcon.
+00:06:44,820 --> 00:06:46,400
+Hubert, quel plaisir de vous voir.
 
 107
-00:08:19,180 --> 00:08:20,580
-C'est vrai que vous avez une vue magnifique.
+00:06:48,160 --> 00:06:49,840
+Merci pour votre magnifique bouquet.
 
 108
-00:08:20,980 --> 00:08:21,180
-Oui.
+00:06:50,800 --> 00:06:53,080
+Mais je vous en prie, madame, c'est la moindre des choses.
 
 109
-00:08:22,440 --> 00:08:27,720
-Dis donc, je voulais te dire, mes parents ont invité un copain à moi, Hubert de Pinochambra.
+00:06:53,280 --> 00:06:54,620
+Je sais que vous aimez les roses.
 
 110
-00:08:28,320 --> 00:08:31,540
-C'est un ami d'enfance, et il vient d'une famille très aristocratique.
+00:06:54,760 --> 00:06:56,100
+Mais vraiment, vous n'auriez pas dû.
 
 111
-00:08:32,180 --> 00:08:38,460
-Et il est toujours en train de parler de sa famille, de ses ancêtres, de leur chasse, de leurs chevaux, de leur château.
+00:06:57,340 --> 00:06:59,900
+Mais je vous en prie, madame, c'est la moindre des choses.
 
 112
-00:08:39,100 --> 00:08:41,320
-La famille possède une grosse entreprise de construction.
+00:07:00,600 --> 00:07:03,060
+Mais je vous en prie, madame, c'est la moindre des choses.
 
 113
-00:08:41,960 --> 00:08:44,000
-Mais il ne faut pas trop le prendre au sérieux parce qu'en fait, il joue.
+00:07:03,240 --> 00:07:04,620
+Je sais que vous aimez les roses.
 
 114
-00:08:44,560 --> 00:08:47,900
-Et il joue remarquablement bien son rôle de grand aristocrate.
+00:07:04,620 --> 00:07:07,940
+Ah, il a de très bonnes manières, cet Hubert.
 
 115
-00:08:48,740 --> 00:08:49,920
-C'est un drôle de type, tu verras.
+00:07:08,460 --> 00:07:10,720
+C'est très important, les bonnes manières.
 
 116
-00:08:50,240 --> 00:08:51,100
-Il est très amusant.
+00:07:10,720 --> 00:07:14,560
+Madame Belleau tient beaucoup aux bonnes manières
 
 117
-00:08:51,780 --> 00:08:52,600
-Enfin, moi, il m'amuse.
+00:07:14,560 --> 00:07:18,740
+Marie-Laure n'a pas toujours de très bonnes manières
 
 118
-00:08:53,040 --> 00:08:54,180
-Il m'amuse énormément.
+00:07:18,740 --> 00:07:20,180
+Tenez, vous vous rappelez ?
 
 119
-00:08:56,740 --> 00:08:57,900
-Tiens, ça doit être lui.
+00:07:20,180 --> 00:07:21,900
+C'est l'américain !
 
 120
-00:09:01,540 --> 00:09:07,620
-Vous avez peut-être remarqué que Robert se perd souvent
+00:07:21,900 --> 00:07:24,500
+Voyons, Marie-Laure, veux-tu être polie ? Qu'est-ce que c'est que ces manières ?
 
 121
-00:09:07,620 --> 00:09:10,340
-Alors il est obligé de demander son chemin
+00:07:24,500 --> 00:07:26,540
+Elle ne se tient pas toujours très bien à table
 
 122
-00:09:10,340 --> 00:09:15,880
-Par exemple, quand il allait chez les Courtois, il s'est retrouvé à la Défense
+00:07:26,540 --> 00:07:29,780
+Marie-Laure, tiens-toi bien, s'il te plaît, ou tu vas aller dans ta chambre ?
 
 123
-00:09:15,880 --> 00:09:19,320
-Mademoiselle, s'il vous plaît, la tour Totem
+00:07:29,780 --> 00:07:33,320
+Regardez, elle ne se tient pas bien, elle se tient mal
 
 124
-00:09:19,320 --> 00:09:23,560
-Je ne connais pas, ici vous êtes à la Défense, ce n'est pas par ici, je ne crois pas
+00:07:33,320 --> 00:07:35,400
+Marie-Laure, tiens-toi bien
 
 125
-00:09:23,560 --> 00:09:28,160
-Il reprend le métro et un quart d'heure plus tard, il se retrouve à Montmartre
+00:07:35,400 --> 00:07:40,280
+Elle n'est pas polie
 
 126
-00:09:28,160 --> 00:09:34,540
-« Excusez-moi, le quai de Grenelle, s'il vous plaît. La tour Totem, c'est par ici. »
+00:07:40,280 --> 00:07:42,680
+Ce qu'il est bête !
 
 127
-00:09:34,540 --> 00:09:37,320
-« Le quai de Grenelle, mais c'est dans le 15e. Ici, vous êtes à Montmartre. »
+00:07:42,680 --> 00:07:44,540
+Marie-Laure, tais-toi, s'il te plaît. Tiens-toi bien.
 
 128
-00:09:37,320 --> 00:09:41,660
-Ici, il veut aller à Provins et il demande où est Fontainebleau.
+00:07:45,220 --> 00:07:45,660
+Tais-toi.
 
 129
-00:09:42,280 --> 00:09:44,760
-« Pour aller à Fontainebleau, c'est par là. »
+00:07:46,820 --> 00:07:47,380
+Taisez-vous.
 
 130
-00:09:44,760 --> 00:09:47,460
-« Oui, remontez le boulevard Raspail, là devant vous. »
+00:07:48,140 --> 00:07:48,980
+Arrêtez de parler.
 
 131
-00:09:47,460 --> 00:09:50,500
-Et trois heures après, il se retrouve en pleine Bourgogne.
+00:07:50,380 --> 00:07:53,380
+Il y a des circonstances dans lesquelles il ne faut pas parler.
 
 132
-00:09:51,180 --> 00:09:53,840
-« Pardon, monsieur, Paris, c'est bien par là. »
+00:07:53,640 --> 00:07:55,060
+Il faut se taire.
 
 133
-00:09:53,840 --> 00:09:57,380
-Aujourd'hui, il doit aller chez les Bélots. Il s'est encore perdu.
+00:07:55,560 --> 00:07:56,660
+Au cinéma, par exemple.
 
 134
-00:09:58,160 --> 00:10:00,280
-Ne le suivez pas, il est perdu.
+00:07:57,000 --> 00:07:59,440
+Parce que ça dérange les autres. Observez.
 
 135
-00:10:01,140 --> 00:10:04,540
-Il rencontre un monsieur et il lui demande son chemin.
+00:07:59,980 --> 00:08:01,020
+Je te ferai un petit dessin.
 
 136
-00:10:04,840 --> 00:10:06,900
-Pardon monsieur, excusez-moi, je suis un peu perdu.
+00:08:01,780 --> 00:08:02,540
+Mais tais-toi, maintenant.
 
 137
-00:10:07,700 --> 00:10:09,220
-La rue de Vougira, s'il vous plaît.
+00:08:03,240 --> 00:08:04,260
+Chut !
 
 138
-00:10:09,440 --> 00:10:11,740
-C'est par ici, c'était le côté. C'est par là ?
+00:08:04,260 --> 00:08:05,780
+Ils vont pas bientôt se taire, ces deux-là.
 
 139
-00:10:11,740 --> 00:10:14,560
-Non, c'est par là, c'est pas loin, vous y êtes presque.
+00:08:06,780 --> 00:08:08,240
+Parce qu'il y a des gens mal élevés, quand même.
 
 140
-00:10:15,240 --> 00:10:19,700
-Quelques minutes plus tard, chez les Bélots, il voit ce monsieur à la télévision.
+00:08:09,340 --> 00:08:10,260
+Chut !
 
 141
-00:10:20,360 --> 00:10:26,280
-Donc 17 degrés à Perpignan, on est 4, 5 degrés au-dessus d'énormes saisonnières, on ne comprend plus rien.
+00:08:10,280 --> 00:08:12,560
+Taisez-vous. Écoutez.
 
 142
-00:10:26,280 --> 00:10:27,240
-Mais je le connaisse monsieur.
+00:08:13,140 --> 00:08:16,000
+Chut, chut, taisez-vous. Écoutez.
 
 143
-00:10:28,160 --> 00:10:28,880
-Vraiment ?
+00:08:18,260 --> 00:08:19,360
+Taisez-vous un peu.
 
 144
-00:10:28,880 --> 00:10:32,720
-C'est Alain-Gillot Pétret qui fait le bulletin météorologique.
+00:08:20,500 --> 00:08:27,980
+Marie-Laure est quelquefois mal élevée, mais Hubert, lui, est très bien élevé, très poli, très distingué.
 
 145
-00:10:33,300 --> 00:10:35,460
-Quelle coïncidence !
+00:08:28,760 --> 00:08:35,320
+Il parle bien, très bien, d'une façon un peu prétentieuse, maniérée, affectée.
 
 146
-00:10:35,460 --> 00:10:40,000
-C'est que Robert a fini par arriver chez les Bélots, mais il a eu du mal.
+00:08:35,760 --> 00:08:39,520
+Par exemple, il ne dit pas d'accord ou je suis d'accord.
 
 147
-00:10:41,000 --> 00:10:47,120
-Il a fini par trouver la rue de Vaugirard, mais il ne trouvait pas le numéro 18.
+00:08:39,520 --> 00:08:45,420
+Non, il dit, soyez sûr que je partage entièrement votre opinion.
 
 148
-00:10:48,320 --> 00:10:50,820
-Enfin, il a fini par le trouver.
+00:08:46,080 --> 00:08:48,840
+Soyez sûr que je partage entièrement votre opinion, cher monsieur.
 
 149
-00:10:50,820 --> 00:10:58,280
-C'est un immeuble de la fin du XIXe siècle avec cinq ou six étages.
+00:08:49,380 --> 00:08:54,480
+Soyez sûr, soyez, c'est l'impératif du verbe être.
 
 150
-00:10:59,780 --> 00:11:04,120
-C'est cet immeuble-là au numéro 2. Deuxième étage porte à gauche.
+00:08:56,260 --> 00:09:04,280
+Ou bien encore, il ne dit pas tout simplement, croyez-moi, mais ayez la bonté de me croire, chère madame.
 
 151
-00:11:04,980 --> 00:11:14,040
-Au centre de Paris, la plupart des immeubles ont cinq ou six étages, sauf la tour Montparnasse qui a 58 étages.
+00:09:04,880 --> 00:09:08,380
+Soyez assez bonne, assez aimable pour me croire.
 
 152
-00:11:14,040 --> 00:11:24,260
-Le rez-de-chaussée, le premier étage, le deuxième étage, le troisième étage
+00:09:08,380 --> 00:09:11,040
+Ayez la bonté de me croire
 
 153
-00:11:24,260 --> 00:11:29,460
-Le quatrième étage, le cinquième étage, sous le toit
+00:09:11,040 --> 00:09:13,860
+Ayez la bonté de me croire, chère madame ?
 
 154
-00:11:29,460 --> 00:11:32,120
-Les toits, des toits
+00:09:13,860 --> 00:09:17,220
+Ayez, c'est l'impératif du verbe avoir
 
 155
-00:11:32,120 --> 00:11:35,120
-Les toits de Paris
+00:09:17,220 --> 00:09:19,000
+N'ayez pas peur, mademoiselle
 
 156
-00:11:35,120 --> 00:11:39,140
-Donc Robert finit par trouver la maison des Bélots
+00:09:19,000 --> 00:09:23,260
+Il ne dit pas non plus
 
 157
-00:11:39,140 --> 00:11:47,080
-Il y a une grande porte, il sonne, il appuie sur le bouton et pousse la porte.
+00:09:23,260 --> 00:09:25,640
+Vous pouvez me passer le sel ?
 
 158
-00:11:48,020 --> 00:11:50,340
-Au moment où il entre, la lumière s'éteint.
+00:09:25,640 --> 00:09:30,940
+Mais veuillez avoir l'obligence de me passer le sel, mademoiselle
 
 159
-00:11:50,820 --> 00:11:52,980
-Elle éteint, elle allume.
+00:09:30,940 --> 00:09:34,500
+Veuillez avoir l'obligence
 
 160
-00:11:56,140 --> 00:12:00,160
-Les lumières s'allument, les lumières s'éteignent.
+00:09:34,500 --> 00:09:38,240
+Veuillez avoir la bonté de me passer le sel
 
 161
-00:12:01,040 --> 00:12:04,760
-Ici, les phares sont allumés et ici, ils sont éteints.
+00:09:39,080 --> 00:09:41,360
+Veuillez avoir l'obligence de me passer le sel, mademoiselle.
 
 162
-00:12:04,760 --> 00:12:10,140
-On peut aussi allumer ou éteindre un feu, une cigarette, la télé.
+00:09:42,060 --> 00:09:45,200
+Veuillez, c'est l'impératif du verbe vouloir.
 
 163
-00:12:10,940 --> 00:12:12,580
-Éteignez votre cigarette, mon vieux.
+00:09:46,500 --> 00:09:51,200
+Il dit encore, sachez qu'il n'y a de bon vin qu'en France.
 
 164
-00:12:14,800 --> 00:12:16,780
-Marie-Laure, éteins la télé, s'il te plaît.
+00:09:51,640 --> 00:09:53,880
+Sachez qu'il n'y a de bon vin qu'en France.
 
 165
-00:12:17,320 --> 00:12:17,800
-Éteins.
+00:09:54,740 --> 00:09:58,760
+Sachez, c'est l'impératif du verbe savoir.
 
 166
-00:12:18,780 --> 00:12:19,620
-Éteins !
+00:10:00,560 --> 00:10:04,660
+Sachez, il faut savoir qu'il n'y a de bon vin qu'en France.
 
 167
-00:12:19,620 --> 00:12:20,760
-Éteins !
+00:10:05,100 --> 00:10:07,060
+Hubert est un peu chauvin.
 
 168
-00:12:22,280 --> 00:12:23,660
-Éteins partout.
+00:10:07,060 --> 00:10:11,100
+Ils pensent que tout est mieux en France, en particulier les vins.
 
 169
-00:12:24,560 --> 00:12:25,700
-Et ici, on allume.
+00:10:11,720 --> 00:10:16,240
+En France, il y a de bons vins. Dans les autres pays, il n'y a pas de bons vins.
 
 170
-00:12:25,960 --> 00:12:26,360
-Tu peux allumer.
+00:10:17,580 --> 00:10:19,100
+Est-ce qu'il y a de bons vins en Espagne ?
 
 171
-00:12:30,440 --> 00:12:32,000
-Non, arrête, ça me gêne.
-
-172
-00:12:33,400 --> 00:12:34,240
-Il éteint.
-
-173
-00:12:34,760 --> 00:12:40,140
-Il allume.
-
-174
-00:12:40,600 --> 00:12:42,300
-Arrête, je te dis que ça me gêne.
-
-175
-00:12:43,000 --> 00:12:43,500
-Il éteint.
-
-176
-00:12:44,740 --> 00:12:45,340
-Il rallume.
-
-177
-00:12:45,920 --> 00:12:48,920
-Robert ne sait pas à quel étage Mireille habite.
-
-178
-00:12:49,420 --> 00:12:51,880
-Alors il cherche la concierge pour le lui demander.
-
-179
-00:12:52,540 --> 00:12:53,000
-Il frappe.
-
-180
-00:12:54,700 --> 00:12:55,520
-Aucun effet.
-
-181
-00:12:56,080 --> 00:12:57,840
-Personne ne vient, personne ne répond.
-
-182
-00:12:58,520 --> 00:12:59,440
-Il frappe plus fort.
-
-183
-00:13:04,760 --> 00:13:07,440
-Oui, qu'est-ce que c'est ?
-
-184
-00:13:07,440 --> 00:13:08,000
-Entrez.
-
-185
-00:13:12,180 --> 00:13:13,280
-Bello, s'il vous plaît.
-
-186
-00:13:13,900 --> 00:13:16,200
-Georgette Bello, au cinquième au fond de la cour.
-
-187
-00:13:17,080 --> 00:13:19,280
-Au cinquième au fond de la cour.
-
-188
-00:13:19,800 --> 00:13:22,340
-Au cinquième, elle veut dire au cinquième étage.
-
-189
-00:13:22,880 --> 00:13:24,180
-C'est au premier les chambres, monsieur ?
-
-190
-00:13:24,180 --> 00:13:24,700
-Eh bien...
-
-191
-00:13:24,700 --> 00:13:25,680
-Vous pouvez y aller, papa ?
-
-192
-00:13:25,680 --> 00:13:26,580
+00:10:19,100 --> 00:10:19,740
 Oui !
 
+172
+00:10:19,740 --> 00:10:23,060
+Hubert dit non. Il n'y a de bons vins qu'en France.
+
+173
+00:10:23,420 --> 00:10:25,680
+Est-ce qu'il y a de bons vins en Norvège ? Non.
+
+174
+00:10:26,300 --> 00:10:28,680
+Est-ce qu'il y a de bons vins en Allemagne ? Non.
+
+175
+00:10:29,100 --> 00:10:31,780
+Est-ce qu'il y a de bons vins en Angleterre ? Non.
+
+176
+00:10:31,780 --> 00:10:36,940
+Non, non, non, non, il n'y a de bons vins qu'en France.
+
+177
+00:10:37,060 --> 00:10:40,420
+En France seulement, pas ailleurs qu'en France.
+
+178
+00:10:41,760 --> 00:10:45,820
+Robert essaie de faire la conversation avec Colette.
+
+179
+00:10:46,220 --> 00:10:48,660
+Si je comprends bien, mademoiselle, vous habitez Provence ?
+
+180
+00:10:48,660 --> 00:10:51,420
+Oui, mais je viens souvent à Paris. Presque tous les jours, en fait.
+
+181
+00:10:52,440 --> 00:10:55,320
+Je comprends. La province, ça doit être un peu ennuyeux.
+
+182
+00:10:55,700 --> 00:11:00,340
+Oh non, pas du tout. Vous savez, entre Paris et la province, moi je crois que je préfère la province.
+
+183
+00:11:00,680 --> 00:11:03,600
+Il faut savoir que la France est divisée en deux parties.
+
+184
+00:11:04,440 --> 00:11:06,040
+Paris et la province.
+
+185
+00:11:07,060 --> 00:11:23,420
+Toulouse, c'est la province. Lyon, c'est la province. Bordeaux, c'est la province. Brest, c'est la province. Marseille, c'est la province. Paris, c'est Paris. Mais province, c'est la province.
+
+186
+00:11:23,420 --> 00:11:33,920
+On dit quelquefois que Paris, c'est plus animé, plus intéressant, et que la province, c'est un peu ennuyeux, un peu mort.
+
+187
+00:11:35,260 --> 00:11:43,400
+Mais il y a beaucoup de gens qui préfèrent la province, parce que c'est plus calme, plus paisible, plus pittoresque.
+
+188
+00:11:44,240 --> 00:11:46,220
+Colette, par exemple, préfère la province.
+
+189
+00:11:46,280 --> 00:11:50,440
+Vous savez, entre Paris et la province, moi, je crois que je préfère la province. J'aime bien province.
+
+190
+00:11:51,360 --> 00:11:54,640
+Province pour province, moi je préfère la Provence à Provins.
+
+191
+00:11:55,520 --> 00:11:57,020
+Ce qui est bête.
+
+192
+00:11:57,420 --> 00:11:59,920
+Marie-Laure rit parce qu'elle a compris.
+
 193
-00:13:26,580 --> 00:13:28,960
-Au premier, ça veut dire au premier étage.
+00:12:00,280 --> 00:12:02,160
+Elle a compris le jeu de mots d'Hubert.
 
 194
-00:13:29,480 --> 00:13:31,180
-Alors, c'est à quel étage ?
+00:12:03,000 --> 00:12:04,220
+Elle n'est pas bête cette petite.
 
 195
-00:13:31,180 --> 00:13:32,240
-En haut, au dernier.
+00:12:05,760 --> 00:12:10,060
+Voyons, Colette aime bien Provins et la province.
 
 196
-00:13:33,300 --> 00:13:34,380
-Bello, s'il vous plaît.
+00:12:11,360 --> 00:12:12,980
+Provins, c'est en province.
 
 197
-00:13:34,760 --> 00:13:37,220
-Georgette Bello, au cinquième, au fond de la cour.
+00:12:12,980 --> 00:12:16,800
+Bon, mais il y a beaucoup de provinces.
 
 198
-00:13:38,180 --> 00:13:41,640
-Elle habite au cinquième étage, au fond de la cour.
+00:12:17,460 --> 00:12:19,400
+L'Alsace, c'est une province.
 
 199
-00:13:42,440 --> 00:13:45,120
-Votre bureau, c'est pas au fond de la cour ?
+00:12:19,400 --> 00:12:30,980
+La Bourgogne, c'est une province. La Normandie, c'est une province. L'Aquitaine, c'est une province. Et la Provence, c'est aussi une province.
 
 200
-00:13:45,120 --> 00:13:48,280
-La cour ? Voilà une cour.
+00:12:32,760 --> 00:12:39,320
+S'il faut choisir entre Provins et la Provence, Hubert choisit la Provence.
 
 201
-00:13:49,660 --> 00:13:50,680
-Une vieille cour.
+00:12:40,260 --> 00:12:46,900
+Remarquez que Provins, ce n'est pas mal. C'est une assez jolie petite ville, c'est assez pittoresque.
 
 202
-00:13:51,620 --> 00:13:52,660
-Une cour de ferme.
+00:12:46,900 --> 00:12:52,260
+Il y a des monuments très anciens comme cette tour qui date de l'époque romaine
 
 203
-00:13:53,780 --> 00:13:54,780
-Une cour d'école.
+00:12:52,260 --> 00:12:55,760
+C'est une ville de province assez jolie
 
 204
-00:13:55,780 --> 00:13:56,280
-Une cour.
+00:12:55,760 --> 00:13:01,920
+Donc province c'est la province mais c'est une province assez agréable
 
 205
-00:13:57,500 --> 00:14:01,800
-Très souvent, à Paris, les immeubles ont une cour intérieure.
+00:13:01,920 --> 00:13:06,900
+Mais évidemment la province ce n'est pas mal non plus
 
 206
-00:14:01,800 --> 00:14:07,960
-Il y a des appartements sur la rue et il y a des appartements sur la cour
+00:13:06,900 --> 00:13:12,180
+Il y a du soleil, des oliviers, il y a des fontaines
 
 207
-00:14:07,960 --> 00:14:13,180
-Un appartement sur la rue, un appartement sur la cour
+00:13:12,180 --> 00:13:41,380
+Il y a de petits villages pittoresques, des villages perchés avec de vieilles maisons, les beaux de Provence, il y a de vieilles églises, des clochers, des places avec des platanes, des gens qui jouent aux boules, des fleurs, la mer.
 
 208
-00:14:13,180 --> 00:14:18,520
-L'appartement des Bélots n'est pas sur la cour, il est sur la rue
+00:13:42,180 --> 00:13:47,640
+Hubert préfère la Provence, mais Colette préfère Provins.
 
 209
-00:14:18,520 --> 00:14:24,720
-Au quatrième étage, il faut prendre l'escalier
+00:13:49,040 --> 00:13:51,780
+C'est tout près de Paris, mais c'est la campagne.
 
 210
-00:14:24,720 --> 00:14:27,520
-L'escalier, vous vous rappelez ?
+00:13:54,200 --> 00:13:56,960
+La ville, la campagne.
 
 211
-00:14:28,860 --> 00:14:31,520
-Il y a un ascenseur, mais il est en panne
+00:13:57,760 --> 00:13:59,820
+La ville, la campagne.
 
 212
-00:14:31,800 --> 00:14:35,800
-Là, il y a un ascenseur et il n'est pas en panne.
+00:14:01,080 --> 00:14:03,380
+La ville, la campagne.
 
 213
-00:14:39,580 --> 00:14:41,960
-Voilà un ascenseur, un ascenseur moderne.
+00:14:04,100 --> 00:14:06,260
+La ville, la campagne.
 
 214
-00:14:43,160 --> 00:14:45,520
-L'ascenseur, chez les vélos, est plus ancien.
+00:14:06,260 --> 00:14:25,320
+À Provins, Colette habite dans une villa, une maison avec un jardin autour. Voilà une petite villa. Voilà des villas. Il y a un jardin avec des fleurs, des légumes et des pommiers.
 
 215
-00:14:45,740 --> 00:14:48,820
-Et ce jour-là, il ne marche pas. Il est en panne.
+00:14:25,320 --> 00:14:31,300
+Des pommiers au bout du jardin, au fond du jardin.
 
 216
-00:14:49,320 --> 00:14:50,840
-Ici, l'ascenseur tombe en panne.
+00:14:31,300 --> 00:14:40,360
+On se sent chez soi parce que le jardin est fermé par des haies, des grilles, des murs.
 
 217
-00:14:51,180 --> 00:14:52,920
-Mais qu'est-ce que c'est, monsieur ?
+00:14:41,480 --> 00:14:51,680
+Une grille, une grille, une grille, un mur, un mur, un mur et une grille.
 
 218
-00:14:52,920 --> 00:14:55,840
-Je ne sais pas. C'est une panne.
+00:14:51,680 --> 00:14:56,200
+Une haie, des haies
 
 219
-00:14:57,060 --> 00:14:58,940
-Mesdames, messieurs, ne vous affolez pas.
+00:14:56,200 --> 00:14:59,540
+C'est la campagne et pourtant je suis à Paris en une heure au plus
 
 220
-00:14:59,000 --> 00:15:00,960
-Ce n'est rien, un petit incident. Nous allons vous faire descendre.
+00:14:59,540 --> 00:15:04,300
+En une heure, elle met une heure pour aller à Paris
 
 221
-00:15:01,400 --> 00:15:03,100
-Mais c'est scandaleux !
+00:15:04,300 --> 00:15:06,900
+Regardez Marie-Laure ici
 
 222
-00:15:03,100 --> 00:15:06,420
-À partir d'un certain prix des chambres, les ascenseurs ne doivent pas tomber en panne.
+00:15:06,900 --> 00:15:09,960
+Elle a fait ce dessin en cinq minutes
 
 223
-00:15:06,980 --> 00:15:09,880
-Écoutez le petit échange entre Robert et la concierge.
+00:15:09,960 --> 00:15:13,320
+Elle a mis cinq minutes pour faire ce dessin
 
 224
-00:15:10,180 --> 00:15:14,500
-Ensuite, vous répondrez à Robert comme si vous étiez la concierge.
+00:15:13,320 --> 00:15:14,440
+Oh, c'est très bien
 
 225
-00:15:14,980 --> 00:15:16,060
-Bello, s'il vous plaît.
+00:15:14,440 --> 00:15:16,640
+Tu as mis longtemps pour faire ça ?
 
 226
-00:15:16,560 --> 00:15:18,740
-Georgette Bello ?
+00:15:16,640 --> 00:15:18,780
+Oh, je fais ça en cinq minutes
 
 227
-00:15:18,740 --> 00:15:20,000
-Au cinquième au fond de la cour.
+00:15:18,780 --> 00:15:25,500
+Maintenant, écoutez bien la conversation entre Robert et Colette
 
 228
-00:15:20,460 --> 00:15:22,500
-Non, monsieur et madame Bello.
+00:15:25,500 --> 00:15:30,280
+Ensuite, vous répondrez à Robert comme si vous étiez Colette
 
 229
-00:15:22,880 --> 00:15:25,280
-Ah, eux, ils habitent au quatrième droite.
+00:15:30,280 --> 00:15:33,120
+Si je comprends bien, mademoiselle, vous habitez Provence ?
 
 230
-00:15:25,920 --> 00:15:27,180
-Il y a un ascenseur ?
+00:15:33,120 --> 00:15:36,640
+Oui, mais je viens souvent à Paris, presque tous les jours en fait
 
 231
-00:15:27,180 --> 00:15:29,780
-Non, prenez l'escalier en face, l'ascenseur ne marche pas.
+00:15:36,640 --> 00:15:39,920
+Je comprends, la province, ça doit être un peu ennuyeux
 
 232
-00:15:30,180 --> 00:15:32,400
-Maintenant, à vous. Vous êtes la concierge.
+00:15:39,920 --> 00:15:41,460
+Oh non, pas du tout
 
 233
-00:15:33,200 --> 00:15:34,240
-Bello, s'il vous plaît.
+00:15:41,460 --> 00:15:45,200
+Vous savez, entre Paris et la province, moi je crois que je préfère la province
 
 234
-00:15:34,740 --> 00:15:36,940
-Georgette Bello ?
+00:15:45,200 --> 00:15:48,720
+Maintenant, essayez de répondre comme si vous étiez Colette
 
 235
-00:15:36,940 --> 00:15:38,160
-Au cinquième au fond de la cour.
+00:15:48,720 --> 00:15:51,380
+Si je comprends bien, mademoiselle, vous habitez Provence ?
 
 236
-00:15:38,380 --> 00:15:40,540
-Georgette Bello ?
+00:15:51,380 --> 00:15:53,240
+Oui, mais je viens souvent à Paris
 
 237
-00:15:40,540 --> 00:15:41,840
-Au cinquième au fond de la cour.
+00:15:53,240 --> 00:15:55,760
+Oui, mais je viens souvent à Paris
 
 238
-00:15:46,280 --> 00:15:48,540
-Georgette Bello ?
+00:15:55,760 --> 00:16:01,580
+Oui, mais je viens souvent à Paris
 
 239
-00:15:48,540 --> 00:15:49,840
-Au cinquième au fond de la cour.
+00:16:01,580 --> 00:16:03,260
+Presque tous les jours, en fait
 
 240
-00:15:50,320 --> 00:15:52,340
-Non, monsieur et madame Bello.
+00:16:03,260 --> 00:16:04,920
+Presque tous les jours, en fait
 
 241
-00:15:52,720 --> 00:15:55,100
-Ah, eux, ils habitent au quatrième droite.
+00:16:04,920 --> 00:16:09,980
+Presque tous les jours, en fait
 
 242
-00:15:55,100 --> 00:15:57,920
-Ah, eux, ils habitent au quatrième droite.
+00:16:09,980 --> 00:16:11,120
+Je comprends
 
 243
-00:15:59,780 --> 00:16:04,520
-Ah, eux, ils habitent aux quatrièmes droites.
+00:16:11,120 --> 00:16:13,180
+La province, ça doit être un peu ennuyeux
 
 244
-00:16:05,160 --> 00:16:06,400
-Il y a un ascenseur ?
+00:16:13,180 --> 00:16:14,780
+Oh non, pas du tout
 
 245
-00:16:06,400 --> 00:16:08,980
-Non, prenez l'escalier en face, l'ascenseur ne marche pas.
+00:16:14,780 --> 00:16:16,760
+Oh non, pas du tout
 
 246
-00:16:09,400 --> 00:16:11,980
-Non, prenez l'escalier en face, l'ascenseur ne marche pas.
+00:16:18,720 --> 00:16:21,360
+Oh non, pas du tout.
 
 247
-00:16:15,500 --> 00:16:18,340
-Non, prenez l'escalier en face, l'ascenseur ne marche pas.
+00:16:22,260 --> 00:16:25,100
+Vous savez, entre Paris et la province, moi je crois que je préfère la province.
 
 248
-00:16:19,080 --> 00:16:20,900
-Robert va monter par l'escalier.
+00:16:25,580 --> 00:16:28,440
+Vous savez, entre Paris et la province, moi je crois que je préfère la province.
 
 249
-00:16:22,160 --> 00:16:23,520
-Essuyez-vous les pieds.
+00:16:34,600 --> 00:16:37,680
+Vous savez, entre Paris et la province, moi je crois que je préfère la province.
 
 250
-00:16:24,640 --> 00:16:27,340
-Robert, docile, s'essuie les pieds.
+00:16:38,380 --> 00:16:41,940
+Monsieur Belleau amène la conversation sur la construction.
 
 251
-00:16:27,340 --> 00:16:40,400
-Il s'essuie les pieds. Il s'essuie le front. Elle s'essuie les mains. Et lui, il essuie un chapeau. C'est le verbe essuyer.
+00:16:42,540 --> 00:16:44,440
+Alors, comment ça va la construction ?
 
 252
-00:16:40,400 --> 00:16:45,660
-Maintenant, Robert est dans l'entrée
+00:16:44,440 --> 00:16:48,200
+On fait des choses intéressantes en matière de construction.
 
 253
-00:16:45,660 --> 00:16:48,580
-Cette dame est dans l'entrée
+00:16:48,720 --> 00:16:57,000
+Beaubourg, le Forum des Halles, la Défense, Marne-la-Vallée.
 
 254
-00:16:48,580 --> 00:16:54,460
-Dans l'entrée, il y a un vase avec une demi-douzaine de roses
+00:16:58,760 --> 00:17:01,960
+Beaubourg, l'Opéra de la Bastille, c'est très bien.
 
 255
-00:16:54,460 --> 00:16:56,240
-C'est-à-dire six roses
+00:17:02,660 --> 00:17:05,000
+Le Forum, c'est moins joli comme architecture.
 
 256
-00:16:56,240 --> 00:16:59,520
-Derrière le vase, il y a un miroir
+00:17:06,660 --> 00:17:09,240
+Et le Palais Omnisport de Bercy ?
 
 257
-00:16:59,520 --> 00:17:01,840
-Un miroir
+00:17:09,240 --> 00:17:09,880
+C'est très joli.
 
 258
-00:17:01,840 --> 00:17:03,740
-Un miroir
+00:17:10,480 --> 00:17:12,840
+L'architecture ne me déplaît pas.
 
 259
-00:17:03,740 --> 00:17:08,100
-Les six roses se reflètent dans le miroir
+00:17:12,840 --> 00:17:17,840
+Mais l'entreprise de construction Pinochambre ne fait rien d'intéressant.
 
 260
-00:17:08,100 --> 00:17:10,340
-Ce qui fait une douzaine de roses
+00:17:17,840 --> 00:17:25,880
+rien d'intéressant regardez marie laure elle éteint la télé parce qu'il n'y a rien d'intéressant
 
 261
-00:17:10,340 --> 00:17:15,320
-Six roses dans le vase et six roses dans le miroir, douze roses.
+00:17:25,880 --> 00:17:36,260
+qu'est ce que c'est bof rien d'intéressant l'entreprise de construction pinot chambrun
 
 262
-00:17:16,520 --> 00:17:20,680
-Les roses se reflètent dans le miroir, c'est le verbe se refléter.
+00:17:36,260 --> 00:17:47,360
+ne fait que des hlm des habitations à loyer modéré des logements bon marché des logements
 
 263
-00:17:22,420 --> 00:17:25,580
-Ici, les maisons d'en face se reflètent dans les fenêtres.
+00:17:47,360 --> 00:17:55,560
+pour les ouvriers. Les ouvriers, les gens qui travaillent de leurs mains. Les HLM, ces logements
 
 264
-00:17:27,080 --> 00:17:29,360
-Voilà des gens qui se reflètent dans des vitrines.
+00:17:55,560 --> 00:18:02,700
+ouvriers, ce n'est pas intéressant au point de vue architecture. Ce sont des cages à lapins. Ça
 
 265
-00:17:30,000 --> 00:17:31,920
-Les arbres se reflètent dans l'eau.
+00:18:02,700 --> 00:18:11,740
+ressemble à des cages à lapins, des cages à poules. Ce n'est pas très beau. Mais il y a le confort
 
 266
-00:17:32,920 --> 00:17:36,540
-Ici, ce sont des flamants roses qui se reflètent dans l'eau.
+00:18:11,740 --> 00:18:25,980
+Il y a l'électricité, le tout-à-l'égout, l'eau courante, le chauffage central.
 
 267
-00:17:36,880 --> 00:17:39,320
-Ici, c'est un château qui se reflète dans l'eau.
+00:18:28,420 --> 00:18:32,140
+Autrefois, les ouvriers n'avaient aucun confort.
 
 268
-00:17:40,340 --> 00:17:43,140
-Ici, les tours se reflètent dans l'eau.
+00:18:32,820 --> 00:18:37,440
+Ils vivaient dans des taudis sans éclairage, sans électricité.
 
 269
-00:17:44,020 --> 00:17:47,240
-Ici, les bateaux et les maisons se reflètent dans l'eau.
+00:18:37,440 --> 00:18:56,000
+Il s'éclairait avec des lampes à pétrole. Il n'avait pas l'eau courante. Il fallait aller chercher l'eau à la pompe. Il n'avait pas de toilette dans la maison. Il fallait sortir. Les cabinets étaient dans la cour, au fond de la cour.
 
 270
-00:17:47,680 --> 00:17:50,120
-Ici, c'est l'abbaye de Brantôme qui se reflète dans l'eau.
+00:18:56,000 --> 00:19:00,880
+Au fond, au bout. Vous vous rappelez ?
 
 271
-00:17:51,120 --> 00:17:52,700
-Ce sont des réflexions.
+00:19:00,880 --> 00:19:03,620
+Les mineurs travaillent au fond de la mine.
 
 272
-00:17:53,300 --> 00:17:54,600
-C'est mon cow-boy adoré.
+00:19:04,560 --> 00:19:08,180
+Les sous-marins circulent au fond de la mer.
 
 273
-00:17:54,840 --> 00:17:56,620
-Les Français adorent les cow-boys.
+00:19:09,380 --> 00:19:12,680
+Il y a un peu de vin au fond du verre.
 
 274
-00:17:57,000 --> 00:18:01,700
-Le Kiluk, l'homme qui tire plus vite que son ombre, est un héros très sympathique.
+00:19:13,740 --> 00:19:16,260
+Il y a des villages au fond de la vallée.
 
 275
-00:18:04,120 --> 00:18:06,760
-Remarquez que les Français aiment aussi beaucoup les Indiens.
+00:19:17,240 --> 00:19:19,680
+Voilà un village au fond de la vallée.
 
 276
-00:18:06,760 --> 00:18:21,360
-Bon, maintenant, visitons l'appartement. Nous avons déjà vu l'entrée. Voilà maintenant la salle de séjour. C'est une salle de séjour plutôt qu'un salon. Voilà un salon.
+00:19:21,240 --> 00:19:23,360
+Le garçon est au fond de la salle.
 
 277
-00:18:21,360 --> 00:18:26,960
-Dans la salle de séjour des Bélots, il y a un divan et des fauteuils.
+00:19:23,360 --> 00:19:28,100
+L'escalier est au fond de la cour. Écoutez.
 
 278
-00:18:27,340 --> 00:18:30,640
-Un divan, un divan et des fauteuils.
+00:19:28,560 --> 00:19:32,060
+Édouard, la petite porte au fond à gauche. Dépêche-toi.
 
 279
-00:18:31,260 --> 00:18:38,020
-Des fauteuils Second Empire, un fauteuil Louis XVI, un fauteuil chez la tante de Marcel Proust.
+00:19:37,900 --> 00:19:40,380
+Autrefois, les ouvriers n'avaient aucun confort.
 
 280
-00:18:38,500 --> 00:18:45,420
-Une chaise, des chaises de jardin, des chaises de café, des chaises d'église.
+00:19:41,120 --> 00:19:47,240
+Mais aujourd'hui, il leur faut des machines à laver, des lave-vaisselles,
 
 281
-00:18:46,480 --> 00:18:48,840
-Voilà quelqu'un qui répare les chaises.
+00:19:47,240 --> 00:20:06,580
+des réfrigérateurs, des aspirateurs, des téléviseurs, des vides-ordures, des systèmes pour vider les ordures, des lavabos, des bidets, des douches, des baignoires pour prendre des bains.
 
 282
-00:18:48,840 --> 00:18:50,900
-Lui aussi, il répare les chaises.
+00:20:06,580 --> 00:20:10,380
+Il leur faut tout ça
 
 283
-00:18:51,360 --> 00:18:59,960
-Il y a un piano, un piano, un piano, par terre, une moquette.
+00:20:10,380 --> 00:20:13,220
+Il leur faut tout le confort moderne
 
 284
-00:19:01,600 --> 00:19:03,620
-Sur le mur, quelques tableaux.
+00:20:13,220 --> 00:20:16,260
+Ils veulent tout le confort moderne
 
 285
-00:19:04,700 --> 00:19:05,440
-Un tableau.
+00:20:16,260 --> 00:20:18,660
+Il l'exige, il le leur faut
 
 286
-00:19:08,080 --> 00:19:11,420
-La salle de séjour communique avec la salle à manger.
+00:20:18,660 --> 00:20:20,420
+Observez Myriam ici
 
 287
-00:19:11,860 --> 00:19:13,620
-Il n'y a pas de porte entre les deux pièces.
+00:20:20,420 --> 00:20:22,400
+Elle est très exigeante
 
 288
-00:19:14,180 --> 00:19:15,580
-C'est presque la même pièce.
+00:20:22,400 --> 00:20:24,860
+Il lui faut tout un tas de choses
 
 289
-00:19:16,260 --> 00:19:19,540
-La salle de séjour s'ouvre directement sur la salle à manger.
+00:20:24,860 --> 00:20:26,480
+Il lui faut un livre
 
 290
-00:19:21,360 --> 00:19:26,220
-Dans la salle à manger, la table est mise pour sept couverts.
+00:20:26,480 --> 00:20:27,980
+Il lui faut une feuille de papier
 
 291
-00:19:27,420 --> 00:19:28,200
-Un couvert.
+00:20:27,980 --> 00:20:29,760
+Il lui faut un crayon
 
 292
-00:19:29,140 --> 00:19:31,740
-Bonjour, monsieur. Un couvert, s'il vous plaît.
+00:20:29,760 --> 00:20:31,160
+Tiens, tu peux me passer ce livre-là?
 
 293
-00:19:32,020 --> 00:19:32,840
-S'il vous plaît.
+00:20:36,580 --> 00:20:38,580
+Donne-moi cette feuille-là.
 
 294
-00:19:33,900 --> 00:19:37,220
-Ici, la table est mise pour sept couverts.
+00:20:46,580 --> 00:20:49,580
+Il me faut un crayon. Tu veux pas me chercher un crayon ?
 
 295
-00:19:37,960 --> 00:19:38,920
-Ils vont être sept.
+00:20:52,580 --> 00:20:55,580
+Qu'est-ce qu'il te faut encore ? Il te faut autre chose ?
 
 296
-00:19:39,780 --> 00:19:42,120
-Voyons, monsieur et madame Belleau, ça fait deux.
+00:20:56,580 --> 00:20:58,580
+Hubert n'est pas vraiment sérieux.
 
 297
-00:19:42,660 --> 00:19:44,920
-Mireille, ça fait trois. Colette, ça fait quatre.
+00:20:58,580 --> 00:21:03,580
+Il joue un rôle. Il joue le rôle de l'aristocrate réactionnaire.
 
 298
-00:19:45,280 --> 00:19:47,460
-Marie-Laure, ça fait cinq. Et Robert, ça fait six.
+00:21:04,580 --> 00:21:09,540
+Autrefois, les ouvriers n'avaient aucun confort, mais ils y vivaient très bien sans confort.
 
 299
-00:19:48,380 --> 00:19:49,240
-Qui est le septième?
+00:21:10,140 --> 00:21:12,520
+Ils n'étaient pas plus malheureux pour ça.
 
 300
-00:19:49,240 --> 00:19:51,940
-Mystère et boule de gomme
+00:21:12,820 --> 00:21:15,480
+Ils se débrouillaient très très bien sans baignoire ni bidet.
 
 301
-00:19:51,940 --> 00:19:54,920
-Il y a trois chambres à coucher dans l'appartement des vélos
+00:21:16,320 --> 00:21:17,700
+Ils n'étaient pas plus malheureux pour ça.
 
 302
-00:19:54,920 --> 00:19:59,320
-La chambre des parents, la chambre de Mireille et la chambre de Marie-Laure
+00:21:18,220 --> 00:21:22,220
+Ils n'avaient pas tout le confort moderne, mais ils n'étaient pas malheureux.
 
 303
-00:19:59,320 --> 00:20:01,520
-Il y a aussi une salle de bain
+00:21:23,180 --> 00:21:24,660
+Observez ce que dit M. Bellou ici.
 
 304
-00:20:01,520 --> 00:20:04,580
-Il y a aussi une cuisine
+00:21:25,440 --> 00:21:31,060
+Nous ne sommes pas riches, nous n'avons qu'une voiture, mais nous ne sommes pas plus malheureux pour ça.
 
 305
-00:20:04,580 --> 00:20:06,580
-Voilà la cuisine des courtois
+00:21:31,060 --> 00:21:33,580
+J'aimerais bien qu'on soit riche comme tonton Guillaume.
 
 306
-00:20:06,580 --> 00:20:10,020
-La cuisine de Tante Georgette
+00:21:34,000 --> 00:21:35,120
+Bof, mais pourquoi ça?
 
 307
-00:20:10,020 --> 00:20:12,820
-La cuisine de la maison de vacances
+00:21:35,440 --> 00:21:37,840
+Parce qu'il a deux voitures et nous on n'en a qu'une.
 
 308
-00:20:12,820 --> 00:20:16,180
-Et voilà la cuisine de la tante de Marcel Proust à Illiers
+00:21:38,260 --> 00:21:39,900
+Mais j'en ai pas plus malheureux pour ça, si?
 
 309
-00:20:16,180 --> 00:20:24,800
-Une salle de séjour, une salle à manger, trois chambres à coucher, une salle de bain et une cuisine
+00:21:41,600 --> 00:21:43,380
+Robert est scandalisé.
 
 310
-00:20:24,800 --> 00:20:27,660
-Au total, ça fait sept pièces
+00:21:43,980 --> 00:21:46,280
+Il a envie d'intervenir, d'arrêter Hubert.
 
 311
-00:20:27,660 --> 00:20:31,440
-Sept pièces en comptant la cuisine et la salle de bain
+00:21:47,720 --> 00:21:50,100
+Et il finit par intervenir.
 
 312
-00:20:31,440 --> 00:20:35,920
-Mais sans compter l'entrée et le couloir qui ne sont pas vraiment des pièces
+00:21:50,460 --> 00:21:53,220
+Il ne peut pas s'empêcher d'intervenir.
 
 313
-00:20:35,920 --> 00:20:38,140
-Et à quel étage habitez-vous ?
+00:21:53,960 --> 00:21:55,120
+Regardez la jeune fille ici.
 
 314
-00:20:38,140 --> 00:20:38,780
-Au cinquième
+00:21:55,580 --> 00:21:58,180
+Elle veut empêcher le jeune homme d'intervenir.
 
 315
-00:20:38,780 --> 00:20:43,640
-Qu'est-ce qu'il y a comme pièce dans votre appartement ?
+00:21:58,180 --> 00:22:02,680
+Robert ne peut pas s'empêcher d'intervenir
 
 316
-00:20:43,640 --> 00:20:47,960
-C'est un studio. Il y a une pièce principale et deux petites chambres.
+00:22:02,680 --> 00:22:06,820
+Regardez Marie-Laure, elle a envie de se gratter
 
 317
-00:20:49,980 --> 00:20:50,940
-Il y a une cuisine?
+00:22:06,820 --> 00:22:09,820
+Elle ne peut pas s'empêcher de se gratter
 
 318
-00:20:51,420 --> 00:20:52,680
-Oui, toute petite.
+00:22:09,820 --> 00:22:11,340
+Arrête de te gratter
 
 319
-00:20:53,760 --> 00:20:54,260
-Autre chose?
+00:22:11,340 --> 00:22:13,500
+Je ne peux pas m'en empêcher
 
 320
-00:20:54,680 --> 00:20:55,660
-Une petite salle de bain.
+00:22:13,500 --> 00:22:19,180
+Robert ne peut pas s'empêcher d'intervenir
 
 321
-00:20:56,340 --> 00:20:57,540
-Combien de pièces avez-vous?
+00:22:19,180 --> 00:22:20,920
+Alors, il intervient
 
 322
-00:20:57,700 --> 00:20:58,680
-Il y a quatre pièces.
+00:22:20,920 --> 00:22:23,320
+Il n'était pas plus malheureux pour ça ?
 
 323
-00:20:59,400 --> 00:21:00,500
-Quelles sont ces pièces?
+00:22:23,320 --> 00:22:24,560
+Ça c'est vous qui le dites, cher monsieur
 
 324
-00:21:01,840 --> 00:21:09,800
-La salle de séjour, deux chambres, et puis le débarras, la salle de bain, les WC et tout.
+00:22:24,560 --> 00:22:26,340
+Moi je n'en suis pas si sûr
 
 325
-00:21:10,160 --> 00:21:11,200
-Vous n'avez pas de cuisine?
+00:22:26,340 --> 00:22:35,440
+J'aimerais vous voir, vous, loger à dix dans un taudis infect, sans votre bain quotidien ou votre douche, sans votre téléphone, votre ascenseur ou vos domestiques.
 
 326
-00:21:11,200 --> 00:21:17,280
-oui oui la cuisine aussi oui une grande cuisine la salle de séjour et la salle à manger des
+00:22:36,040 --> 00:22:37,800
+Je ne suis pas sûr que vous seriez si heureux que ça.
 
 327
-00:21:17,280 --> 00:21:28,240
-vélos donne sur la rue il y a un balcon des balcons un balcon un balcon de ce balcon on
+00:22:38,760 --> 00:22:43,060
+Sachez que la classe ouvrière a les mêmes droits au confort que les descendants des oppresseurs du Moyen-Âge.
 
 328
-00:21:28,240 --> 00:21:35,260
-a une très jolie vue on a la vue sur les jardins du luxembourg allons un moment sur le balcon je
+00:22:44,060 --> 00:22:49,160
+Robert accuse Hubert d'être un descendant des oppresseurs du Moyen-Âge.
 
 329
-00:21:35,260 --> 00:21:39,640
-vous montrerai la vue c'est très important la vue tout le monde veut avoir une vue
+00:22:49,160 --> 00:22:57,960
+Les oppresseurs du Moyen-Âge, ce sont les grands seigneurs qui avaient tous les droits et qui oppressaient les pauvres gens.
 
 330
-00:21:41,200 --> 00:21:44,420
-La vue !
+00:22:59,980 --> 00:23:03,300
+Dans une démocratie moderne, tout le monde a les mêmes droits.
 
 331
-00:21:44,420 --> 00:21:58,540
-Une vue sur les Pyrénées, une vue sur la vallée et le lac, une vue sur la vallée, une vue sur les Calanques.
+00:23:04,480 --> 00:23:08,080
+Les ouvriers ont les mêmes droits qu'Hubert depuis nos chambres.
 
 332
-00:21:59,160 --> 00:22:01,620
-De chez les Courtois, on a une vue sur Paris.
+00:23:10,560 --> 00:23:13,860
+Madame Bello détourne habilement la conversation.
 
 333
-00:22:02,140 --> 00:22:09,380
-Du balcon des Belleaux, on voit le Sénat et le Luxembourg, le Panthéon et la Tour Montparnasse.
+00:23:13,860 --> 00:23:21,280
+À propos de Moyen-Âge, est-ce que vous êtes allé voir l'exposition des manuscrits carolingiens au Petit Palais ?
 
 334
-00:22:10,020 --> 00:22:13,580
-Mais on ne voit pas la tour Eiffel parce qu'elle est de l'autre côté.
+00:23:21,280 --> 00:23:24,280
+Voilà le Petit Palais où on fait des expositions.
 
 335
-00:22:14,080 --> 00:22:18,760
-Mais on aperçoit le sommet de la tour Eiffel, des fenêtres qui donnent sur la cour.
+00:23:25,140 --> 00:23:32,040
+Et voilà des manuscrits carolingiens, c'est-à-dire de l'époque de Charlemagne, vers le 8e siècle.
 
 336
-00:22:21,060 --> 00:22:24,640
-De ces fenêtres, on voit aussi les tours de Saint-Sulpice.
+00:23:34,420 --> 00:23:37,080
+Bon, maintenant, voyons ce que nous pouvons dire.
 
 337
-00:22:25,380 --> 00:22:26,900
-Voyons, faisons le tour des tours.
+00:23:37,600 --> 00:23:41,960
+Écoutez, regardez, réfléchissez et parlez.
 
 338
-00:22:27,640 --> 00:22:31,240
-Les tours de Notre-Dame, les tours de la cathédrale de Chartres,
+00:23:41,960 --> 00:23:49,460
+Bon, d'abord, vous êtes un homme, un monsieur très distingué, très poli.
 
 339
-00:22:31,240 --> 00:22:35,720
-les tours de Carcassonne, une tour du château de Chinon,
+00:23:50,040 --> 00:23:57,960
+Vous rencontrez une dame, vous lui baisez la main, et qu'est-ce que vous dites ?
 
 340
-00:22:36,780 --> 00:22:39,080
-les tours d'un château de la fin du Moyen-Âge.
+00:23:57,960 --> 00:23:59,380
+Vous dites...
 
 341
-00:22:39,380 --> 00:22:42,740
-Les tours d'Aigues-Mortes, la tour Eiffel,
+00:23:59,380 --> 00:24:00,160
+Mes hommages, madame.
 
 342
-00:22:47,360 --> 00:22:51,020
-les tours de la Défense, la tour Montparnasse.
+00:24:00,900 --> 00:24:01,820
+Voilà, c'est très bien.
 
 343
-00:22:51,900 --> 00:22:53,440
-Une horreur, une catastrophe.
+00:24:02,260 --> 00:24:07,560
+Maintenant, Hubert, ce charmant garçon, vous a donné un magnifique bouquet de roses.
 
 344
-00:22:54,000 --> 00:22:56,500
-Monsieur Belleau n'aime pas la tour Montparnasse.
+00:24:08,420 --> 00:24:10,240
+Vous le remerciez. Qu'est-ce que vous dites ?
 
 345
-00:22:57,120 --> 00:22:58,420
-Elle ne lui plaît pas.
+00:24:10,240 --> 00:24:12,240
+Vous dites...
 
 346
-00:22:58,780 --> 00:23:02,080
-Il dit une horreur, parce qu'il n'aime pas ça.
+00:24:12,240 --> 00:24:14,020
+Merci pour votre magnifique bouquet.
 
 347
-00:23:02,600 --> 00:23:02,880
-Écoutez.
+00:24:15,080 --> 00:24:15,720
+Encore une fois.
 
 348
-00:23:03,680 --> 00:23:04,800
-Je sers le thé, madame.
+00:24:18,440 --> 00:24:20,140
+Merci pour votre magnifique bouquet.
 
 349
-00:23:05,120 --> 00:23:06,540
-Le thé, quelle horreur.
+00:24:21,000 --> 00:24:25,720
+Maintenant, vous êtes Hubert. Qu'est-ce que vous répondez ?
 
 350
-00:23:06,540 --> 00:23:08,420
-C'est le scotch aujourd'hui.
+00:24:25,720 --> 00:24:28,380
+Je vous en prie, madame, c'est la moindre des choses.
 
 351
-00:23:08,420 --> 00:23:12,780
-A part la tour Montparnasse, qui est une catastrophe, une horreur,
+00:24:29,320 --> 00:24:30,140
+Encore une fois.
 
 352
-00:23:13,480 --> 00:23:15,740
-M. Belleau est très fier de sa vue.
+00:24:33,820 --> 00:24:36,440
+Je vous en prie, madame, c'est la moindre des choses.
 
 353
-00:23:17,180 --> 00:23:19,480
-Nous aimons bien cet appartement à cause de la vue.
+00:24:36,440 --> 00:24:41,440
+« Maintenant, votre fille, elle est bien gentille, mais elle est un peu mal élevée.
 
 354
-00:23:19,960 --> 00:23:22,400
-Une vue imprenable à cause du jardin du Luxembourg.
+00:24:41,880 --> 00:24:50,340
+Votre fille, donc, part la table et elle ne se tient pas bien. Qu'est-ce que vous dites ? Vous dites ? »
 
 355
-00:23:23,180 --> 00:23:24,080
-Ça appartient à l'État.
+00:24:50,340 --> 00:24:52,980
+« Tais-toi, s'il te plaît, tiens-toi bien. »
 
 356
-00:23:24,880 --> 00:23:28,180
-Personne ne pourra jamais construire devant chez nous et nous prendre notre vue.
+00:24:52,980 --> 00:24:56,940
+« Encore une fois. »
 
 357
-00:23:29,540 --> 00:23:31,260
-Une vue imprenable.
+00:24:56,940 --> 00:24:59,060
+« Tais-toi, s'il te plaît, tiens-toi bien. »
 
 358
-00:23:32,360 --> 00:23:36,340
-Mireille explique à Robert qui va être la septième personne au dîner.
+00:24:59,060 --> 00:25:05,440
+« D'après Hubert, qui est un peu chauvin, vous savez, est-ce qu'il y a de bon vin partout ? »
 
 359
-00:23:36,340 --> 00:23:37,840
-C'est Hubert.
+00:25:05,440 --> 00:25:07,920
+Non, il n'y a de bon vin qu'en France.
 
 360
-00:23:38,420 --> 00:23:43,720
-Dis donc, je voulais te dire, mes parents ont invité un copain à moi, Hubert de Pinot-Chambrin.
+00:25:09,480 --> 00:25:12,040
+Aujourd'hui, M. Courtois est absent.
 
 361
-00:23:44,300 --> 00:23:47,520
-C'est un ami d'enfance et il vient d'une famille très aristocratique.
+00:25:12,460 --> 00:25:15,540
+Il n'est pas à Paris et il n'est pas à l'étranger.
 
 362
-00:23:48,160 --> 00:23:51,560
-Et tu verras, il est toujours en train de parler de sa famille, ses ancêtres.
+00:25:16,700 --> 00:25:18,800
+Où est-il ?
 
 363
-00:23:51,560 --> 00:24:06,160
-Sa famille possède tout un tas de châteaux, de chasses, avec des chiens, des chevaux, tout ça.
+00:25:18,800 --> 00:25:20,900
+Il est en province.
 
 364
-00:24:08,420 --> 00:24:15,260
-La famille possède une grosse entreprise de construction.
+00:25:23,840 --> 00:25:27,700
+Ça, c'est la ville ou la campagne ?
 
 365
-00:24:18,760 --> 00:24:20,220
-C'est un drôle de type, tu verras.
+00:25:27,700 --> 00:25:29,300
+C'est la campagne.
 
 366
-00:24:20,580 --> 00:24:23,300
-Il n'est pas comme tout le monde et il est amusant.
+00:25:30,300 --> 00:25:32,240
+Où est-ce que Colette habite ?
 
 367
-00:24:24,700 --> 00:24:25,720
-C'est un drôle de type.
+00:25:32,240 --> 00:25:34,300
+Dans un appartement ou dans une villa ?
 
 368
-00:24:26,740 --> 00:24:28,620
-Regardez, vous allez voir un drôle de lapin.
+00:25:35,440 --> 00:25:36,640
+Dans une villa.
 
 369
-00:24:29,740 --> 00:24:31,500
-Qu'est-ce que c'est ?
+00:25:37,680 --> 00:25:42,060
+Ça, d'après vous, c'est un ouvrier ou un oppresseur du Moyen-Âge?
 
 370
-00:24:31,500 --> 00:24:32,360
-C'est un lapin.
+00:25:43,800 --> 00:25:44,920
+Un ouvrier.
 
 371
-00:24:33,100 --> 00:24:34,160
-C'est un drôle de lapin.
+00:25:44,920 --> 00:25:49,220
+C'est un lavabo ou un vide-ordure?
 
 372
-00:24:34,500 --> 00:24:36,480
-Qu'est-ce qu'il a de drôle, mon lapin ?
+00:25:50,760 --> 00:25:51,700
+Un lavabo.
 
 373
-00:24:36,480 --> 00:24:38,360
-Voyons maintenant ce que vous pouvez dire.
+00:25:53,480 --> 00:25:59,680
+Chez les bélots, vous croyez qu'il faut aller chercher l'eau à la pompe ou qu'ils ont l'eau courante?
 
 374
-00:24:38,420 --> 00:24:42,420
-Regardez, écoutez, réfléchissez et parlez.
+00:26:01,960 --> 00:26:03,440
+Ils ont l'eau courante.
 
 375
-00:24:45,420 --> 00:24:47,420
-Vous voulez aller rue de Vaugirard.
+00:26:05,440 --> 00:26:33,180
+Mais bien sûr que nous avons l'eau courante, nous avons l'eau courante, nous avons le gaz, l'électricité, nous avons le chauffage central, une salle de bain avec une baignoire, une douche, un réfrigérateur, un téléviseur, un aspirateur, un lave-vaisselle, un vide-ordure, et voilà, on va pouvoir être un peu tranquille.
 
 376
-00:24:47,420 --> 00:24:49,420
-Vous êtes un peu perdu.
+00:26:35,440 --> 00:27:05,420
+Sous-titrage MFP.
 
 377
-00:24:49,420 --> 00:24:52,420
-Vous arrêtez un passant. Qu'est-ce que vous lui dites ?
-
-378
-00:24:55,420 --> 00:24:58,420
-Pardon, monsieur. Excusez-moi, je suis un peu perdu.
-
-379
-00:24:58,420 --> 00:25:00,420
-La rue de Vaugirard, s'il vous plaît.
-
-380
-00:25:01,420 --> 00:25:05,420
-D'après vous, ça, c'est le rez-de-chaussée ou le sixième étage ?
-
-381
-00:25:05,420 --> 00:25:08,700
-Le sixième étage.
-
-382
-00:25:09,680 --> 00:25:12,240
-Regardez-là. Les phares sont éteints ou allumés?
-
-383
-00:25:15,640 --> 00:25:16,320
-Éteints.
-
-384
-00:25:17,040 --> 00:25:19,580
-Et ici, la lumière est allumée ou éteinte?
-
-385
-00:25:21,680 --> 00:25:22,360
-Allumée.
-
-386
-00:25:23,180 --> 00:25:26,400
-Regardez bien. Ça, c'est une rue ou une cour?
-
-387
-00:25:29,460 --> 00:25:30,720
-Une cour.
-
-388
-00:25:30,720 --> 00:25:33,220
-Et ça, c'est un escalier ou un ascenseur?
-
-389
-00:25:35,420 --> 00:25:37,420
-Un escalier.
-
-390
-00:25:38,420 --> 00:25:41,420
-Qu'est-ce que c'est ça ? C'est une chaise ou un fauteuil ?
-
-391
-00:25:43,420 --> 00:25:44,420
-Un fauteuil.
-
-392
-00:25:44,420 --> 00:25:47,420
-C'est une salle à manger ou une chambre à coucher ?
-
-393
-00:25:49,420 --> 00:25:50,420
-Une salle à manger.
-
-394
-00:25:51,420 --> 00:25:53,420
-Vous avez un très bel appartement.
-
-395
-00:25:53,420 --> 00:25:58,420
-Oui, nous l'aimons beaucoup. Il est très bien situé, il y a beaucoup de soleil.
-
-396
-00:25:58,420 --> 00:26:02,660
-Il est très bien situé, il y a ses pièces,
-
-397
-00:26:02,660 --> 00:26:04,480
-on compte dans la cuisine et la salle de bain,
-
-398
-00:26:04,780 --> 00:26:09,100
-il y a beaucoup de soleil, les toilettes sont de style Louis XVI.
-
-399
-00:26:09,480 --> 00:26:12,080
-Gna gna gna gna gna gna gna gna.
-
-400
-00:26:12,540 --> 00:26:15,640
-Oh, il m'agace, ces deux-là.
-
-401
-00:26:16,120 --> 00:26:18,720
-J'en ai assez, je vais dormir.
-
-402
-00:26:19,500 --> 00:26:22,340
-J'en ai assez, je me couche.
-
-403
-00:26:23,680 --> 00:26:25,740
-Mais qu'est-ce que c'est que ça, monsieur Guignol?
-
-404
-00:26:26,220 --> 00:26:27,280
-Qu'est-ce que vous faites?
-
-405
-00:26:27,280 --> 00:26:29,280
-Je me couche.
-
-406
-00:26:30,280 --> 00:26:33,280
-Mais ce n'est pas une chambre à coucher, c'est une salle à manger.
-
-407
-00:26:33,280 --> 00:26:38,280
-Tant pis, mademoiselle Mireille, je suis fatigué, je me couche.
-
-408
-00:26:38,280 --> 00:26:41,280
-Oh, il est insupportable ce monsieur Guignol.
-
-409
-00:26:41,280 --> 00:26:46,280
-Oh, se coucher dans ma salle à manger, non, non, vraiment, écoutez, oh non.
-
-410
-00:26:46,280 --> 00:26:49,280
-Tenez, venez sur le balcon, je vous montrerai la vue.
-
-411
-00:26:49,280 --> 00:26:51,280
-Une vue imprenable.
-
-412
-00:26:57,280 --> 00:27:27,260
-Sous-titrage ST' 501
-
-413
-00:27:27,280 --> 00:27:52,280
+00:27:05,440 --> 00:27:34,440
 ...
 
-414
-00:27:57,280 --> 00:28:00,780
-Annenberg Media
+378
+00:27:34,440 --> 00:28:04,420
+Sous-titrage ST' 501
 
-415
-00:28:27,280 --> 00:28:57,260
-Sous-titrage Société Radio-Canada
+379
+00:28:04,440 --> 00:28:08,480
+la culture et la communication, le Commissariat général à la langue française,
+
+380
+00:28:08,860 --> 00:28:12,900
+le Jesse B. Cox Charitable Trust and the National Endowment for the Humanities.
+
+381
+00:28:15,320 --> 00:28:19,460
+Pour information about this and other Annenberg Media programs,
+
+382
+00:28:19,460 --> 00:28:25,520
+call 1-800-LEARNER and visit us at www.learner.org.
 

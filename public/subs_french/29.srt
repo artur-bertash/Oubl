@@ -3,1594 +3,1694 @@
 Sous-titrage ST' 501
 
 2
-00:00:30,000 --> 00:00:31,440
+00:00:30,000 --> 00:00:31,460
 Watch and get involved.
 
 3
-00:00:32,200 --> 00:00:34,020
+00:00:32,180 --> 00:00:34,000
 Pretty soon you will figure out what's going on
 
 4
-00:00:34,020 --> 00:00:37,300
+00:00:34,000 --> 00:00:37,280
 and be able to say a few things in French yourself.
 
 5
-00:00:40,180 --> 00:00:43,500
-Returning to Paris, Robert and Mireille get seats on a crowded train,
+00:00:40,440 --> 00:00:42,180
+Robert is determined to find Mireille.
 
 6
-00:00:44,020 --> 00:00:47,240
-unaware that they are sharing the compartment with a mysterious man in black.
+00:00:42,460 --> 00:00:44,600
+He rents a car and gets directions to Provence.
 
 7
-00:00:47,900 --> 00:00:49,840
-Tonight, Mireille must visit a friend in Saint-Germain.
+00:00:45,100 --> 00:00:46,740
+But he turns to follow a sports car
 
 8
-00:00:50,220 --> 00:00:51,340
-Tomorrow, one in Provence.
+00:00:46,740 --> 00:00:48,580
+driven by a young woman who might be Mireille.
 
 9
-00:00:51,880 --> 00:00:54,880
-Robert, ever jealous, spends hours trying to find her.
+00:00:49,160 --> 00:00:50,760
+By the time he realizes his mistake,
 
 10
-00:01:00,000 --> 00:01:29,980
-Sous-titrage ST' 501
+00:00:50,880 --> 00:00:52,600
+he is 300 kilometers off course,
 
 11
-00:01:30,000 --> 00:01:55,760
-Dans le train de Chartres, au retour, Robert n'est pas de très bonne humeur.
+00:00:52,800 --> 00:00:54,500
+lost in the wine country of Burgundy.
 
 12
-00:01:55,760 --> 00:01:58,400
-Il y a beaucoup de monde dans ton train. Regarde-moi ça.
+00:01:00,000 --> 00:01:29,980
+Sous-titrage Société Radio-Canada
 
 13
-00:01:59,200 --> 00:02:00,480
-Tous les compartiments sont bondés.
+00:01:30,000 --> 00:01:37,980
+vers l'est, enfin le sud, oui c'est ça, c'est le sud-est de Paris, ce n'est pas très loin.
 
 14
-00:02:01,740 --> 00:02:02,580
-Non, mais c'est pas vrai.
+00:01:38,840 --> 00:01:40,360
+C'est du côté de Chartres ?
 
 15
-00:02:03,320 --> 00:02:04,900
-Toutes les places sont prises, regarde-moi ça.
+00:01:40,360 --> 00:01:47,420
+Ah non, Chartres c'est vers le sud-ouest, province est au-dessus de Fontainebleau, vous connaissez.
 
 16
-00:02:05,660 --> 00:02:07,140
-Les gens sont serrés comme des sardines.
+00:01:49,020 --> 00:01:49,460
+Merci.
 
 17
-00:02:08,340 --> 00:02:09,920
-Si j'avais su, je serais resté chez moi.
+00:01:50,760 --> 00:01:53,000
+Vous savez où je pourrais louer une voiture ?
 
 18
-00:02:10,680 --> 00:02:11,580
-Ou j'aurais loué une voiture.
+00:01:53,520 --> 00:01:54,000
+Ah oui ?
 
 19
-00:02:12,120 --> 00:02:13,680
-Ouais, ou tu serais venu à pied.
+00:01:54,000 --> 00:02:04,340
+Avis, Hertz, Europecar, Matéi.
 
 20
-00:02:14,680 --> 00:02:15,480
-Ne t'en fais pas.
+00:02:06,540 --> 00:02:08,420
+Pourquoi, vous voulez louer une voiture ?
 
 21
-00:02:16,280 --> 00:02:17,820
-On ne va pas rester debout dans le couloir.
+00:02:08,420 --> 00:02:08,700
+Oui.
 
 22
-00:02:18,320 --> 00:02:19,080
-Allons voir plus loin.
+00:02:11,140 --> 00:02:14,600
+Allez au garage Shell, en bas du boulevard Aspaille.
 
 23
-00:02:19,560 --> 00:02:20,640
-On trouvera bien une place.
+00:02:15,220 --> 00:02:16,560
+Si vous voulez, c'est un ami.
 
 24
-00:02:22,800 --> 00:02:23,920
-Tiens, qu'est-ce que je te disais ?
+00:02:17,260 --> 00:02:18,240
+Dites-lui que vous venez de ma part.
 
 25
-00:02:23,920 --> 00:02:24,800
-Ce compartiment est vide.
+00:02:19,120 --> 00:02:19,400
+Merci.
 
 26
-00:02:25,600 --> 00:02:26,500
-Enfin, presque vide.
+00:02:24,000 --> 00:02:31,740
+Bonjour, monsieur.
 
 27
-00:02:28,400 --> 00:02:34,940
-Il y a dans un coin un passager caché derrière un journal.
+00:02:32,380 --> 00:02:32,700
+Bonjour.
 
 28
-00:02:43,160 --> 00:02:46,580
-L'homme en noir. Bizarre.
+00:02:33,700 --> 00:02:35,800
+Je viens de la part du propriétaire du Home Latin.
 
 29
-00:02:47,360 --> 00:02:50,520
-Je comprends vraiment pas comment tu peux préférer le train à la voiture.
+00:02:36,420 --> 00:02:38,080
+Je voudrais louer une voiture pour la journée.
 
 30
-00:02:51,660 --> 00:02:53,260
-J'apprécie la SNCF.
+00:02:38,340 --> 00:02:39,220
+Oui, qu'est-ce que vous voulez ?
 
 31
-00:02:53,600 --> 00:02:53,980
-La quoi?
+00:02:39,220 --> 00:02:40,760
+Une grosse voiture, une petite voiture,
 
 32
-00:02:53,980 --> 00:02:58,840
-La SNCF, la Société Nationale des Chemins de Fer Français.
+00:02:41,160 --> 00:02:43,920
+changement de vitesse automatique ou manuelle ?
 
 33
-00:02:59,800 --> 00:03:01,240
-Remarque, je n'ai rien contre la voiture.
+00:02:43,920 --> 00:02:46,280
+Tenez, j'ai là une Renault 11 toute neuve,
 
 34
-00:03:02,240 --> 00:03:05,380
-Au contraire, j'aimerais bien avoir une petite voiture, décapotable.
+00:02:46,860 --> 00:02:48,820
+avec cinq vitesses synchronisées au plancher.
 
 35
-00:03:07,160 --> 00:03:08,880
-Ou au moins avec un toit ouvrant.
+00:02:49,760 --> 00:02:52,040
+J'ai aussi une CX, avec suspension hydraulique,
 
 36
-00:03:09,900 --> 00:03:14,060
-Et un grand coffre pour mettre mes valises avec toutes mes robes dedans.
+00:02:52,120 --> 00:02:52,880
+c'est très confortable.
 
 37
-00:03:14,980 --> 00:03:16,140
-Et un mini-vélo.
+00:02:53,380 --> 00:02:54,460
+Oh, ça, ça m'est égal.
 
 38
-00:03:17,480 --> 00:03:19,160
-Une petite 205 Peugeot.
+00:02:55,560 --> 00:02:56,560
+Donnez-moi la moins chère.
 
 39
-00:03:21,220 --> 00:03:23,960
-Tu ne préférais pas une petite Alpine Renault, par hasard ?
+00:02:57,480 --> 00:02:59,120
+Cette R5, là-bas, par exemple.
 
 40
-00:03:23,980 --> 00:03:25,300
-Oui, ça, bien sûr.
+00:02:59,840 --> 00:03:01,560
+Il paraît que les R5, ce sont les moins chères.
 
 41
-00:03:26,180 --> 00:03:27,140
-Ça, c'est de la bagnole.
+00:03:01,780 --> 00:03:02,360
+C'est vrai ?
 
 42
-00:03:27,600 --> 00:03:28,760
-La vraie voiture de sport.
+00:03:02,360 --> 00:03:03,680
+Je regrette, mais elle n'est pas allouée.
 
 43
-00:03:29,540 --> 00:03:30,480
-Nerveuse, rapide.
+00:03:03,740 --> 00:03:04,560
+Je ne peux pas vous la donner.
 
 44
-00:03:31,080 --> 00:03:32,360
-Des reprises foudroyantes.
+00:03:05,340 --> 00:03:07,180
+Mais si vous voulez, je peux vous donner une Peugeot 205.
 
 45
-00:03:32,940 --> 00:03:34,860
-Et comme tenue de route, c'est formidable.
+00:03:08,880 --> 00:03:10,360
+C'est ce que vous avez de moins cher ?
 
 46
-00:03:35,460 --> 00:03:36,580
-Ça se conduit avec le petit doigt.
+00:03:10,360 --> 00:03:10,640
+Oui.
 
 47
-00:03:37,700 --> 00:03:40,700
-Et ça marche, tu peux faire du 140 à l'heure toute une journée sans chauffer.
+00:03:11,540 --> 00:03:11,820
+Bon.
 
 48
-00:03:42,520 --> 00:03:44,240
-Et comme freinage, impeccable.
+00:03:12,640 --> 00:03:13,860
+C'est combien pour la journée ?
 
 49
-00:03:44,480 --> 00:03:45,640
-4 freins à disque assistés.
+00:03:13,860 --> 00:03:14,880
+450 francs.
 
 50
-00:03:46,000 --> 00:03:47,160
-Et ça ne consomme presque rien.
+00:03:15,980 --> 00:03:16,820
+D'accord, je la prends.
 
 51
-00:03:47,920 --> 00:03:48,860
-6,5 litres au 100.
+00:03:17,260 --> 00:03:18,960
+Si vous voulez bien me donner votre permis de conduire.
 
 52
-00:03:49,760 --> 00:03:51,140
-Eh dis donc, tu as l'air de t'y connaître.
+00:03:22,880 --> 00:03:30,320
+Ah, un permis américain.
 
 53
-00:03:51,340 --> 00:03:52,980
-Pas forcément, c'est de naissance.
+00:03:32,720 --> 00:03:35,820
+Quelques minutes plus tard, Robert est au volant de la Peugeot.
 
 54
-00:03:53,580 --> 00:03:54,400
-Mon père est chez Renault.
+00:03:35,840 --> 00:03:37,180
+On va aller à Fontainebleau, c'est par là.
 
 55
-00:03:55,400 --> 00:03:57,160
-Mais de toute façon, tout ça, ce n'est pas pour moi.
+00:03:37,800 --> 00:03:39,940
+Oui, remontez le boulevard à Spa, il est là devant vous.
 
 56
-00:03:58,160 --> 00:04:01,660
-Remarque que d'une certaine façon, j'aime autant faire de l'autostop.
+00:03:40,140 --> 00:03:41,480
+Vous connaissez bien Paris ?
 
 57
-00:04:02,080 --> 00:04:04,340
-Tous les avantages de la voiture sans les inconvénients.
+00:03:41,480 --> 00:03:42,260
+Non, pas trop.
 
 58
-00:04:05,780 --> 00:04:07,340
-Tu fais de l'autostop ?
+00:03:49,520 --> 00:03:49,880
+Tenez.
 
 59
-00:04:07,340 --> 00:04:08,160
-Ça m'est arrivé.
+00:03:49,880 --> 00:04:13,700
+Allez, je vais vous montrer. Vous êtes ici. Vous remontez le boulevard Raspail jusqu'à Denfert-Rochereau. Vous verrez, c'est une place avec un lion. Vous obliquez à droite pour prendre l'avenue du général Leclerc. Vous la suivez jusqu'à la porte d'Orléans. Et là, vous prenez le boulevard périphérique sur la gauche. Vous n'aurez qu'à suivre les indications pour l'autoroute A6 direction Lyon.
 
 60
-00:04:09,660 --> 00:04:12,420
-Une fois, je suis allée de Paris à Genève en stop.
+00:04:13,700 --> 00:04:17,980
+Il y a des panneaux partout, il n'y a pas moyen de se tromper
 
 61
-00:04:12,740 --> 00:04:13,440
-J'ai mis 8 heures.
+00:04:17,980 --> 00:04:19,180
+Vous ne pouvez pas vous perdre
 
 62
-00:04:14,140 --> 00:04:14,660
-Ce n'est pas mal.
+00:04:19,180 --> 00:04:21,180
+Très bien
 
 63
-00:04:15,400 --> 00:04:18,020
-Mais ce n'est pas dangereux ?
+00:04:21,180 --> 00:04:24,040
+Merci, au revoir
 
 64
-00:04:18,020 --> 00:04:19,140
-Tu n'as pas peur ?
+00:04:24,040 --> 00:04:25,840
+Au revoir, bonne route
 
 65
-00:04:19,140 --> 00:04:19,420
-Non.
+00:04:25,840 --> 00:04:36,580
+Pendant ce temps-là, Mireille téléphone à son oncle Guillaume
 
 66
-00:04:21,040 --> 00:04:22,340
-Et puis c'est ça le charme.
+00:04:36,580 --> 00:04:37,900
+Pour lui emprunter une voiture
 
 67
-00:04:22,980 --> 00:04:30,380
-Ça y est, on est arrivé.
+00:04:37,900 --> 00:04:40,000
+Le tonton ? C'est moi Mireille
 
 68
-00:04:31,440 --> 00:04:33,520
-Mireille et Robert descendent du train
+00:04:40,000 --> 00:04:43,120
+Dis-moi, je dois aller à Provins voir mon ami Colette
 
 69
-00:04:33,520 --> 00:04:37,940
-et sortent de la gare Montparnasse.
+00:04:43,120 --> 00:04:47,200
+Tu sais, Colette Besson, est-ce que tu pourrais me prêter une voiture ?
 
 70
-00:04:40,840 --> 00:04:42,520
-Si on allait dîner sur un bateau-mouche,
+00:04:47,200 --> 00:04:49,240
+Mais oui, ma petite Mireille, bien sûr.
 
 71
-00:04:43,020 --> 00:04:44,260
-ce serait bien, je t'invite.
+00:04:49,520 --> 00:04:50,980
+Prends celle que tu voudras, ça va être égal.
 
 72
-00:04:44,920 --> 00:04:46,380
-Ça peut être bien, non ?
+00:04:51,720 --> 00:04:52,560
+La CX ?
 
 73
-00:04:46,380 --> 00:04:47,560
-Avec tous les monuments illuminés.
+00:04:52,560 --> 00:04:54,800
+Entendu. Prends-la au garage quand tu voudras.
 
 74
-00:04:48,200 --> 00:04:49,300
-Oh, penses-tu ?
+00:04:55,060 --> 00:04:56,420
+Je vais leur téléphoner pour les prévenir.
 
 75
-00:04:49,300 --> 00:04:50,860
-C'est un truc pour les touristes américains, ça.
+00:04:57,440 --> 00:04:58,600
+Je te remercie, au revoir.
 
 76
-00:04:51,460 --> 00:04:52,920
-T'es pas un touriste américain, toi.
+00:05:00,400 --> 00:05:03,820
+Pendant ce temps-là, Robert remonte le boulevard Raspail.
 
 77
-00:04:52,980 --> 00:04:55,760
-De toute façon, ce soir, je ne suis pas libre.
+00:05:04,760 --> 00:05:07,180
+Il arrive à la place d'Enfer-aux-Chevaux.
 
 78
-00:04:56,100 --> 00:04:57,760
-Je dois aller chez une amie pour voir Saint-Germain.
+00:05:07,520 --> 00:05:09,140
+La place avec le lion,
 
 79
-00:04:58,860 --> 00:05:00,000
-Et l'autobus, c'est par là.
+00:05:10,100 --> 00:05:11,360
+obliquez à droite,
 
 80
-00:05:10,960 --> 00:05:15,240
-Comment ? Ton chauffeur ne t'attend pas avec l'Alpine ?
+00:05:11,360 --> 00:05:20,660
+prendre l'avenue du général Leclerc la suivre la suivre jusqu'à la porte d'Orléans ça doit
 
 81
-00:05:15,240 --> 00:05:18,500
-Mon chauffeur ? Ah non, pas ce soir. Ce soir, je lui ai donné congé.
+00:05:20,660 --> 00:05:28,940
+être ici maintenant prendre le périphérique sur la gauche l'autoroute A6 en direction de
 
 82
-00:05:19,440 --> 00:05:21,740
-Tiens, voilà mon bus qui arrive. Bon, un jeudi soir.
+00:05:28,940 --> 00:05:32,660
+Lyon il y a les panneaux partout il n'y a pas moyen de se tromper
 
 83
-00:05:21,740 --> 00:05:24,740
-N'oublie pas que tu deviens à la maison vers 7h30, 8h.
+00:05:41,360 --> 00:05:45,720
+Trois heures plus tard, Robert est complètement perdu
 
 84
-00:05:26,740 --> 00:05:28,740
-Est-ce que je ne pourrai pas te voir demain ?
+00:05:45,720 --> 00:05:48,540
+à 300 kilomètres de Pâques, en pleine Bourgogne.
 
 85
-00:05:28,740 --> 00:05:31,740
-Non, impossible. Demain, je vais à Provence. Au revoir.
+00:05:49,200 --> 00:05:50,300
+Il demande son chemin.
 
 86
-00:05:31,740 --> 00:05:32,740
-Salut.
+00:05:50,620 --> 00:05:53,040
+Excusez-moi, monsieur, la route de Paris, c'est bien par là ?
 
 87
-00:05:51,740 --> 00:05:55,740
-Et l'autobus démarre.
+00:05:53,040 --> 00:05:55,680
+Vous vous trompez, jeune homme. La route de Paris, c'est à droite, là-bas.
 
 88
-00:05:59,080 --> 00:06:00,840
-Une amie ?
+00:05:56,160 --> 00:05:59,080
+Là, par là, c'est Marcon. Là, vous êtes perdus.
 
 89
-00:06:00,840 --> 00:06:03,400
-Ça ne m'étonnerait pas si cette amie avait un petit air suédois
+00:05:59,640 --> 00:06:00,600
+Voilà ce qui s'est passé.
 
 90
-00:06:03,400 --> 00:06:05,780
-et de belles jambes musclées dans un petit short bleu ciel.
+00:06:04,780 --> 00:06:07,300
+À Fontainebleau, il a voulu sortir de l'autoroute
 
 91
-00:06:06,340 --> 00:06:09,180
-Robert serait-il jaloux ?
+00:06:07,300 --> 00:06:08,700
+pour remonter vers Provins.
 
 92
-00:06:09,180 --> 00:06:09,740
-Taxi !
+00:06:11,360 --> 00:06:17,600
+juste au moment où il sortait de l'échangeur il a vu une alpine avec une blonde dedans qui
 
 93
-00:06:11,840 --> 00:06:14,860
-Il arrête un taxi.
+00:06:17,600 --> 00:06:25,600
+s'engageait sur l'autoroute en direction de lyon robert a fait aussitôt demi tour et s'est lancé
 
 94
-00:06:21,740 --> 00:06:27,360
-boulevard saint-germain s'il vous plaît où est ce que je vous arrête je ne sais
+00:06:25,600 --> 00:06:33,980
+à sa poursuite robert fonce le pied au plancher mais l'alpine refuse de se laisser dépasser
 
 95
-00:06:27,360 --> 00:06:34,700
-pas à moi non plus au café de flore oui c'est ça
+00:06:41,360 --> 00:06:46,360
+Juste avant Beaune, l'Alpine s'arrête pour Andolescence.
 
 96
-00:06:34,700 --> 00:06:54,140
-Pas de Mireille, ni de Suédois, au Flore.
+00:06:52,360 --> 00:06:54,360
+Le plein de super, s'il vous plaît.
 
 97
-00:06:57,620 --> 00:07:04,580
-Ni au Demago, ni chez lui, ni au drugstore, ni à la romerie martiniquaise.
+00:06:54,360 --> 00:06:59,360
+La blonde descend de voiture et se dirige vers les toilettes.
 
 98
-00:07:04,700 --> 00:07:12,900
-Ni chez Vagenand, ni au Proca, ni au Tabou, ni au Riverside, ni au Whisky à Gogo.
+00:06:59,360 --> 00:07:02,360
+Ce n'est pas bien.
 
 99
-00:07:13,080 --> 00:07:14,440
-Où peut-elle bien être ?
+00:07:02,360 --> 00:07:10,780
+Écoeuré, Robert sort de l'autoroute
 
 100
-00:07:14,440 --> 00:07:16,200
-Où peut-elle bien être ?
+00:07:10,780 --> 00:07:15,200
+et va se perdre dans les vignobles bourguignons.
 
 101
-00:07:16,200 --> 00:07:17,480
-Ça, je ne sais pas.
+00:07:22,800 --> 00:07:24,460
+Alox, Corton.
 
 102
-00:07:25,260 --> 00:07:28,360
-Robert et Mireille quittent Chartres et sa cathédrale.
+00:07:28,760 --> 00:07:30,600
+Nuit, Saint-Georges.
 
 103
-00:07:29,400 --> 00:07:32,580
-Ils sont allés à la gare pour prendre le train jusqu'à Paris.
+00:07:32,360 --> 00:07:35,540
+Vaux-le-Romalais.
 
 104
-00:07:32,580 --> 00:07:51,120
-Ils viennent de monter dans le train. Ils cherchent des places. Ils regardent dans tous les compartiments, mais il n'y a pas de place. Il y a beaucoup de bondes. Tous les compartiments sont bondés. Le train est bondé. Il n'y a pas de place. Toutes les places sont prises.
+00:07:39,680 --> 00:07:40,580
+Rougeau.
 
 105
-00:07:51,920 --> 00:07:53,560
-Ici aussi, le train est bondé.
+00:07:48,760 --> 00:07:51,400
+Chambol-Musigny.
 
 106
-00:07:53,940 --> 00:07:55,120
-Toutes les places sont prises.
+00:07:56,040 --> 00:07:57,100
+Gevrey-Chambertin.
 
 107
-00:07:55,440 --> 00:07:55,980
-Mais ici, non.
+00:08:02,360 --> 00:08:04,360
+Fixe.
 
 108
-00:07:56,520 --> 00:07:58,620
-Ici, il y a des places libres.
+00:08:32,360 --> 00:08:41,300
+La dernière fois, Robert voulait aller dîner avec Mireille sur un bateau-mouche.
 
 109
-00:07:59,240 --> 00:08:01,240
-Ici aussi, il y a des places libres.
+00:08:41,740 --> 00:08:45,900
+Mais elle a dit qu'elle n'était pas libre, qu'elle allait chez une amie, boulevard Saint-Germain.
 
 110
-00:08:03,140 --> 00:08:05,160
-Ici, il y a des places libres.
+00:08:46,740 --> 00:08:51,620
+Robert a pris un taxi et il est allé à Saint-Germain pour essayer de trouver Mireille.
 
 111
-00:08:05,880 --> 00:08:09,600
-Là, il y a deux places libres, mais la troisième est prise.
+00:08:52,480 --> 00:08:53,460
+Il ne l'a pas trouvée.
 
 112
-00:08:10,960 --> 00:08:14,300
-Dans ce wagon, il y a un couloir et des compartiments.
+00:08:54,960 --> 00:08:55,940
+Il a mal dormi.
 
 113
-00:08:15,560 --> 00:08:16,700
-Un compartiment.
+00:08:57,420 --> 00:08:58,900
+Il n'est pas en forme.
 
 114
-00:08:17,780 --> 00:08:18,860
-Un compartiment.
+00:08:59,740 --> 00:09:01,980
+Regardez Jean-Claude ici, il n'est pas en forme.
 
 115
-00:08:18,860 --> 00:08:20,820
-Le couloir.
+00:09:02,360 --> 00:09:05,080
+Ici, oui, il est en forme. Il est en pleine forme.
 
 116
-00:08:21,120 --> 00:08:27,400
-Le couloir. Un couloir à la fac. Un couloir dans le métro.
+00:09:07,060 --> 00:09:10,000
+En forme, pas en forme.
 
 117
-00:08:28,840 --> 00:08:31,940
-Ici, Robert et Mireille sont debout dans le couloir.
+00:09:11,200 --> 00:09:12,040
+Pas en forme.
 
 118
-00:08:32,600 --> 00:08:35,120
-Ici, ils sont assis dans un compartiment.
+00:09:12,900 --> 00:09:15,440
+En forme, pas en forme.
 
 119
-00:08:36,120 --> 00:08:40,740
-Où sont le monsieur et la dame ? Dans le couloir ou dans le compartiment ?
+00:09:16,240 --> 00:09:20,180
+En forme, en forme, pas en forme.
 
 120
-00:08:40,740 --> 00:08:41,580
-Dans le compartiment.
+00:09:21,060 --> 00:09:22,520
+Eux, ils ont l'air en forme.
 
 121
-00:08:42,120 --> 00:08:46,180
-Et le contrôleur, il est dans le compartiment ou dans le couloir ?
+00:09:23,400 --> 00:09:25,440
+Mais eux, ils n'ont pas l'air en forme.
 
 122
-00:08:46,180 --> 00:08:47,280
-Dans le couloir.
+00:09:26,380 --> 00:09:27,120
+J'en ai un broyé.
 
 123
-00:08:47,280 --> 00:08:51,900
-Robert n'est pas content parce qu'il y a beaucoup de monde
+00:09:27,580 --> 00:09:29,720
+Oh, toi, tu n'as pas l'air bien en forme.
 
 124
-00:08:51,900 --> 00:08:55,080
-Non mais c'est pas vrai, toutes les places sont prises
+00:09:29,720 --> 00:09:32,360
+Robert demande où est Provins.
 
 125
-00:08:55,080 --> 00:08:58,060
-Non mais c'est pas vrai, il n'est pas content
+00:09:32,580 --> 00:09:34,440
+C'est le sud-est de Paris.
 
 126
-00:08:58,060 --> 00:09:01,420
-Regardez Mireille ici, elle n'est pas contente, elle non plus
+00:09:36,000 --> 00:09:40,620
+Le nord, l'ouest, le sud, l'est, le sud-est.
 
 127
-00:09:01,420 --> 00:09:05,440
-Oh non, c'est pas vrai
+00:09:41,080 --> 00:09:42,060
+C'est du côté de Chartres.
 
 128
-00:09:05,440 --> 00:09:08,400
-Non mais c'est pas vrai, toutes les places sont prises
+00:09:42,580 --> 00:09:44,680
+Ah non, Chartres, c'est vers le sud-ouest.
 
 129
-00:09:08,400 --> 00:09:12,060
-Regarde-moi ça, les gens sont serrés comme des sardines
+00:09:47,780 --> 00:09:49,860
+Provins, c'est du côté de Fontainebleau.
 
 130
-00:09:12,060 --> 00:09:15,880
-Le train est bondé, les gens sont serrés
+00:09:50,240 --> 00:09:51,720
+Vous connaissez Fontainebleau ?
 
 131
-00:09:15,880 --> 00:09:18,180
-Ils sont serrés comme des sardines.
+00:09:52,960 --> 00:09:55,300
+Il y a une belle forêt et un beau château.
 
 132
-00:09:20,420 --> 00:09:21,660
-Robert n'est pas content.
+00:09:57,660 --> 00:09:58,780
+Provins n'est pas loin.
 
 133
-00:09:22,140 --> 00:09:22,980
-Il rouspète.
+00:09:59,200 --> 00:10:01,480
+Tenez, nous allons demander à quelqu'un où est Provins.
 
 134
-00:09:23,560 --> 00:09:25,080
-Il regrette d'être venu.
+00:10:01,880 --> 00:10:03,800
+C'est loin de Paris ?
 
 135
-00:09:25,460 --> 00:09:27,000
-Si j'avais su, je serais resté chez moi.
+00:10:03,800 --> 00:10:09,440
+Je dirais une centaine de kilomètres à l'est de Paris.
 
 136
-00:09:27,640 --> 00:09:29,460
-Si j'avais su...
+00:10:09,860 --> 00:10:14,700
+C'est à 90 kilomètres de Paris vers l'est sur la route de Troyes.
 
 137
-00:09:29,460 --> 00:09:30,780
-Regardez Marie-Laure ici.
+00:10:15,720 --> 00:10:18,300
+C'est du côté de Chartres ?
 
 138
-00:09:31,300 --> 00:09:32,880
-Elle n'est pas contente, elle non plus.
+00:10:18,300 --> 00:10:19,640
+Non, pas vraiment, non.
 
 139
-00:09:32,980 --> 00:09:33,880
-Elle est indignée.
+00:10:20,560 --> 00:10:22,640
+Ah non, pas du tout, c'est dans la direction opposée.
 
 140
-00:09:34,620 --> 00:09:36,900
-Elle regrette d'avoir tellement travaillé.
+00:10:22,640 --> 00:10:27,700
+D'après le patron de l'hôtel, c'est un peu au-dessus de Fontainebleau.
 
 141
-00:09:37,300 --> 00:09:41,100
-Si elle avait su, elle aurait regardé la télévision au lieu de travailler.
+00:10:27,700 --> 00:10:29,760
+C'est au-dessus de Fontainebleau.
 
 142
-00:09:41,640 --> 00:09:42,720
-Il n'y a pas de justice.
+00:10:30,180 --> 00:10:32,120
+Au-dessus, au-dessous.
 
 143
-00:09:42,720 --> 00:09:45,600
-Si j'avais su, j'aurais regardé la télé.
+00:10:33,460 --> 00:10:36,580
+Au-dessus, au-dessous.
 
 144
-00:09:45,880 --> 00:09:50,220
-J'ai mis une heure pour faire ce devoir. C'est un scandale.
-
-145
-00:09:51,300 --> 00:09:52,860
-Mireille est optimiste.
-
-146
-00:09:53,200 --> 00:09:54,260
-On trouvera bien une place.
-
-147
-00:09:57,780 --> 00:09:59,380
-Tiens, qu'est-ce que je te disais ?
-
-148
-00:09:59,380 --> 00:10:00,940
-Mireille a toujours raison.
-
-149
-00:10:01,380 --> 00:10:02,320
-Ce compartiment est vide.
-
-150
-00:10:03,100 --> 00:10:05,820
-Regardez, Marie-Laure non plus ne se trompe jamais.
-
-151
-00:10:06,260 --> 00:10:08,200
-Ça, c'est une dix de carreau.
-
-152
-00:10:10,260 --> 00:10:13,920
-Qu'est-ce que je disais ? Je ne me trompe jamais.
-
-153
-00:10:13,920 --> 00:10:21,640
-enfin presque jamais ce compartiment est vide enfin presque vie ce compartiment
-
-154
-00:10:21,640 --> 00:10:30,660
-est vide la salle est vide enfin presque vide ce verre est plein celui ci est
-
-155
-00:10:30,660 --> 00:10:39,120
-vide la boîte de chocolat est vide enfin presque vide l'assiette est vide le
-
-156
-00:10:39,120 --> 00:10:40,080
-Le wagon est vide.
-
-157
-00:10:41,140 --> 00:10:47,680
-Mireille apprécie la SNCF, la Société Nationale des Chemins de Fer Français.
-
-158
-00:10:48,260 --> 00:10:50,220
-Tout le monde apprécie la SNCF.
-
-159
-00:10:50,220 --> 00:11:04,420
-Parce que les trains sont
-
-160
-00:11:04,420 --> 00:11:05,160
-commodes
-
-161
-00:11:05,160 --> 00:11:09,220
-confortables
-
-162
-00:11:16,420 --> 00:11:18,020
-Nous avons le plaisir
-
-163
-00:11:18,020 --> 00:11:19,780
-de vous informer qu'un bar
-
-164
-00:11:19,780 --> 00:11:25,960
-détente est à votre disposition pendant tout le parcours. Vous y trouverez un assortiment
-
-165
-00:11:25,960 --> 00:11:31,100
-d'assiettes froides, des croque-monsieur, sandwich, café et consommation.
-
-166
-00:11:33,680 --> 00:11:40,880
-Et surtout, les trains sont ponctuels. Et puis, les trains sont rapides.
-
-167
-00:11:49,780 --> 00:12:19,760
-Sous-titrage MFP.
-
-168
-00:12:19,780 --> 00:12:49,760
-Sous-titrage ST' 501
-
-169
-00:12:49,780 --> 00:12:56,540
-prend le train. Mais elle aimerait bien avoir une voiture. Si elle était riche, elle aimerait
-
-170
-00:12:56,540 --> 00:13:03,580
-bien avoir une voiture. Mais est-ce que Mireille est riche ? Non, elle n'est pas riche. Si
-
-171
-00:13:03,580 --> 00:13:09,820
-elle était riche, ça c'est une supposition. Une supposition contraire à la réalité.
-
-172
-00:13:09,820 --> 00:13:28,040
-Si elle était riche, supposition, elle aimerait avoir une voiture. Si elle était riche, c'est l'imparfait. Elle aimerait avoir une voiture, elle aimerait, c'est le conditionnel.
-
-173
-00:13:28,040 --> 00:13:32,680
-Elle aimerait avoir une voiture décapotable
-
-174
-00:13:32,680 --> 00:13:35,360
-Ou une voiture à toit ouvrant
-
-175
-00:13:35,360 --> 00:13:38,740
-La deux-chevaux, par exemple, a un toit ouvrant
-
-176
-00:13:38,740 --> 00:13:40,700
-Un toit ouvrant
-
-177
-00:13:40,700 --> 00:13:42,700
-Un toit ouvrant
-
-178
-00:13:42,700 --> 00:13:47,340
-Elle voudrait un grand coffre pour mettre ses bagages
-
-179
-00:13:47,340 --> 00:13:50,120
-Le coffre est plein
-
-180
-00:13:50,120 --> 00:13:54,220
-On peut mettre beaucoup de choses dans un coffre
-
-181
-00:13:54,220 --> 00:13:59,700
-Mireille voudrait un grand coffre pour mettre ses valises
-
-182
-00:13:59,700 --> 00:14:01,520
-Voilà, des valises
-
-183
-00:14:01,520 --> 00:14:04,240
-Une valise, une valise
-
-184
-00:14:04,240 --> 00:14:06,200
-Regardez ce monsieur et cette dame
-
-185
-00:14:06,200 --> 00:14:09,700
-Ils ont deux enfants et une valise
-
-186
-00:14:09,700 --> 00:14:12,140
-C'est intéressant les valises
-
-187
-00:14:12,140 --> 00:14:16,700
-Mireille aimerait bien avoir une alpine
-
-188
-00:14:16,700 --> 00:14:19,480
-Parce que ça, c'est de la bagnole
-
-189
-00:14:19,480 --> 00:14:21,200
-Ça, c'est de la bagnole
-
-190
-00:14:21,840 --> 00:14:24,200
-Ça, c'est de la bagnole
-
-191
-00:14:24,200 --> 00:14:30,380
-C'est une voiture rapide, nerveuse, avec des reprises foudroyantes.
-
-192
-00:14:30,820 --> 00:14:32,080
-Elle accélère vite.
-
-193
-00:14:33,820 --> 00:14:36,740
-Des reprises foudroyantes, comme la foudre.
-
-194
-00:14:38,060 --> 00:14:39,880
-Voilà un regard foudroyant.
-
-195
-00:14:41,380 --> 00:14:44,440
-Et comme tenue de route, c'est formidable.
-
-196
-00:14:44,960 --> 00:14:47,120
-C'est une voiture qui tient bien la route.
-
-197
-00:14:47,760 --> 00:14:49,980
-Une voiture qui tient la route.
-
-198
-00:14:50,400 --> 00:14:52,660
-La voiture tient la route d'une manière surprenante.
-
-199
-00:14:52,660 --> 00:14:55,980
-Voilà une petite voiture qui tient très bien la route.
-
-200
-00:14:57,540 --> 00:14:59,820
-Celle-là aussi, elle tient bien la route.
-
-201
-00:15:00,640 --> 00:15:01,460
-Elle tient la route.
-
-202
-00:15:02,320 --> 00:15:04,600
-C'est une voiture facile à conduire.
-
-203
-00:15:05,100 --> 00:15:07,900
-Ça se conduit avec le petit doigt.
-
-204
-00:15:09,700 --> 00:15:11,980
-Et on peut faire du 140.
-
-205
-00:15:12,920 --> 00:15:18,180
-Du 140 km à l'heure, pendant toute la journée, sans chauffer.
-
-206
-00:15:19,920 --> 00:15:22,140
-Voilà une voiture qui chauffe.
-
-207
-00:15:23,640 --> 00:15:25,760
-Mais l'Alpine ne chauffe pas.
-
-208
-00:15:26,620 --> 00:15:29,300
-Et comme freinage, impeccable.
-
-209
-00:15:29,720 --> 00:15:30,480
-Ça freine bien.
-
-210
-00:15:31,020 --> 00:15:32,900
-C'est une voiture qui a de bons freins.
-
-211
-00:15:36,700 --> 00:15:38,740
-Voilà la pédale de frein.
-
-212
-00:15:41,000 --> 00:15:42,580
-Et voilà le frein à main.
-
-213
-00:15:42,980 --> 00:15:46,720
-Les freins, Bob a l'occasion de les essayer à fond au cours de la traversée rapide d'une ville.
-
-214
-00:15:47,960 --> 00:15:51,600
-Ce sont des freins mixtes, à disque à l'avant, à tambour à l'arrière.
-
-215
-00:15:52,660 --> 00:15:54,660
-Pour les freins, c'est ici l'épreuve du feu.
-
-216
-00:15:56,660 --> 00:16:00,080
-Un frein, freiner, le freinage.
-
-217
-00:16:00,560 --> 00:16:01,740
-Et ça ne consomme pas tellement.
-
-218
-00:16:02,480 --> 00:16:04,260
-Ça ne consomme pas beaucoup d'essence.
-
-219
-00:16:05,340 --> 00:16:06,720
-Regardez, un vélo moteur.
-
-220
-00:16:07,060 --> 00:16:08,740
-Ça consomme beaucoup ? Non !
-
-221
-00:16:08,740 --> 00:16:10,620
-Ça consomme très peu d'essence.
-
-222
-00:16:12,300 --> 00:16:15,820
-Et Robert et Mireille consomment des kirs.
-
-223
-00:16:17,120 --> 00:16:19,260
-L'alpine ne consomme pas beaucoup.
-
-224
-00:16:19,600 --> 00:16:21,360
-Environ 7 litres au 100.
-
-225
-00:16:21,360 --> 00:16:23,980
-7 litres pour faire 100 km
-
-226
-00:16:23,980 --> 00:16:26,880
-La R5 consomme encore moins
-
-227
-00:16:26,880 --> 00:16:30,200
-Et comme freinage, impeccable
-
-228
-00:16:30,200 --> 00:16:31,660
-4 freins à disque assistés
-
-229
-00:16:31,660 --> 00:16:34,220
-Mireille a l'air très experte en voiture
-
-230
-00:16:34,220 --> 00:16:36,080
-Elle a l'air de s'y connaître
-
-231
-00:16:36,080 --> 00:16:38,280
-Dis donc, tu as l'air de s'y connaître
-
-232
-00:16:38,280 --> 00:16:40,740
-Le vin, il s'y connaît
-
-233
-00:16:40,740 --> 00:16:45,020
-Chez nous, tout le monde adore l'odeur de soupines à lavande
-
-234
-00:16:45,020 --> 00:16:49,320
-Et la lavande ici, on s'y connaît
-
-235
-00:16:49,320 --> 00:17:02,320
-Mireille est experte en voiture, elle s'y connaît, pas forcément, c'est de naissance, c'est de naissance, puisque son père est ingénieur chez Renault.
-
-236
-00:17:03,260 --> 00:17:12,980
-Elle est née comme ça, Mireille n'a pas de voiture, c'est dommage, elle aimerait bien, mais d'une certaine façon, elle aime autant faire de l'autostop.
-
-237
-00:17:12,980 --> 00:17:16,620
-Voilà Robert et Mireille qui font de l'autostop
-
-238
-00:17:16,620 --> 00:17:19,340
-Voilà quelqu'un qui fait de l'autostop
-
-239
-00:17:19,340 --> 00:17:23,480
-Voilà le dessinateur Serre qui fait de l'autostop
-
-240
-00:17:23,480 --> 00:17:26,400
-Lui aussi, il fait de l'autostop
-
-241
-00:17:26,400 --> 00:17:29,760
-Et eux, qu'est-ce qu'ils font ? Ils font de l'autostop ?
-
-242
-00:17:29,760 --> 00:17:31,660
-Non, ils font du bateau-stop
-
-243
-00:17:31,660 --> 00:17:33,480
-L'autostop, c'est très bien
-
-244
-00:17:33,480 --> 00:17:37,180
-Ça a tous les avantages de la voiture, sans les inconvénients
-
-245
-00:17:37,180 --> 00:17:40,060
-La voiture a des avantages
-
-246
-00:17:40,060 --> 00:17:42,760
-C'est rapide, ça c'est un avantage
-
-247
-00:17:42,760 --> 00:17:55,320
-C'est commode. Ça aussi, c'est un avantage. Mais ça consomme de l'essence. Ça, c'est un inconvénient. Ça tombe en panne. Ça aussi, c'est un inconvénient.
-
-248
-00:17:56,980 --> 00:18:08,540
-Tu fais de l'autostop ? Oui, ça m'est arrivé. Ça lui arrive. Il lui est arrivé de faire de l'autostop. Elle a fait de l'autostop quelques fois. Pas souvent, mais ça lui est arrivé.
-
-249
-00:18:08,540 --> 00:18:11,280
-Observez ce que dit Marie-Laure
-
-250
-00:18:11,280 --> 00:18:13,380
-Tu travailles bien à l'école ?
-
-251
-00:18:13,380 --> 00:18:16,580
-Tu as 10 sur 10 à tes devoirs ?
-
-252
-00:18:16,580 --> 00:18:18,440
-Ça m'est arrivé une fois
-
-253
-00:18:18,440 --> 00:18:22,620
-Et tu as zéro quelquefois ?
-
-254
-00:18:22,620 --> 00:18:23,680
-Ça m'est arrivé
-
-255
-00:18:23,680 --> 00:18:28,940
-Une fois, Mireille est allée de Paris à Genève en autostop
-
-256
-00:18:28,940 --> 00:18:30,560
-Elle a mis 8 heures
-
-257
-00:18:30,560 --> 00:18:33,700
-Elle est partie à 1 heure et elle est arrivée à 9 heures
-
-258
-00:18:33,700 --> 00:18:35,940
-Elle a donc mis 8 heures
-
-259
-00:18:35,940 --> 00:18:42,820
-Maintenant écoutez bien cet échange entre Mireille et Robert au sujet de l'autostop
-
-260
-00:18:42,820 --> 00:18:46,820
-Ensuite vous répondrez à Robert comme si vous étiez Mireille
-
-261
-00:18:46,820 --> 00:18:49,560
-Tu fais de l'autostop ?
-
-262
-00:18:49,560 --> 00:18:50,460
-Ça m'est arrivé
-
-263
-00:18:50,460 --> 00:18:53,900
-Maintenant répondez à Robert comme si vous étiez Mireille
-
-264
-00:18:53,900 --> 00:18:56,260
-Tu fais de l'autostop ?
-
-265
-00:18:56,260 --> 00:18:57,160
-Ça m'est arrivé
-
-266
-00:18:57,160 --> 00:18:58,840
-Ça m'est arrivé
-
-267
-00:18:58,840 --> 00:19:03,360
-Ça m'est arrivé
-
-268
-00:19:03,960 --> 00:19:06,600
-Maintenant, nous allons demander à quelqu'un s'il fait de l'autostop.
-
-269
-00:19:07,100 --> 00:19:09,820
-Est-ce que vous faites de l'autostop ?
-
-270
-00:19:09,820 --> 00:19:10,720
-Très rarement.
-
-271
-00:19:11,340 --> 00:19:11,980
-Très rarement.
-
-272
-00:19:12,620 --> 00:19:13,620
-Ça ne vous est jamais arrivé ?
-
-273
-00:19:13,620 --> 00:19:15,240
-Si, ça m'est arrivé, mais rarement.
-
-274
-00:19:16,160 --> 00:19:18,620
-C'est dangereux de faire de l'autostop ?
-
-275
-00:19:18,620 --> 00:19:20,760
-Ben oui, il faut prendre certaines précautions quand même.
-
-276
-00:19:21,660 --> 00:19:25,240
-Robert propose à Mireille d'aller dîner sur un bateau mouche.
-
-277
-00:19:25,600 --> 00:19:29,080
-Si on allait dîner sur un bateau mouche, ce serait bien, je t'invite.
-
-278
-00:19:29,740 --> 00:19:30,900
-Ça peut être bien, non ?
-
-279
-00:19:30,900 --> 00:19:35,220
-Les bateaux mouches, ce sont des bateaux qui montent et qui descendent la Seine.
-
-280
-00:19:35,440 --> 00:19:37,480
-Il y en a des petits et il y en a des gros.
-
-281
-00:19:38,200 --> 00:19:40,580
-Sur les gros, on peut dîner le soir.
-
-282
-00:19:41,160 --> 00:19:44,640
-Bien sûr, c'est un truc pour touristes, mais c'est pas mal.
-
-283
-00:19:44,960 --> 00:19:48,240
-C'est une façon de voir une partie de Paris.
-
-284
-00:19:48,680 --> 00:19:51,580
-Et le soir, on voit les monuments illuminés.
-
-285
-00:19:56,920 --> 00:19:58,540
-Ce serait bien, je t'invite.
-
-286
-00:19:58,940 --> 00:20:00,700
-Ça peut être bien, non ?
-
-287
-00:20:00,700 --> 00:20:01,840
-Avec tous les monuments illuminés.
-
-288
-00:20:02,340 --> 00:20:02,960
-Ce serait bien.
-
-289
-00:20:04,020 --> 00:20:05,320
-Écoutez ce que dit Marie-Laure.
-
-290
-00:20:05,920 --> 00:20:09,140
-Si je n'avais pas ce mémoire à finir pour demain, on pourrait aller au cinéma.
-
-291
-00:20:09,560 --> 00:20:10,800
-Oui, ce serait bien.
-
-292
-00:20:12,060 --> 00:20:15,220
-Mireille ne peut pas accepter l'invitation de Robert.
-
-293
-00:20:15,760 --> 00:20:17,240
-Elle n'est pas libre ce soir.
-
-294
-00:20:17,800 --> 00:20:21,280
-Elle doit aller chez une amie qui habite boulevard Saint-Germain.
-
-295
-00:20:22,020 --> 00:20:24,140
-Elle va prendre l'autobus ici pour y aller.
-
-296
-00:20:24,640 --> 00:20:25,880
-De toute façon, ce soir, je ne suis pas libre.
-
-297
-00:20:26,240 --> 00:20:27,860
-Je dois aller chez une amie, boulevard Saint-Germain.
-
-298
-00:20:27,860 --> 00:20:38,680
-elle vérifie le numéro et l'itinéraire de l'autobus robert pense à l'alpine et
-
-299
-00:20:38,680 --> 00:20:44,320
-au jeune homme à l'air suédois qui l'a vu à chartres et il dit très
-
-300
-00:20:44,320 --> 00:20:50,500
-sarcastique tu vas prendre l'autobus comment ça ton chauffeur ne t'attend
-
-301
-00:20:50,500 --> 00:21:01,180
-pas avec l'alpine il a l'air vraiment jaloux ce Robert un chauffeur un chauffeur de taxi remarquez
-
-302
-00:21:01,180 --> 00:21:07,640
-que ce chauffeur est une femme Mireille ne comprend pas cette allusion sarcastique de
-
-303
-00:21:07,640 --> 00:21:14,000
-Robert mon chauffeur ah non pas ce soir je lui ai donné congé ce soir j'ai donné congé à mon
-
-304
-00:21:14,000 --> 00:21:18,400
-chauffeur je lui ai dit James je n'ai pas besoin de vous ce soir vous pouvez prendre la soirée
-
-305
-00:21:18,400 --> 00:21:27,400
-Mireille s'en va et Robert, resté seul sur le trottoir, devient de plus en plus soupçonneux.
-
-306
-00:21:28,620 --> 00:21:34,940
-Une amie ? Ça ne m'étonnerait pas si cette amie avait un petit air suédois et de belles jambes musclées dans un petit short bleu ciel.
-
-307
-00:21:38,420 --> 00:21:40,560
-Ça ne m'étonnerait pas.
-
-308
-00:21:42,180 --> 00:21:43,640
-Observez ce que dit Marie-Laure ici.
-
-309
-00:21:49,400 --> 00:21:52,380
-Ça ne m'étonnerait pas si c'était des chocolats.
-
-310
-00:21:56,380 --> 00:21:58,860
-Tout juste, des chocolats.
-
-311
-00:21:59,800 --> 00:22:00,660
-J'avais deviné.
-
-312
-00:22:01,260 --> 00:22:05,460
-Cette petite est vraiment très intelligente, très perspicace.
-
-313
-00:22:06,880 --> 00:22:07,400
-Une amie ?
-
-314
-00:22:08,360 --> 00:22:13,200
-Ça ne m'étonnerait pas si cette amie avait un petit air suédois et de belles jambes musclées dans un petit short bleu ciel.
-
-315
-00:22:13,200 --> 00:22:16,940
-Qu'est-ce que Robert est en train d'imaginer ?
-
-316
-00:22:16,940 --> 00:22:22,420
-Que Mireille a rendez-vous au boulevard Saint-Germain avec le jeune homme de Chartres ?
-
-317
-00:22:22,420 --> 00:22:26,260
-Quoi qu'il en soit, il arrête un taxi pour aller au boulevard Saint-Germain.
-
-318
-00:22:27,240 --> 00:22:28,200
-Taxi !
-
-319
-00:22:30,640 --> 00:22:35,880
-Boulevard Saint-Germain, s'il vous plaît.
-
-320
-00:22:36,360 --> 00:22:39,480
-Au boulevard Saint-Germain, oui, très bien, mais où ?
-
-321
-00:22:39,480 --> 00:22:40,920
-Où est-ce que je vous arrête ?
-
-322
-00:22:40,920 --> 00:22:41,620
-Je ne sais pas.
-
-323
-00:22:42,120 --> 00:22:42,980
-Moi non plus.
-
-324
-00:22:43,200 --> 00:22:45,980
-Le boulevard Saint-Germain, c'est vague, c'est grand.
-
-325
-00:22:48,120 --> 00:22:50,120
-Il est long, le boulevard Saint-Germain.
-
-326
-00:22:52,240 --> 00:22:57,880
-Le chauffeur de taxi, qui est une femme, propose d'arrêter Robert au café de Flore.
-
-327
-00:22:58,180 --> 00:22:59,200
-Au café de Flore ?
-
-328
-00:22:59,780 --> 00:23:03,560
-Parce que c'est un des endroits les plus connus de Saint-Germain-des-Prés.
-
-329
-00:23:03,900 --> 00:23:11,180
-Un café littéraire où on voyait Jean-Paul Sartre autrefois, tout près de l'église Saint-Germain-des-Prés.
-
-330
-00:23:13,200 --> 00:23:17,440
-Robert cherche Mireille au café de Flore, mais elle n'y est pas.
-
-331
-00:23:20,000 --> 00:23:25,040
-Il cherche au De Mago, un autre café très connu, juste en face de l'église.
-
-332
-00:23:25,820 --> 00:23:30,860
-Il va voir en face, à la Brasserie Lippe, un autre café et restaurant très connu.
-
-333
-00:23:31,620 --> 00:23:36,460
-Il va voir à côté, au Drugstore, à la Romerie Martiniquaise,
-
-334
-00:23:36,820 --> 00:23:39,380
-où on sert surtout des punchs, des boissons au rhum,
-
-335
-00:23:39,380 --> 00:23:43,160
-Chez Vagenande, un restaurant de style 1900
-
-336
-00:23:43,160 --> 00:23:47,860
-Au Procope, le plus vieux café de Paris qui date du 17ème siècle
-
-337
-00:23:47,860 --> 00:23:51,820
-Au Tabou, une cave, un night club très connu
-
-338
-00:23:51,820 --> 00:23:55,880
-Partout quoi, mais pas de Mireille, nulle part
-
-339
-00:23:55,880 --> 00:23:58,380
-Où peut-elle bien être ?
-
-340
-00:23:59,260 --> 00:24:01,380
-Où peut-elle bien être ?
-
-341
-00:24:01,380 --> 00:24:02,560
-Je sais pas
-
-342
-00:24:02,560 --> 00:24:04,240
-Personne ne le sait
-
-343
-00:24:04,240 --> 00:24:06,320
-Voyons ce que vous savez
-
-344
-00:24:06,720 --> 00:24:10,080
-Écoutez, regardez, réfléchissez et parlez.
-
-345
-00:24:11,120 --> 00:24:11,560
+00:10:38,220 --> 00:10:38,780
 Regardez.
 
+145
+00:10:40,020 --> 00:10:41,840
+Mireille habite à cet étage.
+
+146
+00:10:42,240 --> 00:10:43,980
+Ça, c'est l'étage au-dessus.
+
+147
+00:10:44,600 --> 00:10:46,540
+Et ça, c'est l'étage au-dessous.
+
+148
+00:10:47,860 --> 00:10:49,360
+Robert veut louer une voiture.
+
+149
+00:10:49,880 --> 00:10:51,360
+Pour aller à Provins, évidemment.
+
+150
+00:10:52,580 --> 00:10:56,580
+Le patron de l'hôtel lui recommande un garage sur le boulevard Raspail.
+
+151
+00:10:56,580 --> 00:10:59,240
+Parce que le patron du garage est un ami.
+
+152
+00:10:59,480 --> 00:11:03,020
+Allez au garage Shell, c'est en bas du boulevard Raspail.
+
+153
+00:11:03,560 --> 00:11:05,340
+En bas, en haut.
+
+154
+00:11:06,880 --> 00:11:08,840
+En bas, en haut.
+
+155
+00:11:09,520 --> 00:11:11,100
+En bas, en haut.
+
+156
+00:11:11,780 --> 00:11:14,440
+En bas, en haut.
+
+157
+00:11:15,660 --> 00:11:17,780
+En haut, en bas.
+
+158
+00:11:18,380 --> 00:11:19,380
+Il est où Raymond ?
+
+159
+00:11:19,380 --> 00:11:19,800
+Il est en haut.
+
+160
+00:11:20,420 --> 00:11:22,060
+En bas, en haut.
+
+161
+00:11:22,720 --> 00:11:25,120
+En haut, en bas.
+
+162
+00:11:25,660 --> 00:11:30,080
+Tout en haut de la chaîne des Pyrénées, au pied du massif du Vignomal, se trouve le lac de Gaube.
+
+163
+00:11:32,200 --> 00:11:37,180
+Allez au garage Shell. C'est en bas du boulevard Raspail. Vous pouvez y aller de ma part.
+
+164
+00:11:37,180 --> 00:11:42,420
+C'est ce que Robert fait. Il dit qu'il vient de la part du propriétaire de l'hôtel.
+
+165
+00:11:42,540 --> 00:11:43,040
+Bonjour, monsieur.
+
+166
+00:11:43,600 --> 00:11:43,920
+Bonjour.
+
+167
+00:11:45,280 --> 00:11:47,480
+Je viens de la part du propriétaire du home latin.
+
+168
+00:11:47,980 --> 00:11:50,800
+De la part de. Observez.
+
+169
+00:11:55,120 --> 00:12:00,120
+Allô? Oui, vous êtes bien chez M. Bello?
+
+170
+00:12:00,120 --> 00:12:05,120
+Oui, je peux voir s'il est là. C'est de la part de qui?
+
+171
+00:12:05,120 --> 00:12:08,120
+M. Charpentier. Très bien. Ne quittez pas.
+
+172
+00:12:08,120 --> 00:12:13,120
+Papa, c'est pour toi! M. Charpentier à l'appareil!
+
+173
+00:12:13,120 --> 00:12:16,120
+Robert vient de la part du propriétaire de son hôtel.
+
+174
+00:12:16,120 --> 00:12:21,120
+Le propriétaire, c'est le patron. On peut être propriétaire d'un hôtel,
+
+175
+00:12:21,120 --> 00:12:26,260
+On peut être propriétaire d'une maison et d'un jardin.
+
+176
+00:12:26,560 --> 00:12:28,620
+On peut être propriétaire d'une voiture.
+
+177
+00:12:29,820 --> 00:12:30,800
+Observez cette scène.
+
+178
+00:12:31,420 --> 00:12:34,620
+Vous allez voir un propriétaire de voiture inquiet.
+
+179
+00:12:34,960 --> 00:12:37,560
+C'est à vous la voiture 11 027 SK 94.
+
+180
+00:12:38,480 --> 00:12:40,320
+11 027 SK 94.
+
+181
+00:12:40,520 --> 00:12:43,180
+Vous connaissez le propriétaire ?
+
+182
+00:12:43,180 --> 00:12:47,380
+Robert peut choisir entre une grosse voiture ou une petite voiture.
+
+183
+00:12:47,380 --> 00:12:50,780
+Une grosse voiture, une petite voiture.
+
+184
+00:12:51,120 --> 00:12:53,940
+Et une toute petite voiture.
+
+185
+00:12:54,900 --> 00:12:58,200
+Une grosse voiture, une petite voiture.
+
+186
+00:13:00,080 --> 00:13:04,920
+Robert peut choisir entre un changement de vitesse automatique ou manuel, à main.
+
+187
+00:13:06,400 --> 00:13:09,580
+Ça, c'est un changement de vitesse manuel, au plancher.
+
+188
+00:13:10,860 --> 00:13:17,120
+Le garagiste lui recommande une CX, une voiture Citroën qui a une suspension hydraulique.
+
+189
+00:13:17,260 --> 00:13:18,660
+C'est très confortable.
+
+190
+00:13:18,660 --> 00:13:23,920
+Confortable, regardez, le plancher, ce n'est pas très confortable, c'est dur
+
+191
+00:13:23,920 --> 00:13:26,400
+Un canapé, c'est plus confortable
+
+192
+00:13:26,400 --> 00:13:30,120
+Un banc, c'est moins confortable qu'un canapé
+
+193
+00:13:30,120 --> 00:13:33,740
+Une chaise en fer, ce n'est pas très confortable
+
+194
+00:13:33,740 --> 00:13:36,660
+Mais deux chaises, c'est plus confortable
+
+195
+00:13:36,660 --> 00:13:40,120
+Et une chaise longue, c'est encore plus confortable
+
+196
+00:13:40,120 --> 00:13:44,360
+Mais le confort, ce n'est pas ce qui intéresse Robert
+
+197
+00:13:44,360 --> 00:13:47,340
+Le confort, ça lui est égal
+
+198
+00:13:48,240 --> 00:13:49,200
+Ça lui est égal.
+
+199
+00:13:50,240 --> 00:13:52,760
+Robert veut la voiture la moins chère.
+
+200
+00:13:53,120 --> 00:13:55,080
+Une 2 chevaux, par exemple, ou une R5.
+
+201
+00:13:56,140 --> 00:13:58,320
+Ce sont les voitures les moins chères.
+
+202
+00:13:58,940 --> 00:14:02,220
+Le garagiste a bien une R5, mais elle n'est pas allouée.
+
+203
+00:14:04,220 --> 00:14:05,680
+Je regrette, elle n'est pas allouée.
+
+204
+00:14:06,920 --> 00:14:10,800
+Écoutez ce que dit Marie-Laure, qui ne veut pas vendre son dernier chocolat.
+
+205
+00:14:10,800 --> 00:14:11,820
+Donne-moi un chocolat.
+
+206
+00:14:12,520 --> 00:14:13,960
+Il ne m'en reste plus qu'un.
+
+207
+00:14:14,520 --> 00:14:15,220
+Je te l'achète.
+
+208
+00:14:15,660 --> 00:14:16,140
+Combien?
+
+209
+00:14:17,340 --> 00:14:18,360
+50 centimes.
+
+210
+00:14:19,360 --> 00:14:23,860
+Je regrette. Ce chocolat n'est pas à vendre. Je le garde.
+
+211
+00:14:27,260 --> 00:14:30,700
+Le garagiste propose une Peugeot 205.
+
+212
+00:14:32,240 --> 00:14:37,480
+C'est plus cher qu'une 2 chevaux ou une R5, mais c'est ce qu'il a de moins cher.
+
+213
+00:14:39,160 --> 00:14:40,600
+C'est ce que vous avez de moins cher?
+
+214
+00:14:40,740 --> 00:14:40,920
+Oui.
+
+215
+00:14:41,560 --> 00:14:44,020
+La Citroën, c'est ce qu'il a de plus confortable.
+
+216
+00:14:44,020 --> 00:14:47,740
+L'Alpine, c'est ce qu'il a de plus rapide.
+
+217
+00:14:48,500 --> 00:14:51,740
+La R5, c'est ce qu'il y a de moins cher.
+
+218
+00:14:53,120 --> 00:14:54,360
+C'est combien pour la journée ?
+
+219
+00:14:54,360 --> 00:14:55,020
+450 francs.
+
+220
+00:14:57,260 --> 00:14:58,060
+Bon, je la prends.
+
+221
+00:14:58,560 --> 00:14:58,880
+Très bien.
+
+222
+00:14:59,860 --> 00:15:01,580
+Si vous voulez bien me donner votre permis de conduire.
+
+223
+00:15:10,180 --> 00:15:12,060
+Ah, un permis américain.
+
+224
+00:15:12,060 --> 00:15:16,040
+Ça, c'est un permis de conduire français.
+
+225
+00:15:17,980 --> 00:15:20,620
+Écoutez bien cette conversation entre le garagiste et Robert.
+
+226
+00:15:21,020 --> 00:15:24,440
+Ensuite, vous répondrez au garagiste comme si vous étiez Robert.
+
+227
+00:15:24,760 --> 00:15:26,960
+Je regrette, mais elle n'est pas allouée. Je ne peux pas vous la donner.
+
+228
+00:15:27,760 --> 00:15:29,060
+Si vous voulez, je peux vous donner une Peugeot 205.
+
+229
+00:15:29,700 --> 00:15:30,740
+C'est ce que vous avez de moins cher.
+
+230
+00:15:30,900 --> 00:15:31,100
+Oui.
+
+231
+00:15:31,720 --> 00:15:35,480
+Bon, c'est d'accord. C'est combien pour la journée ?
+
+232
+00:15:35,480 --> 00:15:36,060
+450 francs.
+
+233
+00:15:36,840 --> 00:15:37,620
+D'accord, je la prends.
+
+234
+00:15:38,040 --> 00:15:40,300
+Maintenant, répondez comme si vous étiez Robert.
+
+235
+00:15:40,580 --> 00:15:42,700
+Je regrette, mais elle n'est pas allouée. Je ne peux pas vous la donner.
+
+236
+00:15:43,520 --> 00:15:45,340
+Si vous voulez, je peux vous donner une Peugeot 205.
+
+237
+00:15:45,580 --> 00:15:46,560
+C'est ce que vous avez de moins cher.
+
+238
+00:15:47,280 --> 00:15:48,320
+C'est ce que vous avez de moins cher.
+
+239
+00:15:52,040 --> 00:15:53,260
+C'est ce que vous avez de moins cher.
+
+240
+00:15:53,720 --> 00:15:53,960
+Oui.
+
+241
+00:15:54,380 --> 00:15:55,920
+Bon, c'est d'accord.
+
+242
+00:15:56,740 --> 00:15:58,660
+C'est combien pour la journée ?
+
+243
+00:15:58,660 --> 00:16:00,240
+Bon, c'est d'accord.
+
+244
+00:16:01,040 --> 00:16:02,300
+C'est combien pour la journée ?
+
+245
+00:16:07,820 --> 00:16:09,540
+Bon, c'est d'accord.
+
+246
+00:16:10,300 --> 00:16:11,740
+C'est combien pour la journée ?
+
+247
+00:16:11,740 --> 00:16:12,680
+450 francs.
+
+248
+00:16:12,780 --> 00:16:13,500
+D'accord, je la prends.
+
+249
+00:16:14,220 --> 00:16:15,040
+D'accord, je la prends.
+
+250
+00:16:17,620 --> 00:16:18,640
+D'accord, je la prends.
+
+251
+00:16:19,600 --> 00:16:23,140
+Bon, alors, finalement, Robert prend la 205.
+
+252
+00:16:23,600 --> 00:16:25,080
+C'est une petite voiture Peugeot.
+
+253
+00:16:25,680 --> 00:16:27,780
+En France, il y a beaucoup de petites voitures.
+
+254
+00:16:28,060 --> 00:16:30,040
+Qu'est-ce que vous avez comme voiture ?
+
+255
+00:16:30,040 --> 00:16:32,940
+J'ai une Peugeot 304, une voiture française.
+
+256
+00:16:33,900 --> 00:16:35,540
+C'est une grosse voiture ?
+
+257
+00:16:35,540 --> 00:16:37,240
+Non, petite voiture.
+
+258
+00:16:37,240 --> 00:16:42,240
+C'est une voiture à changement de vitesse automatique ?
+
+259
+00:16:42,900 --> 00:16:44,220
+Non, changement de vitesse à main.
+
+260
+00:16:44,620 --> 00:16:48,240
+J'ai une 104 qui a 12 ans d'âge, comme un bon whisky.
+
+261
+00:16:49,300 --> 00:16:51,060
+C'est une grosse voiture ?
+
+262
+00:16:51,060 --> 00:16:56,420
+C'est une petite voiture qui me rend grand service dans Paris, qui marche très bien.
+
+263
+00:16:57,020 --> 00:17:01,140
+Revenons à Robert. Il est donc maintenant au volant de la 205.
+
+264
+00:17:01,840 --> 00:17:02,460
+Le volant.
+
+265
+00:17:02,460 --> 00:17:07,300
+Une jeune femme au volant d'un autobus
+
+266
+00:17:07,300 --> 00:17:11,860
+Robert demande son chemin au garagiste
+
+267
+00:17:11,860 --> 00:17:14,680
+Il demande comment il faut faire pour aller à Fontainebleau
+
+268
+00:17:14,680 --> 00:17:19,740
+Fontainebleau, oui, parce qu'il sait que Provins est à côté de Fontainebleau
+
+269
+00:17:19,740 --> 00:17:21,360
+Pour aller à Fontainebleau, c'est par là
+
+270
+00:17:21,360 --> 00:17:26,680
+Bon, pour comprendre les explications du garagiste, il faut réviser quelques termes
+
+271
+00:17:26,680 --> 00:17:29,720
+D'abord, un boulevard, ça, c'est le boulevard Raspail
+
+272
+00:17:29,720 --> 00:17:45,760
+Le boulevard Saint-Michel, le boulevard Saint-Germain. Il y a aussi un boulevard périphérique. C'est un boulevard qui fait le tour de Paris. Et puis il y a les avenues qui ressemblent au boulevard.
+
+273
+00:17:45,760 --> 00:18:02,200
+Ça, par exemple, c'est l'avenue du général Leclerc. Les Champs-Élysées aussi, c'est une avenue, une très grande avenue, très large. Voilà encore une avenue. Et puis, il y a les rues. Une rue, une petite rue, une vieille rue.
+
+274
+00:18:02,200 --> 00:18:08,440
+Et puis il y a les places
+
+275
+00:18:08,440 --> 00:18:11,280
+La place Saint-Michel, la place de la Sorbonne
+
+276
+00:18:11,280 --> 00:18:14,500
+La place de la Concorde, la place Vendôme
+
+277
+00:18:14,500 --> 00:18:17,500
+La place de la Bastille, la place de l'Etoile
+
+278
+00:18:17,500 --> 00:18:21,320
+La place Saint-Sulpice, une place en province
+
+279
+00:18:21,320 --> 00:18:25,000
+Une autre place en province, une autre place
+
+280
+00:18:25,000 --> 00:18:30,320
+Et en dehors des villes, il y a les routes et les autoroutes
+
+281
+00:18:30,320 --> 00:18:38,560
+pour prendre une autoroute ou pour sortir d'une autoroute il y a des échangeurs un échangeur
+
+282
+00:18:38,560 --> 00:18:47,060
+voilà un échangeur une sortie d'autoroute pour aller à fontainebleau robert doit prendre
+
+283
+00:18:47,060 --> 00:18:54,260
+l'autoroute à 6 pour arriver à l'autoroute à 6 il doit remonter le boulevard raspail
+
+284
+00:18:54,260 --> 00:18:59,900
+Voilà des voitures qui remontent l'avenue des Champs-Elysées
+
+285
+00:18:59,900 --> 00:19:07,160
+Il faut suivre le boulevard Aspaille jusqu'à la place d'Enfer-Rochereau
+
+286
+00:19:07,160 --> 00:19:12,300
+Là, il faut obliquer à droite, tourner un peu à droite
+
+287
+00:19:12,300 --> 00:19:15,380
+Voilà une voiture qui oblique à droite
+
+288
+00:19:15,380 --> 00:19:21,700
+A la porte d'Orléans, il faut prendre le périphérique vers la gauche, c'est-à-dire vers l'est
+
+289
+00:19:21,700 --> 00:19:26,140
+vers l'autoroute A6 qui va à Lyon.
+
+290
+00:19:27,380 --> 00:19:29,340
+Heureusement, il y a des panneaux partout.
+
+291
+00:19:29,840 --> 00:19:31,380
+On ne peut pas se perdre.
+
+292
+00:19:31,880 --> 00:19:33,760
+Il est impossible de se perdre.
+
+293
+00:19:34,160 --> 00:19:36,340
+Il n'y a pas moyen de se perdre.
+
+294
+00:19:36,560 --> 00:19:37,700
+Il y a des panneaux partout.
+
+295
+00:19:38,120 --> 00:19:39,520
+Il n'y a pas moyen de se tromper.
+
+296
+00:19:39,760 --> 00:19:40,700
+Vous ne pouvez pas vous perdre.
+
+297
+00:19:40,700 --> 00:19:43,660
+C'est impossible. Il n'y a pas moyen.
+
+298
+00:19:44,320 --> 00:19:46,780
+Observez cette scène où Mireille n'arrive pas
+
+299
+00:19:46,780 --> 00:19:48,460
+à ouvrir un pot de confiture.
+
+300
+00:19:51,700 --> 00:19:59,380
+Je regrette, il n'y a pas moyen de l'ouvrir.
+
+301
+00:19:59,780 --> 00:20:01,180
+Il doit bien y avoir un moyen.
+
+302
+00:20:01,800 --> 00:20:03,120
+Je te dis qu'il n'y a pas moyen.
+
+303
+00:20:03,960 --> 00:20:04,900
+J'ai tout essayé.
+
+304
+00:20:11,180 --> 00:20:12,820
+Tu vois qu'il y avait un moyen.
+
+305
+00:20:13,420 --> 00:20:15,300
+Quand on veut, il y a toujours moyen.
+
+306
+00:20:15,780 --> 00:20:18,540
+Bien sûr, quand on veut, il y a toujours moyen.
+
+307
+00:20:19,460 --> 00:20:22,680
+Robert trouve toujours moyen de se perdre.
+
+308
+00:20:22,980 --> 00:20:27,340
+Regardez-le. Il est complètement perdu en pleine Bourgogne.
+
+309
+00:20:28,540 --> 00:20:29,400
+Voilà ce qui s'est passé.
+
+310
+00:20:29,820 --> 00:20:31,700
+Il sortait de l'autoroute à Fontainebleau
+
+311
+00:20:31,700 --> 00:20:36,100
+quand il a vu une alpine rouge avec une jeune fille blonde dedans.
+
+312
+00:20:37,680 --> 00:20:39,380
+Il a fait demi-tour.
+
+313
+00:20:40,180 --> 00:20:43,180
+Un tour, un demi-tour.
+
+314
+00:20:44,120 --> 00:20:46,180
+La voiture fait demi-tour.
+
+315
+00:20:46,180 --> 00:20:48,580
+Elles font demi-tour
+
+316
+00:20:48,580 --> 00:20:55,920
+Robert a fait demi-tour et il s'est lancé à la poursuite de l'alpine
+
+317
+00:20:55,920 --> 00:20:59,020
+Il suit l'alpine, c'est une poursuite
+
+318
+00:20:59,020 --> 00:21:02,760
+Il fonce, il va aussi vite qu'il peut
+
+319
+00:21:02,760 --> 00:21:05,740
+Il se dépêche, il fonce
+
+320
+00:21:05,740 --> 00:21:08,040
+Il fonce
+
+321
+00:21:08,040 --> 00:21:09,700
+Allez, fonce, fonce
+
+322
+00:21:09,700 --> 00:21:15,620
+Robert fonce le pied au plancher
+
+323
+00:21:15,620 --> 00:21:19,100
+Il appuie sur l'accélérateur à fond, au maximum.
+
+324
+00:21:20,260 --> 00:21:22,840
+Robert essaie de dépasser l'Alpine.
+
+325
+00:21:23,940 --> 00:21:26,860
+Regardez, nous n'allons pas vite, toutes les voitures nous dépassent.
+
+326
+00:21:27,560 --> 00:21:30,360
+Regardez le taxi, il va dépasser la petite voiture.
+
+327
+00:21:32,200 --> 00:21:37,600
+Près de Beaune, en Bourgogne, l'Alpine s'arrête dans une station-service pour prendre de l'essence.
+
+328
+00:21:37,640 --> 00:21:38,840
+Le plein de super, s'il vous plaît.
+
+329
+00:21:40,180 --> 00:21:44,860
+Vous pouvez demander 10 litres, 20 litres ou, en général, le plein.
+
+330
+00:21:45,620 --> 00:21:47,700
+Le plat, s'il vous plaît
+
+331
+00:21:47,700 --> 00:21:51,420
+Le plat, s'il vous plaît
+
+332
+00:21:51,420 --> 00:21:53,280
+Tout de suite, mademoiselle
+
+333
+00:21:53,280 --> 00:21:58,000
+Dans les stations d'essence, il y a deux sortes d'essence
+
+334
+00:21:58,000 --> 00:22:00,200
+L'essence ordinaire et le super
+
+335
+00:22:00,200 --> 00:22:03,440
+Le super est plus cher que l'essence ordinaire
+
+336
+00:22:03,440 --> 00:22:09,200
+Quand Robert voit que la jeune fille blonde n'est pas Mireille
+
+337
+00:22:09,200 --> 00:22:12,480
+Il est écoeuré, il est dégoûté
+
+338
+00:22:12,480 --> 00:22:17,460
+et il va se perdre dans les vignobles de Bourgogne,
+
+339
+00:22:18,200 --> 00:22:20,520
+à Lox-Corton, Nuit-Saint-Georges, etc.
+
+340
+00:22:25,280 --> 00:22:29,660
+Pendant ce temps-là, Mireille emprunte une voiture à tonton Guillaume.
+
+341
+00:22:29,720 --> 00:22:31,640
+Est-ce que tu pourrais me prêter une voiture ?
+
+342
+00:22:31,640 --> 00:22:36,860
+Mireille emprunte la voiture, et son oncle prête sa voiture.
+
+343
+00:22:37,340 --> 00:22:37,820
+Observez.
+
+344
+00:22:38,420 --> 00:22:42,460
+Ben dis donc, tu es riche, tu peux me prêter 50 francs ?
+
+345
+00:22:42,460 --> 00:22:45,080
+Tu me les rendras ?
+
 346
-00:24:12,520 --> 00:24:16,080
-Est-ce que toutes les places sont prises ou est-ce qu'il y a des places libres ?
+00:22:45,080 --> 00:22:50,100
+Dix, vingt, trente, quarante et cinquante.
 
 347
-00:24:17,640 --> 00:24:19,160
-Il y a des places libres.
+00:22:50,520 --> 00:22:50,920
+Merci.
 
 348
-00:24:21,080 --> 00:24:25,080
-Et ici, est-ce qu'il y a des places libres ou toutes les places sont prises ?
+00:22:53,200 --> 00:22:56,660
+Tiens, les cinquante francs que je t'ai empruntés hier.
 
 349
-00:24:26,080 --> 00:24:28,360
-Toutes les places sont prises.
+00:22:57,020 --> 00:22:57,520
+Merci.
 
 350
-00:24:29,960 --> 00:24:31,140
-Regardez Robert et Mireille.
+00:22:57,960 --> 00:23:05,140
+Dans cette scène, Mireille emprunte cinquante francs et Marie-Laure prête cinquante francs.
 
 351
-00:24:31,780 --> 00:24:35,220
-Ils sont dans le compartiment ou dans le couloir ?
+00:23:05,580 --> 00:23:09,380
+Mireille emprunte sa voiture à tonton Guillaume.
 
 352
-00:24:35,220 --> 00:24:36,540
-Dans le couloir.
+00:23:09,380 --> 00:23:12,480
+Et tonton Guillaume lui prête sa voiture.
 
 353
-00:24:37,060 --> 00:24:40,680
-Et ce monsieur, il est dans le compartiment ou dans le couloir ?
+00:23:14,000 --> 00:23:19,380
+Tonton Guillaume va téléphoner au garage pour les prévenir que Mireille va prendre sa voiture.
 
 354
-00:24:40,680 --> 00:24:42,120
-Dans le compartiment.
+00:23:20,020 --> 00:23:22,520
+Il va prévenir le garage.
 
 355
-00:24:43,740 --> 00:24:51,580
-D'après cette image, est-ce que vous pouvez dire que cette voiture a des reprises foudroyantes ou qu'elle freine bien ?
+00:23:23,920 --> 00:23:26,180
+Il faut toujours téléphoner pour prévenir.
 
 356
-00:24:51,580 --> 00:24:52,640
-Qu'elle freine bien.
+00:23:27,160 --> 00:23:27,580
+Regardez.
 
 357
-00:24:54,100 --> 00:24:55,600
-Regardez Robert et Mireille ici.
+00:23:27,980 --> 00:23:30,340
+Je vais prévenir pour qu'on envoie quelqu'un ici et qu'on surveille votre maison.
 
 358
-00:24:56,660 --> 00:24:57,600
-Qu'est-ce qu'ils font ?
+00:23:31,820 --> 00:23:33,720
+Attention, ici c'est plus grave.
 
 359
-00:24:57,600 --> 00:25:01,600
-Ils font de l'autostop ou ils prennent le train ?
+00:23:34,080 --> 00:23:35,640
+C'est la police qu'il a fallu prévenir.
 
 360
-00:25:01,600 --> 00:25:03,200
-Ils font de l'autostop.
+00:23:35,880 --> 00:23:39,080
+Et donc en fait, votre ami Bailly est mort le 25 juin 1973.
 
 361
-00:25:03,200 --> 00:25:06,440
-D'après vous, ça, c'est un aéroglisseur ou un bateau-mouche?
+00:23:40,060 --> 00:23:41,620
+Vous savez à quelle heure ?
 
 362
-00:25:08,580 --> 00:25:09,600
-Un bateau-mouche.
+00:23:41,620 --> 00:23:42,500
+À 8h17.
 
 363
-00:25:12,820 --> 00:25:15,640
-Vous avez une voiture qui consomme très peu.
+00:23:43,760 --> 00:23:44,800
+Je le sais, j'y étais.
 
 364
-00:25:16,160 --> 00:25:17,820
-C'est un inconvénient ou un avantage?
+00:23:46,340 --> 00:23:49,040
+J'ai regardé ma montre à ce moment-là, en réflexe.
 
 365
-00:25:19,160 --> 00:25:20,380
-C'est un avantage.
+00:23:50,740 --> 00:23:53,040
+Et c'est moi qui ai prévenu la police de cet accident stupide.
 
 366
-00:25:23,480 --> 00:25:27,960
-Vous recevez un cadeau et vous êtes presque sûr que ce sont des chocolats.
+00:23:53,560 --> 00:23:57,580
+Dans les cas graves, il faut toujours prévenir la police.
 
 367
-00:25:28,420 --> 00:25:30,460
-Qu'est-ce que vous dites? Vous dites...
+00:23:57,900 --> 00:24:01,140
+Si dans une demi-guerre, vous n'avez pas de nouvelles de moi, vous prévenez la police.
 
 368
-00:25:30,460 --> 00:25:33,140
-Ça ne m'étonnerait pas si c'était des chocolats.
+00:24:01,540 --> 00:24:03,040
+Voyons ce que vous pouvez dire.
 
 369
-00:25:33,660 --> 00:25:34,360
-Encore une fois.
+00:24:03,740 --> 00:24:06,700
+Écoutez, réfléchissez et parlez.
 
 370
-00:25:37,740 --> 00:25:40,540
-Ça ne m'étonnerait pas si c'était des chocolats.
+00:24:06,700 --> 00:24:11,700
+Regardez Robert. Il est en forme ou pas en forme ?
 
 371
-00:25:41,180 --> 00:25:44,020
-Vous n'êtes pas content. Vous regrettez d'être venu.
+00:24:11,700 --> 00:24:13,700
+Il n'est pas en forme.
 
 372
-00:25:44,180 --> 00:25:45,980
-Qu'est-ce que vous dites ? Vous dites...
+00:24:13,700 --> 00:24:20,700
+D'après vous, Provins, c'est plutôt au sud-est de Paris ou au nord-ouest ?
 
 373
-00:25:45,980 --> 00:25:47,540
-Si j'avais su, je serais resté chez moi.
+00:24:20,700 --> 00:24:22,700
+Au sud-est.
 
 374
-00:25:47,720 --> 00:25:48,300
-Encore une fois.
+00:24:22,700 --> 00:24:29,700
+Sur la carte, Provins est au-dessus ou au-dessous de Fontainebleau ?
 
 375
-00:25:51,140 --> 00:25:52,940
-Si j'avais su, je serais resté chez moi.
+00:24:29,700 --> 00:24:31,700
+Au-dessus.
 
 376
-00:25:53,360 --> 00:25:57,000
-Maintenant, votre fille ou votre petite sœur fait une bêtise.
+00:24:32,380 --> 00:24:35,440
+Vous êtes Mireille. Vous répondez au téléphone.
 
 377
-00:25:57,000 --> 00:25:59,620
-Elle laisse tomber le plateau du goûter, par exemple.
+00:24:36,120 --> 00:24:38,280
+C'est quelqu'un qui veut parler à M. Bello.
 
 378
-00:26:00,160 --> 00:26:01,240
-Qu'est-ce que vous dites ?
+00:24:38,820 --> 00:24:40,700
+Qu'est-ce que vous demandez ?
 
 379
-00:26:01,240 --> 00:26:02,000
-C'est pas vrai !
+00:24:41,240 --> 00:24:42,580
+Vous dites ?
 
 380
-00:26:02,000 --> 00:26:03,240
-Encore une fois
+00:24:42,580 --> 00:24:43,940
+C'est de la part de qui ?
 
 381
-00:26:03,240 --> 00:26:06,300
-C'est pas vrai
+00:24:43,940 --> 00:24:44,620
+Encore une fois.
 
 382
-00:26:06,300 --> 00:26:08,580
-Une fois de plus, vous avez raison
+00:24:45,260 --> 00:24:47,080
+C'est de la part de qui ?
 
 383
-00:26:08,580 --> 00:26:10,000
-Qu'est-ce que vous dites ?
+00:24:47,080 --> 00:24:50,700
+Qu'est-ce que c'est que ça ? Le changement de vitesse ou le volant ?
 
 384
-00:26:10,000 --> 00:26:13,320
-Qu'est-ce que je disais ? Je ne me trompe jamais
+00:24:51,220 --> 00:24:51,840
+Le volant.
 
 385
-00:26:13,320 --> 00:26:14,080
-Encore une fois
+00:24:52,680 --> 00:24:55,700
+Et ça, c'est le changement de vitesse ou le frein ?
 
 386
-00:26:18,080 --> 00:26:21,600
-Qu'est-ce que je disais ? Je ne me trompe jamais
+00:24:55,700 --> 00:24:57,320
+Le changement de vitesse.
 
 387
-00:26:21,600 --> 00:26:24,600
-Je crois qu'il y a une souris par ici
+00:24:57,320 --> 00:25:01,320
+D'après vous, ça, c'est une autoroute ou une route ?
 
 388
-00:26:24,600 --> 00:26:26,020
-Vous n'avez pas vu une souris ?
+00:25:01,700 --> 00:25:04,280
+Une autoroute.
 
 389
-00:26:26,020 --> 00:26:27,280
-Qu'est-ce que je disais ? La voilà
+00:25:05,240 --> 00:25:11,340
+D'après vous, ces voitures descendent les Champs-Élysées ou elles les remontent ?
 
 390
-00:26:27,280 --> 00:26:29,720
-Qu'est-ce qu'il y a, monsieur Guignol ?
+00:25:11,340 --> 00:25:12,680
+Elles les remontent.
 
 391
-00:26:29,720 --> 00:26:30,980
-Il y a une souris
+00:25:14,100 --> 00:25:20,120
+D'après le garagiste, pourquoi est-ce qu'il n'y a pas moyen de se tromper ?
 
 392
-00:26:30,980 --> 00:26:33,800
-Mais enfin, M. Guignol, c'est pas vrai. Vous avez peur des souris ?
+00:25:20,120 --> 00:25:22,580
+Parce qu'il y a des panneaux partout.
 
 393
-00:26:33,800 --> 00:26:35,260
-Oui, alors !
+00:25:24,220 --> 00:25:26,480
+Qu'est-ce que Robert fait ?
 
 394
-00:26:35,260 --> 00:26:36,800
-Mais voyons, à votre âge...
+00:25:26,480 --> 00:25:28,180
+Il fait demi-tour.
 
 395
-00:26:36,800 --> 00:26:39,420
-Oui, j'ai peur des souris. C'est de l'essence.
+00:25:29,180 --> 00:25:31,680
+Vous avez besoin d'essence ou de super ?
 
 396
-00:27:00,980 --> 00:27:29,980
-...
+00:25:31,680 --> 00:25:32,360
+Qu'est-ce que vous dites?
 
 397
-00:27:29,980 --> 00:27:59,960
-Sous-titrage ST' 501
+00:25:37,340 --> 00:25:38,960
+Le plein de super, s'il vous plaît.
 
 398
-00:27:59,980 --> 00:28:29,960
-Sous-titrage ST' 501
+00:25:41,200 --> 00:25:42,860
+Mireille veut aller à Provins.
 
 399
-00:28:29,980 --> 00:28:30,980
-Merci.
+00:25:43,520 --> 00:25:44,160
+Elle n'a pas de voiture.
+
+400
+00:25:45,660 --> 00:25:47,200
+Qu'est-ce qu'elle demande à Tonton Guillaume?
+
+401
+00:25:48,960 --> 00:25:53,900
+Elle lui demande de lui prêter une voiture.
+
+402
+00:25:56,000 --> 00:25:58,080
+Vous avez rendez-vous avec Mireille.
+
+403
+00:25:58,680 --> 00:25:59,500
+Vous ne pouvez pas y aller.
+
+404
+00:26:00,080 --> 00:26:00,820
+Qu'est-ce qu'il faut faire?
+
+405
+00:26:01,680 --> 00:26:04,680
+Il faut la prévenir.
+
+406
+00:26:04,680 --> 00:26:08,680
+Bonjour, M. Guignol. Je viens de la part de M. Dupont.
+
+407
+00:26:10,680 --> 00:26:12,680
+M. Dupont connaît pas.
+
+408
+00:26:12,680 --> 00:26:14,680
+C'est pour louer une voiture.
+
+409
+00:26:14,680 --> 00:26:16,680
+Vous voulez louer une voiture?
+
+410
+00:26:16,680 --> 00:26:19,680
+Oui, M. Guignol, je veux louer une voiture.
+
+411
+00:26:19,680 --> 00:26:23,680
+J'essaye de vous fondre. Voilà une très belle voiture.
+
+412
+00:26:23,680 --> 00:26:29,680
+Confortable, rapide, toit ouvrant, quatre roues.
+
+413
+00:26:29,680 --> 00:26:32,000
+Roux, ça tient très bien la route.
+
+414
+00:26:32,740 --> 00:26:35,240
+Un volant, ça se conduit avec le petit doigt.
+
+415
+00:26:35,900 --> 00:26:39,300
+Capot, moteur, brrrr, brrrr.
+
+416
+00:26:40,300 --> 00:26:43,480
+Mâche avant, mâche arrière, tout quoi.
+
+417
+00:26:43,620 --> 00:26:44,640
+C'est combien ?
+
+418
+00:26:44,640 --> 00:26:45,820
+1000 francs par jour.
+
+419
+00:26:46,300 --> 00:26:47,140
+Bon, je la prends.
+
+420
+00:26:59,680 --> 00:27:29,660
+Sous-titrage ST' 501
+
+421
+00:27:29,680 --> 00:27:53,680
+...
+
+422
+00:27:59,680 --> 00:28:29,080
+Sous-titrage ST' 501
+
+423
+00:28:29,680 --> 00:28:33,160
+Pour plus d'informations sur ce et d'autres programmes de médias d'Annenberg,
+
+424
+00:28:34,100 --> 00:28:39,960
+appelez 1-800-LEARNER et visitez nous à www.learner.org.
 
