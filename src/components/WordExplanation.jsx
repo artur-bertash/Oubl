@@ -1,137 +1,165 @@
-import React, {useState, useEffect, useRef} from 'react'
+import React, { useState, useEffect } from "react"
 import ankiConnectInvoke from "../logic/sendToAnki"
-function WordExplanation({word, previousCues, nextCues, currCue, episode }) {
-    const [response, setResponse] = useState(null)
+import front from "../assets/front"
+import back from "../assets/back"
+
+export default function WordExplanation({
+    word,
+    previousCues,
+    nextCues,
+    currCue,
+    episode,
+    episodeId,
+    timestamp,
+    duration,
+}) {
     const [loading, setLoading] = useState(true)
-    
-    async function getTranslation(text) {
-        console.log("Trasnalting", text)
-        const res = await fetch("/api/translate", {
-            method: "POST",
-            headers: {
-            "Content-Type": "application/json",
-            },
-            body: JSON.stringify({ text }),
-        })
-
-        if (!res.ok) {
-            const error = await res.text()
-            console.log(`Backend couldn't return: ${error}`);
-            return null
-        }
-
-        const contentType = res.headers.get("content-type")
-        if (!contentType || !contentType.includes("application/json")) {
-            const raw = await res.text()
-            console.log("Backend returned raw text:", raw)
-            return raw 
-        }
-
-        const translation = await res.json()
-        console.log("Translation JSON:", translation)
-        
-        return translation.translated
-    }
-
-
-    async function AddWordSentenceHandler(type) {
-        const translation = await getTranslation(type == "word" ? word : currCue)
-        await ankiConnectInvoke("addNote", 5, {"note": {
-            "deckName": "FIA",
-            "modelName": "Basic", 
-            "fields": {
-                "Front": `${type == "word" ? word : currCue}`,
-                "Back": `${translation}`
-            },
-            "tags": [
-                `${type}`, `${episode}`
-            ],
-            "audio": { 
-                "url": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=猫&kana=ねこ",
-                "filename": "yomichan_ねこ_猫.mp3",
-                "skipHash": "7e2c2f954ef6051373ba916f000168dc",
-                "fields": ["Front"] 
-            }
-            }})
-        
-        console.log(translation)
-    }
-    
+    const [explanation, setExplanation] = useState(null)
+    const [error, setError] = useState(null)
 
     useEffect(() => {
-        async function getExplanation() {
-            try {
-                setLoading(true)
-                const res = await fetch("/api/explain", {
-                    method: "POST",
-                    headers: {
-                        "Content-Type": "application/json",
-                    },
-                    body: JSON.stringify({ word, previousCues, nextCues, currCue }),
-                })
-
-                
-                if (!res.ok) {
-                    const errorText = await res.text()
-                    console.error("API Error:", res.status, errorText)
-                    setResponse({ error: `API Error: ${res.status} - ${errorText}` })
-                    setLoading(false)
-                    return
-                }
-
-                
-                const contentType = res.headers.get("content-type")
-                if (!contentType || !contentType.includes("application/json")) {
-                    const text = await res.text()
-                    console.error("Invalid JSON response:", text)
-                    setResponse({ error: "Invalid JSON response from server" })
-                    setLoading(false)
-                    return
-                }
-
-                const data = await res.json()
-                console.log(data)
-                setResponse(data)
-                setLoading(false)
-            } catch (err) {
-                console.error("Fetch error:", err)
-                setResponse({ error: err.message })
-                setLoading(false)
-            }
-        }
-        
-        getExplanation()
+        fetchExplanation()
     }, [word])
-    
+
+    async function fetchExplanation() {
+        setLoading(true)
+        setError(null)
+
+        try {
+            const res = await postJson("/api/explain", {
+                word,
+                previousCues,
+                nextCues,
+                currCue,
+            })
+
+            setExplanation(res.explanation)
+        } catch (err) {
+            console.error(err)
+            setError(err.message)
+        } finally {
+            setLoading(false)
+        }
+    }
+
+    async function handleAdd(type) {
+        const content = type === "word" ? word : currCue
+        let translation = null
+
+        try {
+            try {
+                const res = await postJson("/api/translate", { text: content })
+                translation = res.translated
+            } catch (e) {
+                console.warn("Translation failed:", e)
+            }
+
+            await createAnkiCard({
+                type,
+                content,
+                translation,
+                episodeId,
+                timestamp,
+                duration,
+                episode,
+            })
+        } catch (err) {
+            console.error(err)
+            alert(`Failed to add to Anki: ${err.message}`)
+        }
+    }
 
     return (
-        <>
-        
         <div className="word-explanation">
-            {loading ? (
-                <div>Loading explanation...</div>
-            ) : (
+            {loading && <div>Loading explanation...</div>}
+
+            {!loading && error && (
+                <div style={{ color: "red" }}>Error: {error}</div>
+            )}
+
+            {!loading && !error && (
                 <>
                     <h3>{word}</h3>
-                    {response?.error ? (
-                        <div style={{ color: 'red' }}>
-                            Error: {typeof response.error === 'string' ? response.error : response.error.message || 'Unknown error'}
-                        </div>
-                    ) : response?.explanation ? (
-                        <div>{response.explanation}</div>
-                    ) : null}
+                    <div>{explanation}</div>
                 </>
             )}
-            <div className='buttonsAddAnki'>
-                <button onClick={() => {AddWordSentenceHandler("word")}}>Add Word</button>
-                <button onClick={() => {AddWordSentenceHandler("sentence")}}>Add sentence</button>
+
+            <div className="buttonsAddAnki">
+                <button onClick={() => handleAdd("word")}>Add Word</button>
+                <button onClick={() => handleAdd("sentence")}>Add sentence</button>
             </div>
-            
-            
         </div>
-        
-        </>
     )
 }
 
-export default WordExplanation
+
+
+async function postJson(url, body) {
+    const res = await fetch(url, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(body),
+    })
+
+    if (!res.ok) {
+        const text = await res.text()
+        throw new Error(text || `Request failed (${res.status})`)
+    }
+
+    return res.json()
+}
+
+async function createAnkiCard({
+    type,
+    content,
+    translation,
+    episodeId,
+    timestamp,
+    duration,
+    episode,
+}) {
+    const suffix = Date.now()
+
+    const imgFile = `oubl_img_${episodeId}_${timestamp}_${suffix}.jpg`
+    const audioFile = `oubl_audio_${episodeId}_${timestamp}_${suffix}.mp3`
+
+    const imgUrl = `http://74.208.167.229:3001/screenshot?id=${episodeId}&timestamp=${timestamp}`
+    const audioUrl = `http://74.208.167.229:3001/audio?id=${episodeId}&timestamp=${timestamp}&duration=${duration}`
+
+    const storedImg = await storeMedia(imgFile, imgUrl)
+    const storedAudio = await storeMedia(audioFile, audioUrl)
+
+    await ankiConnectInvoke("createDeck", 5, {
+        deck: `FIA::${episodeId} EP`,
+    }).catch(console.error)
+
+    await ankiConnectInvoke("addNote", 5, {
+        note: {
+            deckName: `FIA::${episodeId} EP`,
+            modelName: "Basic",
+            fields: {
+                Front: front({
+                    imgSrc: storedImg,
+                    Sentence: content,
+                    audio: `[sound:${storedAudio}]`,
+                }),
+                Back: back({
+                    imgSrc: storedImg,
+                    ogSentence: content,
+                    translatedSentence: translation,
+                    audio: `[sound:${storedAudio}]`,
+                }),
+            },
+            tags: [type, episode],
+        },
+    })
+}
+
+async function storeMedia(filename, url) {
+    const result = await ankiConnectInvoke("storeMediaFile", 6, {
+        filename,
+        url,
+    })
+
+    return result || filename
+}
