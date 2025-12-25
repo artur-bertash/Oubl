@@ -3,1558 +3,1658 @@
 Sous-titrage ST' 501
 
 2
-00:00:30,000 --> 00:00:31,340
-et s'imprégner.
+00:00:30,000 --> 00:00:59,980
+Sous-titrage MFP.
 
 3
-00:00:32,000 --> 00:00:33,740
-Très bientôt, vous verrez ce qui se passe
+00:01:00,000 --> 00:01:29,980
+Sous-titrage MFP.
 
 4
-00:00:33,740 --> 00:00:37,220
-et vous serez en mesure de dire un peu de choses en français vous-même.
+00:01:30,000 --> 00:01:35,580
+En effet, peu après, Robert débouche dans la rue de Vosgirard.
 
 5
-00:00:40,500 --> 00:00:42,580
-Mireille arrête de acheter un voiture de son oncle
+00:01:50,940 --> 00:01:51,500
+52.
 
 6
-00:00:42,580 --> 00:00:43,880
-pour visiter sa amie à Provence.
+00:01:52,480 --> 00:01:53,740
+Ça doit être par là.
 
 7
-00:00:44,360 --> 00:00:47,220
-Quand ça ne va pas commencer, le garage-mère lui donne un limon
+00:01:55,960 --> 00:01:57,720
+54 ?
 
 8
-00:00:47,220 --> 00:00:49,020
-qui lui donne tous les problèmes.
+00:01:57,720 --> 00:01:58,860
+Non, alors c'est pas ici.
 
 9
-00:00:49,480 --> 00:00:50,920
-En retour, elle essaie de appeler Robert,
+00:02:00,000 --> 00:02:11,960
+46, 28, 12
 
 10
-00:00:51,120 --> 00:00:52,460
-mais il est encore en train de faire des recherches
+00:02:11,960 --> 00:02:15,240
+Mais où est-ce que c'est le 18 ?
 
 11
-00:00:52,460 --> 00:00:53,900
-sur les fines vins de Burgundy.
+00:02:15,240 --> 00:02:17,260
+Il n'y a pas de 18, ça n'existe pas
 
 12
-00:01:00,000 --> 00:01:10,280
-Robert est perdu en pleine Bourgogne.
+00:02:17,260 --> 00:02:22,580
+Ça alors, est-ce que Mireille m'aurait donné un faux numéro ?
 
 13
-00:01:16,360 --> 00:01:20,600
-Il fait une étude systématique des grands crus.
+00:02:22,580 --> 00:02:25,940
+Mais non, voilà, 18 c'est ici
 
 14
-00:01:25,580 --> 00:01:26,740
-Belle robe, hein?
+00:02:25,940 --> 00:02:31,020
+C'est un immeuble assez ancien, à cinq étages, avec un sixième étage sous le toit.
 
 15
-00:01:30,000 --> 00:01:31,000
-Il a du nez.
+00:02:31,440 --> 00:02:36,380
+Près de la porte d'entrée, il y a un bouton et un petit écriteau qui dit « Sonnez et entrez ».
 
 16
-00:01:32,840 --> 00:01:35,340
-Et pendant ce temps-là, où est Mireille ?
+00:02:36,380 --> 00:02:39,540
+Robert appuie sur le bouton, pousse la porte et entre.
 
 17
-00:01:36,800 --> 00:01:38,760
-Ah, ça, je ne sais pas.
+00:02:40,180 --> 00:02:41,800
+La lumière s'éteint aussitôt.
 
 18
-00:01:39,760 --> 00:01:43,300
-Elle va chercher la voiture de tonton Guillaume.
+00:02:52,100 --> 00:02:55,540
+Le vestibule est sombre et sent le pipi de chat.
 
 19
-00:01:45,760 --> 00:01:48,260
-Elle s'amène au garage comme une fleur.
+00:02:55,940 --> 00:02:59,080
+Robert cherche une liste des locataires
 
 20
-00:01:52,800 --> 00:01:54,000
-Mais le contact...
+00:02:59,080 --> 00:03:00,100
+Il n'y en a pas
 
 21
-00:01:56,580 --> 00:01:58,660
-La voiture refuse de démarrer.
+00:03:00,100 --> 00:03:03,520
+Il se dit qu'il aurait dû demander à Mireille à quel étage elle habitait
 
 22
-00:02:00,000 --> 00:02:03,100
-Je crois qu'elle est morte, elle ne veut pas démarrer.
+00:03:03,520 --> 00:03:05,140
+Cela aurait été plus simple
 
 23
-00:02:06,000 --> 00:02:08,740
-Ah, c'est rien ma petite demoiselle, les accuses sont à plat, mais ne nous en faites pas.
+00:03:05,140 --> 00:03:07,820
+Sur la porte vitrée de la loge de la concierge
 
 24
-00:02:13,920 --> 00:02:15,560
-Non, la vie, il ne faut pas s'en faire.
+00:03:07,820 --> 00:03:09,960
+Il y a un écriteau qui dit frappez fort
 
 25
-00:02:16,300 --> 00:02:17,720
-Moi, je ne m'en fais pas.
+00:03:09,960 --> 00:03:11,540
+Robert frappe
 
 26
-00:02:21,300 --> 00:02:21,980
-Quoi ?
+00:03:11,540 --> 00:03:13,200
+Aucun effet
 
 27
-00:02:21,980 --> 00:02:23,000
-Quoi ?
+00:03:13,200 --> 00:03:18,720
+Il frappe plus fort
 
 28
-00:02:23,000 --> 00:02:25,040
-Ouais, elle est morte.
+00:03:18,720 --> 00:03:22,640
+Oui, qu'est-ce que c'est ?
 
 29
-00:02:25,200 --> 00:02:27,460
-Les accuses sont à plat, mais ne nous faites pas de billes, je vais arranger ça.
+00:03:22,640 --> 00:03:29,820
+Bello, s'il vous plaît.
 
 30
-00:02:27,460 --> 00:02:32,960
-Je vais vous prêter une autre voiture, une voiture de location qui vient de rentrer.
+00:03:30,420 --> 00:03:32,700
+Georgette Bello, au cinquième au fond de la cour.
 
 31
-00:02:33,480 --> 00:02:36,200
-Elle n'est pas très propre, mais ça vous dépeindra.
+00:03:34,380 --> 00:03:36,220
+Non, monsieur et madame Bello.
 
 32
-00:02:42,200 --> 00:02:44,900
-Celle-là démarre au quart de tour.
+00:03:36,500 --> 00:03:38,880
+Ah, eux, ils habitent au quatrième droite.
 
 33
-00:02:47,080 --> 00:02:47,920
-Oh, ça va, merci.
+00:03:39,420 --> 00:03:41,420
+Prenez l'escalier en face, l'ascenseur marche pas.
 
 34
-00:02:51,240 --> 00:02:54,440
-Au premier feu rouge, elle appuie sur le frein.
+00:03:41,420 --> 00:03:51,120
+L'ascenseur est petit et paraît fragile
 
 35
-00:02:55,620 --> 00:02:56,200
-Aucun effet.
+00:03:51,120 --> 00:03:55,700
+Même s'il avait marché, Robert aurait sans doute préféré monter à pied
 
 36
-00:02:57,460 --> 00:03:01,180
-Elle brûle le feu rouge et continue comme une fleur.
+00:03:55,700 --> 00:04:00,740
+Au pied de l'escalier, au rez-de-chaussée, un petit écriteau ordonne
 
 37
-00:03:02,180 --> 00:03:03,860
-Heureusement, il y avait un prêt à main.
+00:04:00,740 --> 00:04:02,080
+« Essuyez-vous les pieds »
 
 38
-00:03:04,380 --> 00:03:06,000
-Elle s'arrête devant un garage.
+00:04:02,080 --> 00:04:04,820
+Robert obéit, il s'essuie les pieds
 
 39
-00:03:06,100 --> 00:03:08,240
-Je n'ai plus de frein, j'ai été obligée de brûler un feu rouge.
+00:04:04,820 --> 00:04:13,560
+Arrivé sur le palier du quatrième, il remarque près de la porte de droite
 
 40
-00:03:09,380 --> 00:03:11,220
-Voyons ça. Ouvrez votre capot.
+00:04:13,560 --> 00:04:15,500
+Une petite carte de visite qui dit
 
 41
-00:03:23,420 --> 00:03:25,940
-C'est bien ce que je pensais. Vous n'avez plus une goutte de fluide.
+00:04:15,500 --> 00:04:18,240
+Monsieur François Bello, ingénieur et cap
 
 42
-00:03:25,940 --> 00:03:27,060
-Je vous ai arrangé ça.
+00:04:18,240 --> 00:04:20,660
+Il donne un coup de sonnette discret
 
 43
-00:03:27,460 --> 00:03:34,640
-Voilà, essayez votre frein.
+00:04:20,660 --> 00:04:24,820
+Une jeune fille souriante ouvre
 
 44
-00:03:36,100 --> 00:03:38,760
-Là, pour voir, pompez, pompez.
+00:04:24,820 --> 00:04:26,540
+Ce n'est pas Mireille
 
 45
-00:03:40,400 --> 00:03:41,440
-Ça marche ?
+00:04:26,540 --> 00:04:28,740
+Ah, excusez-moi, j'ai dû me tromper
 
 46
-00:03:41,440 --> 00:03:42,040
-Oui, ça va.
+00:04:28,740 --> 00:04:32,000
+Je... je cherchais les Bello
 
 47
-00:03:43,580 --> 00:03:45,400
-Eh bien voilà, c'est arrangé.
+00:04:32,000 --> 00:04:34,380
+C'est bien ici, vous ne vous êtes pas trompé
 
 48
-00:03:46,040 --> 00:03:46,780
-C'était pas bien grave.
+00:04:34,380 --> 00:04:40,920
+Vous devez être monsieur Taylor sans doute. Je suis Colette Besson, une amie de Mireille. Entrez donc.
 
 49
-00:03:52,080 --> 00:03:53,460
-Je vous dois combien ?
+00:04:47,080 --> 00:04:55,960
+Dans l'entrée, Robert remarque un grand vase avec une demi-douzaine de roses qui se reflètent dans un miroir, ce qui complète heureusement la douzaine.
 
 50
-00:03:54,280 --> 00:03:56,260
-Pour vous, mademoiselle, ça ne sera rien.
+00:04:57,380 --> 00:04:59,160
+C'est l'Américain !
 
 51
-00:03:56,780 --> 00:03:57,840
-Je ne vais pas vous faire payer pour ça.
+00:04:59,160 --> 00:05:02,000
+Voyons Marie-Laure, vous devez être polie, qu'est-ce que c'est que ces manières ?
 
 52
-00:03:58,440 --> 00:04:00,100
-Mais si, enfin, pour le fluide, au moins.
+00:05:02,000 --> 00:05:06,860
+C'est mon cow-boy adoré. Salut, cow-boy. Où est-ce que tu as laissé ton cheval ?
 
 53
-00:04:00,800 --> 00:04:01,580
-Ce n'est rien.
+00:05:06,860 --> 00:05:08,420
+Je l'ai attaché dans le jardin en bas.
 
 54
-00:04:02,160 --> 00:04:04,760
-Allez, au revoir, mademoiselle.
+00:05:08,700 --> 00:05:11,480
+Tu as bien fait, parce qu'ici, on n'a pas de place.
 
 55
-00:04:05,460 --> 00:04:06,300
-Et soyez prudente.
+00:05:11,900 --> 00:05:15,920
+Et tu sais, on n'a pas trop l'habitude de recevoir des cow-boys avec des chevaux.
 
 56
-00:04:12,920 --> 00:04:15,160
-À la sortie de Paris, porte des Lilas,
+00:05:16,700 --> 00:05:19,860
+Si vous voulez bien vous asseoir un instant au salon, je vais prévenir Mme Bello.
 
 57
-00:04:15,720 --> 00:04:17,280
-au milieu d'un embouteillage,
+00:05:22,040 --> 00:05:26,160
+La pièce dans laquelle se trouve Robert est une assez grande salle de séjour
 
 58
-00:04:17,640 --> 00:04:18,820
-le moteur cale.
+00:05:26,160 --> 00:05:31,320
+qui communique avec la salle à manger, où la table est déjà mise pour cette couvert.
 
 59
-00:04:20,120 --> 00:04:21,360
-Impossible de redémarrer.
+00:05:32,000 --> 00:05:41,380
+Divan, quelques chaises, des fauteuils Louis XVI et second empire, un piano, au mur, deux ou trois tableaux modernes
 
 60
-00:04:26,260 --> 00:04:31,540
-Heureusement, deux jeunes gens qui faisaient de l'autostop
+00:05:41,380 --> 00:05:42,280
+Madame Bellou entre
 
 61
-00:04:31,540 --> 00:04:34,460
-la poussent jusqu'à une station-service.
+00:05:42,280 --> 00:05:44,760
+Je suis enchantée de faire votre connaissance
 
 62
-00:04:41,100 --> 00:04:42,340
-Vous êtes en panne ?
+00:05:44,760 --> 00:05:45,140
+Madame
 
 63
-00:04:42,340 --> 00:04:44,800
-Oui, mais je ne sais pas ce que c'est, le moteur s'est arrêté.
+00:05:45,140 --> 00:05:47,020
+Les courtois nous ont beaucoup parlé de vous
 
 64
-00:04:45,020 --> 00:04:46,660
-Vous avez de l'essence ?
+00:05:47,020 --> 00:05:48,040
+Suivi de monsieur Bellou
 
 65
-00:04:46,660 --> 00:04:47,880
-Non.
+00:05:48,040 --> 00:05:49,320
+Marie-Laure, très heureux de vous connaître
 
 66
-00:04:48,540 --> 00:04:50,280
-Ça doit être ça. Je vous fais le plein ?
+00:05:49,320 --> 00:05:49,660
+Monsieur
 
 67
-00:04:50,280 --> 00:04:50,980
-Oui, s'il vous plaît.
+00:05:49,660 --> 00:05:54,940
+Bonjour Robert, comment vas-tu ? Je vois que tu as déjà fait la connaissance de mes parents
 
 68
-00:04:51,280 --> 00:04:53,120
-Essence ou super ?
+00:05:54,940 --> 00:05:58,140
+Marie-Laure, éteins la télé s'il te plaît
 
 69
-00:04:53,120 --> 00:04:54,800
-Je ne sais pas. Super.
+00:05:58,140 --> 00:06:02,540
+C'est le bulletin météo. Et Robert, tout étonné, reconnaît le présentateur.
 
 70
-00:04:56,260 --> 00:05:07,020
-Vérifiez les niveaux.
+00:06:02,860 --> 00:06:03,700
+Mais je le connais, ce monsieur.
 
 71
-00:05:08,080 --> 00:05:08,960
-Oui, je crois qu'il vaut mieux.
+00:06:04,780 --> 00:06:05,140
+Vraiment ?
 
 72
-00:05:21,580 --> 00:05:22,200
-C'est bon.
+00:06:05,960 --> 00:06:06,600
+Pas possible.
 
 73
-00:05:22,540 --> 00:05:22,840
-Merci.
+00:06:06,980 --> 00:06:07,640
+Sans blague.
 
 74
-00:05:26,260 --> 00:05:34,100
-Et Mireille repart, sans les deux autostoppeurs qu'une Mercedes suisse vient de ramasser.
+00:06:07,780 --> 00:06:09,840
+Tu connais Alain Gilopétré ? Depuis quand ?
 
 75
-00:05:34,600 --> 00:05:41,060
-À quelques kilomètres de Provins, le pneu avant gauche crève à la sortie d'un virage.
+00:06:09,840 --> 00:06:15,080
+Depuis tout à l'heure. Je l'ai rencontré dans la rue. J'étais un peu perdu. Il m'a indiqué la rue de Vaugirard.
 
 76
-00:05:41,520 --> 00:05:44,520
-Et Mireille manque se retrouver dans le fossé.
+00:06:15,420 --> 00:06:17,240
+Et il y a longtemps que vous l'avez vu ?
 
 77
-00:05:56,260 --> 00:06:00,880
-Elle se prépare à changer la roue, mais la roue de secours est à plat.
+00:06:17,240 --> 00:06:20,160
+Non, tout à l'heure. Il y a une demi-heure peut-être.
 
 78
-00:06:12,680 --> 00:06:14,220
-Un cycliste arrive.
+00:06:20,480 --> 00:06:21,860
+Eh bien, il a fait vite pour aller au studio.
 
 79
-00:06:15,680 --> 00:06:16,620
-Vous êtes en panne ?
+00:06:22,060 --> 00:06:22,440
+Ah ouais ?
 
 80
-00:06:16,620 --> 00:06:17,220
-J'ai crevé.
+00:06:22,440 --> 00:06:23,260
+Il avait l'air pressé.
 
 81
-00:06:17,800 --> 00:06:18,400
-Je vais vous aider.
+00:06:23,700 --> 00:06:24,780
+Et tu lui as parlé ?
 
 82
-00:06:19,080 --> 00:06:21,460
-Ce n'est pas la peine, ma roue de secours est à plat.
+00:06:24,780 --> 00:06:25,120
+Oui.
 
 83
-00:06:21,460 --> 00:06:23,620
-Ne vous en faites pas, je vais vous envoyer un dépanneur.
+00:06:25,720 --> 00:06:30,060
+Il va peut-être parler de toi, un cow-boy américain perdu dans les rues de Paris.
 
 84
-00:06:24,480 --> 00:06:25,720
-C'est gentil, merci.
+00:06:30,980 --> 00:06:33,120
+Marie-Laure, tu es insupportable.
 
 85
-00:06:26,260 --> 00:06:29,960
-Mireille attend
+00:06:33,880 --> 00:06:35,320
+Titoudon, il fait bien chaud ici.
 
 86
-00:06:29,960 --> 00:06:32,200
-en effeuillant des marguerites
+00:06:35,760 --> 00:06:38,220
+Allons un moment sur le balcon, je vous montrerai la vue.
 
 87
-00:06:32,200 --> 00:06:33,460
-sur le bord de la route
+00:06:45,520 --> 00:06:51,320
+Une vue imprenable, comme vous voyez, avec les jardins du Luxembourg juste en face.
 
 88
-00:06:33,460 --> 00:06:38,660
-Il m'aime un peu
+00:06:52,260 --> 00:06:54,160
+Là, le Sénat, naturellement.
 
 89
-00:06:38,660 --> 00:06:39,860
-beaucoup
+00:06:55,120 --> 00:06:56,920
+Là-bas, à gauche, c'est le Panthéon.
 
 90
-00:06:39,860 --> 00:06:41,480
-passionnément
+00:06:57,820 --> 00:07:02,640
+Et sur la droite, là-bas, hélas, la tour Montparnasse.
 
 91
-00:06:41,480 --> 00:06:42,940
-à la folie
+00:07:03,320 --> 00:07:06,240
+58 étages. Une horreur, une catastrophe.
 
 92
-00:06:42,940 --> 00:06:44,600
-pas du tout
+00:07:07,020 --> 00:07:08,060
+On la voit de tout Paris.
 
 93
-00:06:44,600 --> 00:06:51,280
-Il va arriver dans une heure
+00:07:08,860 --> 00:07:10,400
+Et la tour Eiffel, on ne la voit pas ?
 
 94
-00:06:51,280 --> 00:06:53,220
-dans une demi-heure
+00:07:10,400 --> 00:07:13,000
+Non, pas d'ici. Elle est plus à droite.
 
 95
-00:06:53,220 --> 00:06:55,340
-dans un quart d'heure
+00:07:13,520 --> 00:07:15,520
+On la voit des pièces qui donnent sur la cour.
 
 96
-00:06:55,340 --> 00:07:02,240
-dans cinq minutes, tout de suite, pas du tout.
+00:07:18,000 --> 00:07:19,140
+Venez, monsieur Taylor.
 
 97
-00:07:25,340 --> 00:07:30,240
-Le dépanneur remorque la voiture jusqu'au garage.
+00:07:19,140 --> 00:07:40,620
+Alors, ici c'est notre chambre, là la salle de bain, mais on ne peut pas voir la tour Eiffel d'ici, on ne peut pas voir le sommet des pièces qui sont de ce côté sur la cour.
 
 98
-00:07:31,360 --> 00:07:34,400
-On répare les deux pneus.
+00:07:40,620 --> 00:07:50,260
+M. Bello et Robert reviennent vers le salon
 
 99
-00:07:40,740 --> 00:07:43,020
-Et Mireille repart.
+00:07:50,260 --> 00:07:51,940
+Vous avez vraiment un très bel appartement
 
 100
-00:07:50,620 --> 00:07:54,000
-Elle n'a pas fait 100 mètres qu'il se met à pleuvoir.
+00:07:51,940 --> 00:07:54,900
+En passant devant la cuisine
 
 101
-00:07:55,340 --> 00:07:58,420
-Évidemment, les essuie-glaces ne marchent pas.
+00:07:54,900 --> 00:07:59,180
+Eh bien, on dirait que tout le monde est à la cuisine
 
 102
-00:07:59,120 --> 00:08:03,580
-Elle est obligée de conduire sous la pluie en se penchant à la portière.
+00:07:59,180 --> 00:08:01,820
+Nous aimons bien cet appartement
 
 103
-00:08:10,000 --> 00:08:13,080
-Elle arrive trempée chez les maisons.
+00:08:01,820 --> 00:08:05,400
+Nous habitions déjà ici quand Mireille est née
 
 104
-00:08:17,660 --> 00:08:20,940
-Qu'est-ce qui t'arrive ? T'es en retard ?
+00:08:05,400 --> 00:08:12,580
+Il est très bien situé en plein midi, et il y a beaucoup de soleil.
 
 105
-00:08:20,940 --> 00:08:22,000
-T'es toute trempée.
+00:08:13,820 --> 00:08:16,380
+Excusez-moi une minute, je vais préparer les apéritifs.
 
 106
-00:08:22,420 --> 00:08:23,040
-On m'en parle pas.
+00:08:16,980 --> 00:08:19,120
+Robert et Mireille sont un instant seuls sur le balcon.
 
 107
-00:08:25,340 --> 00:08:26,340
-Entre.
+00:08:19,180 --> 00:08:20,580
+C'est vrai que vous avez une vue magnifique.
 
 108
-00:08:26,340 --> 00:08:28,340
-Non, attends, je vais d'abord essayer mes phares.
+00:08:20,980 --> 00:08:21,180
+Oui.
 
 109
-00:08:33,340 --> 00:08:34,340
-Ça marche ?
+00:08:22,440 --> 00:08:27,720
+Dis donc, je voulais te dire, mes parents ont invité un copain à moi, Hubert de Pinochambra.
 
 110
-00:08:35,340 --> 00:08:36,340
-Non.
+00:08:28,320 --> 00:08:31,540
+C'est un ami d'enfance, et il vient d'une famille très aristocratique.
 
 111
-00:08:37,340 --> 00:08:38,340
-Essaye encore.
+00:08:32,180 --> 00:08:38,460
+Et il est toujours en train de parler de sa famille, de ses ancêtres, de leur chasse, de leurs chevaux, de leur château.
 
 112
-00:08:38,340 --> 00:08:39,340
-Non.
+00:08:39,100 --> 00:08:41,320
+La famille possède une grosse entreprise de construction.
 
 113
-00:08:41,340 --> 00:08:43,340
-Il marche pas.
+00:08:41,960 --> 00:08:44,000
+Mais il ne faut pas trop le prendre au sérieux parce qu'en fait, il joue.
 
 114
-00:08:43,340 --> 00:08:45,340
-Je m'en doutais, j'en étais sûre.
+00:08:44,560 --> 00:08:47,900
+Et il joue remarquablement bien son rôle de grand aristocrate.
 
 115
-00:08:45,340 --> 00:08:48,340
-Bon, écoute, je repars pour être sûre d'arriver avant la nuit.
+00:08:48,740 --> 00:08:49,920
+C'est un drôle de type, tu verras.
 
 116
-00:08:51,340 --> 00:08:53,340
-Juste comme elle arrive, Bordelila.
+00:08:50,240 --> 00:08:51,100
+Il est très amusant.
 
 117
-00:08:55,340 --> 00:09:03,340
-Un cycliste dérape devant elle, elle donne un coup de volant pour l'éviter, puis elle met son clignotant, mais trop tard, elle a accroché une autre voiture.
+00:08:51,780 --> 00:08:52,600
+Enfin, moi, il m'amuse.
 
 118
-00:09:03,340 --> 00:09:07,340
-Bilanque, une aile enfoncée et une raflure sur la frontière de droite.
+00:08:53,040 --> 00:08:54,180
+Il m'amuse énormément.
 
 119
-00:09:07,340 --> 00:09:10,340
-Ah, quelle journée ! Vive le train !
+00:08:56,740 --> 00:08:57,900
+Tiens, ça doit être lui.
 
 120
-00:09:13,340 --> 00:09:16,340
-Mais vous ne pouvez pas faire attention, non !
+00:09:01,540 --> 00:09:07,620
+Vous avez peut-être remarqué que Robert se perd souvent
 
 121
-00:09:25,340 --> 00:09:35,220
-vers 23 heures mireille téléphone au home latin à l'eau le homme latin monsieur taylor s'il vous
+00:09:07,620 --> 00:09:10,340
+Alors il est obligé de demander son chemin
 
 122
-00:09:35,220 --> 00:09:46,880
-plaît sa chambre ne répond pas vous êtes sûr sa clé est là bon je vous remercie enfin
+00:09:10,340 --> 00:09:15,880
+Par exemple, quand il allait chez les Courtois, il s'est retrouvé à la Défense
 
 123
-00:09:46,880 --> 00:10:00,740
-11 heures passées mais au petit bien-être je sais pas où est robert il est en bourgogne
+00:09:15,880 --> 00:09:19,320
+Mademoiselle, s'il vous plaît, la tour Totem
 
 124
-00:10:00,740 --> 00:10:13,280
-il continue en chantant son étude des grands vins de la région et je suis fier d'être mon guignon
+00:09:19,320 --> 00:09:23,560
+Je ne connais pas, ici vous êtes à la Défense, ce n'est pas par ici, je ne crois pas
 
 125
-00:10:16,880 --> 00:10:21,880
-Alors aujourd'hui, Mireille va à Provence en voiture et elle a tout un tas de problèmes.
+00:09:23,560 --> 00:09:28,160
+Il reprend le métro et un quart d'heure plus tard, il se retrouve à Montmartre
 
 126
-00:10:22,940 --> 00:10:29,960
-D'abord, elle s'amène au garage. Elle arrive comme une fleur, confiante, à l'aise, sûre d'elle.
+00:09:28,160 --> 00:09:34,540
+« Excusez-moi, le quai de Grenelle, s'il vous plaît. La tour Totem, c'est par ici. »
 
 127
-00:10:31,280 --> 00:10:35,220
-Regardez Jean-Claude qui s'amène. Il arrive sûr de lui.
+00:09:34,540 --> 00:09:37,320
+« Le quai de Grenelle, mais c'est dans le 15e. Ici, vous êtes à Montmartre. »
 
 128
-00:10:36,940 --> 00:10:41,160
-Mireille s'amène au garage. Elle met le contact.
+00:09:37,320 --> 00:09:41,660
+Ici, il veut aller à Provins et il demande où est Fontainebleau.
 
 129
-00:10:41,980 --> 00:11:02,300
-Aucun effet. Ça ne marche pas. La voiture ne démarre pas. Elle met le contact. Il met le contact. Mireille met le contact, mais le moteur ne démarre pas parce que les accus sont à plat.
+00:09:42,280 --> 00:09:44,760
+« Pour aller à Fontainebleau, c'est par là. »
 
 130
-00:11:02,300 --> 00:11:04,900
-les accus, la batterie.
+00:09:44,760 --> 00:09:47,460
+« Oui, remontez le boulevard Raspail, là devant vous. »
 
 131
-00:11:06,080 --> 00:11:07,540
-La batterie est à plat.
+00:09:47,460 --> 00:09:50,500
+Et trois heures après, il se retrouve en pleine Bourgogne.
 
 132
-00:11:08,100 --> 00:11:08,560
-Elle est vide.
+00:09:51,180 --> 00:09:53,840
+« Pardon, monsieur, Paris, c'est bien par là. »
 
 133
-00:11:09,280 --> 00:11:11,320
-Regardez le pneu, là. Il est à plat.
+00:09:53,840 --> 00:09:57,380
+Aujourd'hui, il doit aller chez les Bélots. Il s'est encore perdu.
 
 134
-00:11:12,080 --> 00:11:13,860
-Il est vide. Il n'y a plus d'air.
+00:09:58,160 --> 00:10:00,280
+Ne le suivez pas, il est perdu.
 
 135
-00:11:14,960 --> 00:11:16,220
-Les accus sont à plat,
+00:10:01,140 --> 00:10:04,540
+Il rencontre un monsieur et il lui demande son chemin.
 
 136
-00:11:16,800 --> 00:11:19,100
-mais le garagiste est optimiste.
+00:10:04,840 --> 00:10:06,900
+Pardon monsieur, excusez-moi, je suis un peu perdu.
 
 137
-00:11:19,560 --> 00:11:20,620
-Il est comme M. Courtois.
+00:10:07,700 --> 00:10:09,220
+La rue de Vougira, s'il vous plaît.
 
 138
-00:11:21,260 --> 00:11:23,300
-Mesdemoiselles, les accus sont à plat, ne nous en faites pas.
+00:10:09,440 --> 00:10:11,740
+C'est par ici, c'était le côté. C'est par là ?
 
 139
-00:11:32,300 --> 00:11:44,540
-Ouais, elle est morte. Les accuses vont d'un plat, mais ne vous faites pas de bile, je vais arranger ça.
+00:10:11,740 --> 00:10:14,560
+Non, c'est par là, c'est pas loin, vous y êtes presque.
 
 140
-00:11:45,240 --> 00:11:48,840
-Vous vous rappelez, M. Courtois ? Il dit toujours, oh, ne vous en faites pas.
+00:10:15,240 --> 00:10:19,700
+Quelques minutes plus tard, chez les Bélots, il voit ce monsieur à la télévision.
 
 141
-00:11:49,320 --> 00:11:51,980
-Il veut dire, ne vous faites pas de bile.
+00:10:20,360 --> 00:10:26,280
+Donc 17 degrés à Perpignan, on est 4, 5 degrés au-dessus d'énormes saisonnières, on ne comprend plus rien.
 
 142
-00:11:52,760 --> 00:11:54,580
-Lui, il se fait de la bile.
+00:10:26,280 --> 00:10:27,240
+Mais je le connaisse monsieur.
 
 143
-00:11:56,780 --> 00:11:59,380
-Ne vous faites pas de bile, ne vous en faites pas.
+00:10:28,160 --> 00:10:28,880
+Vraiment ?
 
 144
-00:11:59,940 --> 00:12:00,300
-Écoutez.
+00:10:28,880 --> 00:10:32,720
+C'est Alain-Gillot Pétret qui fait le bulletin météorologique.
 
 145
-00:12:01,240 --> 00:12:02,040
-Allô ?
+00:10:33,300 --> 00:10:35,460
+Quelle coïncidence !
 
 146
-00:12:02,300 --> 00:12:05,000
-Écoute, ne te fais aucune bile, je suis très prudente.
+00:10:35,460 --> 00:10:40,000
+C'est que Robert a fini par arriver chez les Bélots, mais il a eu du mal.
 
 147
-00:12:05,780 --> 00:12:08,180
-Ne t'en fais pas, Henri va tout arranger.
+00:10:41,000 --> 00:10:47,120
+Il a fini par trouver la rue de Vaugirard, mais il ne trouvait pas le numéro 18.
 
 148
-00:12:09,140 --> 00:12:12,080
-Ne vous en faites pas, je vais vous envoyer un dépanneur.
+00:10:48,320 --> 00:10:50,820
+Enfin, il a fini par le trouver.
 
 149
-00:12:12,820 --> 00:12:17,780
-Le garagiste donne à Mireille une autre voiture, une voiture de location.
+00:10:50,820 --> 00:10:58,280
+C'est un immeuble de la fin du XIXe siècle avec cinq ou six étages.
 
 150
-00:12:18,620 --> 00:12:21,920
-Elle démarre tout de suite, elle démarre au quart de tour.
+00:10:59,780 --> 00:11:04,120
+C'est cet immeuble-là au numéro 2. Deuxième étage porte à gauche.
 
 151
-00:12:22,560 --> 00:12:30,420
-Un quart de tour, un demi-tour, un tour, la voiture démarre tout de suite, au quart de tour.
+00:11:04,980 --> 00:11:14,040
+Au centre de Paris, la plupart des immeubles ont cinq ou six étages, sauf la tour Montparnasse qui a 58 étages.
 
 152
-00:12:30,420 --> 00:12:34,600
-Mireille est rassurée, elle reprend confiance
+00:11:14,040 --> 00:11:24,260
+Le rez-de-chaussée, le premier étage, le deuxième étage, le troisième étage
 
 153
-00:12:34,600 --> 00:12:39,020
-Tout va bien, la vie est belle, la route est à moi, la route est à nous
+00:11:24,260 --> 00:11:29,460
+Le quatrième étage, le cinquième étage, sous le toit
 
 154
-00:12:39,020 --> 00:12:44,960
-Regardez Robert ici, lui aussi, il est très confiant, très sûr de lui
+00:11:29,460 --> 00:11:32,120
+Les toits, des toits
 
 155
-00:12:44,960 --> 00:12:46,500
-Paris est à moi
+00:11:32,120 --> 00:11:35,120
+Les toits de Paris
 
 156
-00:12:46,500 --> 00:12:51,120
-Mireille arrive au premier feu rouge
+00:11:35,120 --> 00:11:39,140
+Donc Robert finit par trouver la maison des Bélots
 
 157
-00:12:51,120 --> 00:12:54,500
-Quand le feu est rouge, il faut s'arrêter
+00:11:39,140 --> 00:11:47,080
+Il y a une grande porte, il sonne, il appuie sur le bouton et pousse la porte.
 
 158
-00:12:54,500 --> 00:12:59,580
-Mireille appuie sur le frein
+00:11:48,020 --> 00:11:50,340
+Au moment où il entre, la lumière s'éteint.
 
 159
-00:12:59,580 --> 00:13:01,880
-Mais il ne se passe rien
+00:11:50,820 --> 00:11:52,980
+Elle éteint, elle allume.
 
 160
-00:13:01,880 --> 00:13:02,960
-Aucun effet
+00:11:56,140 --> 00:12:00,160
+Les lumières s'allument, les lumières s'éteignent.
 
 161
-00:13:02,960 --> 00:13:05,280
-La voiture continue à rouler
+00:12:01,040 --> 00:12:04,760
+Ici, les phares sont allumés et ici, ils sont éteints.
 
 162
-00:13:05,280 --> 00:13:06,780
-Elle ne s'arrête pas
+00:12:04,760 --> 00:12:10,140
+On peut aussi allumer ou éteindre un feu, une cigarette, la télé.
 
 163
-00:13:06,780 --> 00:13:08,820
-Aucun effet
+00:12:10,940 --> 00:12:12,580
+Éteignez votre cigarette, mon vieux.
 
 164
-00:13:08,820 --> 00:13:11,200
-Mireille appuie sur le frein
+00:12:14,800 --> 00:12:16,780
+Marie-Laure, éteins la télé, s'il te plaît.
 
 165
-00:13:11,200 --> 00:13:13,940
-Mais ça n'a aucun effet
+00:12:17,320 --> 00:12:17,800
+Éteins.
 
 166
-00:13:13,940 --> 00:13:17,020
-Ici la dame appuie sur le frein
+00:12:18,780 --> 00:12:19,620
+Éteins !
 
 167
-00:13:17,020 --> 00:13:18,160
-Et il y a un effet
+00:12:19,620 --> 00:12:20,760
+Éteins !
 
 168
-00:13:18,160 --> 00:13:20,240
-La voiture ne s'arrête pas
+00:12:22,280 --> 00:12:23,660
+Éteins partout.
 
 169
-00:13:20,240 --> 00:13:22,700
-Mireille passe au feu rouge
+00:12:24,560 --> 00:12:25,700
+Et ici, on allume.
 
 170
-00:13:22,700 --> 00:13:24,700
-Elle brûle le feu rouge.
+00:12:25,960 --> 00:12:26,360
+Tu peux allumer.
 
 171
-00:13:25,560 --> 00:13:27,800
-Il ne faut pas brûler les feux rouges.
+00:12:30,440 --> 00:12:32,000
+Non, arrête, ça me gêne.
 
 172
-00:13:28,140 --> 00:13:29,460
-Les agents n'aiment pas ça.
+00:12:33,400 --> 00:12:34,240
+Il éteint.
 
 173
-00:13:32,140 --> 00:13:34,680
-Pourquoi est-ce que les freins ne marchent pas ?
+00:12:34,760 --> 00:12:40,140
+Il allume.
 
 174
-00:13:34,680 --> 00:13:37,660
-Parce qu'il n'y a plus de fluide dans les freins.
+00:12:40,600 --> 00:12:42,300
+Arrête, je te dis que ça me gêne.
 
 175
-00:13:38,180 --> 00:13:40,420
-C'est bien ce que je pensais. Vous n'avez plus une goutte de fluide.
+00:12:43,000 --> 00:12:43,500
+Il éteint.
 
 176
-00:13:40,900 --> 00:13:41,520
-Je vais arranger ça.
+00:12:44,740 --> 00:12:45,340
+Il rallume.
 
 177
-00:13:41,860 --> 00:13:45,040
-Il n'y a plus de fluide du tout. Plus une goutte.
+00:12:45,920 --> 00:12:48,920
+Robert ne sait pas à quel étage Mireille habite.
 
 178
-00:13:45,420 --> 00:13:46,760
-Vous vous rappelez ? Une goutte.
+00:12:49,420 --> 00:12:51,880
+Alors il cherche la concierge pour le lui demander.
 
 179
-00:13:47,560 --> 00:13:50,060
-Il faut mettre du liquide pour les freins.
+00:12:52,540 --> 00:12:53,000
+Il frappe.
 
 180
-00:13:50,060 --> 00:13:53,620
-Voilà, essayez votre frein
+00:12:54,700 --> 00:12:55,520
+Aucun effet.
 
 181
-00:13:53,620 --> 00:13:55,900
-Là, pour voir, pompez
+00:12:56,080 --> 00:12:57,840
+Personne ne vient, personne ne répond.
 
 182
-00:13:55,900 --> 00:13:57,020
-Pompez
+00:12:58,520 --> 00:12:59,440
+Il frappe plus fort.
 
 183
-00:13:57,020 --> 00:13:59,240
-Ça marche ?
+00:13:04,760 --> 00:13:07,440
+Oui, qu'est-ce que c'est ?
 
 184
-00:13:59,240 --> 00:13:59,840
-Oui, ça va
-
-185
-00:13:59,840 --> 00:14:03,080
-Maintenant que les freins sont arrangés
-
-186
-00:14:03,080 --> 00:14:04,340
-Mireille veut payer
-
-187
-00:14:04,340 --> 00:14:06,600
-Elle demande combien elle doit
-
-188
-00:14:06,600 --> 00:14:08,000
-Je vous dois combien ?
-
-189
-00:14:08,000 --> 00:14:09,280
-C'est le verbe devoir
-
-190
-00:14:09,280 --> 00:14:11,800
-Je vous dois combien ?
-
-191
-00:14:11,800 --> 00:14:13,600
-Combien je vous dois, c'est combien
-
-192
-00:14:13,600 --> 00:14:16,880
-Allez, c'est rien
-
-193
-00:14:16,880 --> 00:14:19,360
-Pour vous, mademoiselle, ça ne sera rien
-
-194
-00:14:19,360 --> 00:14:20,820
-Je ne vais pas vous faire payer pour ça.
-
-195
-00:14:21,600 --> 00:14:22,760
-C'est le verbe payer.
-
-196
-00:14:23,280 --> 00:14:24,920
-Regardez Robert ici. Il paie.
-
-197
-00:14:25,460 --> 00:14:26,400
-Robert paie.
-
-198
-00:14:27,060 --> 00:14:28,400
-Robert paie toujours.
-
-199
-00:14:29,180 --> 00:14:30,700
-Mais Mireille ne paie pas.
-
-200
-00:14:31,240 --> 00:14:32,640
-Psst, ce n'est rien.
-
-201
-00:14:33,220 --> 00:14:35,740
-Allez, au revoir et soyez prudente.
-
-202
-00:14:36,240 --> 00:14:38,700
-Ne te fais aucune bile, je suis très prudente.
-
-203
-00:14:40,320 --> 00:14:41,920
-Attention, attention, prudence.
-
-204
-00:14:42,320 --> 00:14:43,620
-Il faut être prudent.
-
-205
-00:14:45,100 --> 00:14:46,940
-Oh, Mireille est prudente.
-
-206
-00:14:46,940 --> 00:14:48,940
-Mais elle tombe en palme.
-
-207
-00:14:49,360 --> 00:14:56,320
-heureusement deux autostoppeurs en short poilus et barbu propose de la pousser
-
-208
-00:14:56,320 --> 00:15:01,880
-vous êtes en panne on va vous pousser ici robert pousse la
-
-209
-00:15:01,880 --> 00:15:09,820
-porte c'est le verbe pousser pourquoi est-ce que mireille est tombé en panne
-
-210
-00:15:09,820 --> 00:15:15,820
-cette fois qu'est ce que c'est de l'essence non mais ça doit être ça
-
-211
-00:15:15,820 --> 00:15:24,640
-je fais le plein oui s'il vous plaît et son super je ne sais pas moi super allez le super c'est plus
-
-212
-00:15:24,640 --> 00:15:30,160
-cher ça doit être le meilleur je vais vérifier les niveaux oui je crois qu'il vaut mieux oui
-
-213
-00:15:30,160 --> 00:15:37,140
-il vaut mieux vérifier les niveaux les niveaux d'huile et d'eau le garagiste vérifie les niveaux
-
-214
-00:15:37,140 --> 00:15:44,140
-d'huile et d'eau c'est bon c'est bon les niveaux sont bons il y a assez d'huile et assez d'eau
-
-215
-00:15:44,140 --> 00:15:56,080
-quelques kilomètres de province le pneu avant crève vous vous rappelez un pneu un
-
-216
-00:15:56,080 --> 00:16:08,140
-pneu un pneu avant l'avant l'arrière l'avant l'arrière le pneu avant gauche crève il crève
-
-217
-00:16:08,140 --> 00:16:32,040
-Il crève. Regardez. Je vais crever le ballon. Voilà, ça y est, il est crevé. Le pneu avant gauche crève et Mireille manque de se retrouver dans le fossé. Regardez ce monsieur et cette dame. Est-ce qu'ils manquent de se retrouver dans le fossé ? Non. Eux, ils se retrouvent dans le fossé. Ils sont dans le fossé.
-
-218
-00:16:32,040 --> 00:16:36,040
-Mireille, elle, ne s'est pas retrouvée dans le fossé
-
-219
-00:16:36,040 --> 00:16:40,820
-Mais elle a failli, elle a manqué de se retrouver dans le fossé
-
-220
-00:16:40,820 --> 00:16:46,760
-Mireille a crevé et la roue de secours est à plat
-
-221
-00:16:46,760 --> 00:16:49,940
-Heureusement, un cycliste passe
-
-222
-00:16:49,940 --> 00:16:51,960
-Il propose de l'aider
-
-223
-00:16:51,960 --> 00:16:52,700
-Je vais vous aider
-
-224
-00:16:52,700 --> 00:16:54,760
-Ça fait la peine, la roue de secours est à plat
-
-225
-00:16:54,760 --> 00:17:00,260
-Ne vous en faites pas, je vais vous envoyer un dépanneur
-
-226
-00:17:00,260 --> 00:17:06,580
-Un dépanneur. Quand vous êtes en panne, vous appelez un dépanneur pour vous dépanner.
-
-227
-00:17:07,420 --> 00:17:10,280
-Écoutez la conversation entre le cycliste et Mireille.
-
-228
-00:17:10,520 --> 00:17:14,460
-Ensuite, vous répondrez au cycliste comme si vous étiez Mireille.
-
-229
-00:17:15,680 --> 00:17:19,140
-Vous êtes en panne ? J'ai crevé. Je vais vous aider.
-
-230
-00:17:19,740 --> 00:17:21,200
-C'est pas la peine, la route secours est à plat.
-
-231
-00:17:23,820 --> 00:17:26,660
-Ne vous en faites pas. Je vais vous envoyer un dépanneur.
-
-232
-00:17:27,580 --> 00:17:28,200
-Ah oui, merci.
-
-233
-00:17:28,200 --> 00:17:34,860
-maintenant répondez aux cyclistes comme si vous étiez mireille vous êtes en panne j'ai crevé
-
-234
-00:17:34,860 --> 00:17:43,740
-j'ai crevé j'ai crevé mais je vais vous aider ce n'est pas la peine la roue de secours est à plat
-
-235
-00:17:43,740 --> 00:17:52,500
-ce n'est pas la peine la roue de secours est à plat ce n'est pas la peine la roue de secours
-
-236
-00:17:52,500 --> 00:17:59,180
-est à plat. Ne vous en faites pas, je vais vous envoyer un dépanneur. Oh c'est gentil, merci. Oh c'est gentil, merci.
-
-237
-00:18:01,680 --> 00:18:09,820
-Oh c'est gentil, merci. Quand quelque chose ne va pas, on appelle le dépanneur. Le dépanneur, c'est un peu
-
-238
-00:18:09,820 --> 00:18:16,040
-comme le docteur. Tenez, regardez cette publicité pour une maison qui vend des téléviseurs.
-
-239
-00:18:16,340 --> 00:18:21,600
-Il fallait que ça nous arrive. Il est juste un dimanche. C'est pas de chance quand même. Tu l'as dit ?
-
-240
-00:18:21,600 --> 00:18:22,880
-Pourvu que ce soit pas trop embêtant.
-
-241
-00:18:22,920 --> 00:18:23,600
-J'espère, oui.
-
-242
-00:18:24,600 --> 00:18:24,960
+00:13:07,440 --> 00:13:08,000
 Entrez.
 
+185
+00:13:12,180 --> 00:13:13,280
+Bello, s'il vous plaît.
+
+186
+00:13:13,900 --> 00:13:16,200
+Georgette Bello, au cinquième au fond de la cour.
+
+187
+00:13:17,080 --> 00:13:19,280
+Au cinquième au fond de la cour.
+
+188
+00:13:19,800 --> 00:13:22,340
+Au cinquième, elle veut dire au cinquième étage.
+
+189
+00:13:22,880 --> 00:13:24,180
+C'est au premier les chambres, monsieur ?
+
+190
+00:13:24,180 --> 00:13:24,700
+Eh bien...
+
+191
+00:13:24,700 --> 00:13:25,680
+Vous pouvez y aller, papa ?
+
+192
+00:13:25,680 --> 00:13:26,580
+Oui !
+
+193
+00:13:26,580 --> 00:13:28,960
+Au premier, ça veut dire au premier étage.
+
+194
+00:13:29,480 --> 00:13:31,180
+Alors, c'est à quel étage ?
+
+195
+00:13:31,180 --> 00:13:32,240
+En haut, au dernier.
+
+196
+00:13:33,300 --> 00:13:34,380
+Bello, s'il vous plaît.
+
+197
+00:13:34,760 --> 00:13:37,220
+Georgette Bello, au cinquième, au fond de la cour.
+
+198
+00:13:38,180 --> 00:13:41,640
+Elle habite au cinquième étage, au fond de la cour.
+
+199
+00:13:42,440 --> 00:13:45,120
+Votre bureau, c'est pas au fond de la cour ?
+
+200
+00:13:45,120 --> 00:13:48,280
+La cour ? Voilà une cour.
+
+201
+00:13:49,660 --> 00:13:50,680
+Une vieille cour.
+
+202
+00:13:51,620 --> 00:13:52,660
+Une cour de ferme.
+
+203
+00:13:53,780 --> 00:13:54,780
+Une cour d'école.
+
+204
+00:13:55,780 --> 00:13:56,280
+Une cour.
+
+205
+00:13:57,500 --> 00:14:01,800
+Très souvent, à Paris, les immeubles ont une cour intérieure.
+
+206
+00:14:01,800 --> 00:14:07,960
+Il y a des appartements sur la rue et il y a des appartements sur la cour
+
+207
+00:14:07,960 --> 00:14:13,180
+Un appartement sur la rue, un appartement sur la cour
+
+208
+00:14:13,180 --> 00:14:18,520
+L'appartement des Bélots n'est pas sur la cour, il est sur la rue
+
+209
+00:14:18,520 --> 00:14:24,720
+Au quatrième étage, il faut prendre l'escalier
+
+210
+00:14:24,720 --> 00:14:27,520
+L'escalier, vous vous rappelez ?
+
+211
+00:14:28,860 --> 00:14:31,520
+Il y a un ascenseur, mais il est en panne
+
+212
+00:14:31,800 --> 00:14:35,800
+Là, il y a un ascenseur et il n'est pas en panne.
+
+213
+00:14:39,580 --> 00:14:41,960
+Voilà un ascenseur, un ascenseur moderne.
+
+214
+00:14:43,160 --> 00:14:45,520
+L'ascenseur, chez les vélos, est plus ancien.
+
+215
+00:14:45,740 --> 00:14:48,820
+Et ce jour-là, il ne marche pas. Il est en panne.
+
+216
+00:14:49,320 --> 00:14:50,840
+Ici, l'ascenseur tombe en panne.
+
+217
+00:14:51,180 --> 00:14:52,920
+Mais qu'est-ce que c'est, monsieur ?
+
+218
+00:14:52,920 --> 00:14:55,840
+Je ne sais pas. C'est une panne.
+
+219
+00:14:57,060 --> 00:14:58,940
+Mesdames, messieurs, ne vous affolez pas.
+
+220
+00:14:59,000 --> 00:15:00,960
+Ce n'est rien, un petit incident. Nous allons vous faire descendre.
+
+221
+00:15:01,400 --> 00:15:03,100
+Mais c'est scandaleux !
+
+222
+00:15:03,100 --> 00:15:06,420
+À partir d'un certain prix des chambres, les ascenseurs ne doivent pas tomber en panne.
+
+223
+00:15:06,980 --> 00:15:09,880
+Écoutez le petit échange entre Robert et la concierge.
+
+224
+00:15:10,180 --> 00:15:14,500
+Ensuite, vous répondrez à Robert comme si vous étiez la concierge.
+
+225
+00:15:14,980 --> 00:15:16,060
+Bello, s'il vous plaît.
+
+226
+00:15:16,560 --> 00:15:18,740
+Georgette Bello ?
+
+227
+00:15:18,740 --> 00:15:20,000
+Au cinquième au fond de la cour.
+
+228
+00:15:20,460 --> 00:15:22,500
+Non, monsieur et madame Bello.
+
+229
+00:15:22,880 --> 00:15:25,280
+Ah, eux, ils habitent au quatrième droite.
+
+230
+00:15:25,920 --> 00:15:27,180
+Il y a un ascenseur ?
+
+231
+00:15:27,180 --> 00:15:29,780
+Non, prenez l'escalier en face, l'ascenseur ne marche pas.
+
+232
+00:15:30,180 --> 00:15:32,400
+Maintenant, à vous. Vous êtes la concierge.
+
+233
+00:15:33,200 --> 00:15:34,240
+Bello, s'il vous plaît.
+
+234
+00:15:34,740 --> 00:15:36,940
+Georgette Bello ?
+
+235
+00:15:36,940 --> 00:15:38,160
+Au cinquième au fond de la cour.
+
+236
+00:15:38,380 --> 00:15:40,540
+Georgette Bello ?
+
+237
+00:15:40,540 --> 00:15:41,840
+Au cinquième au fond de la cour.
+
+238
+00:15:46,280 --> 00:15:48,540
+Georgette Bello ?
+
+239
+00:15:48,540 --> 00:15:49,840
+Au cinquième au fond de la cour.
+
+240
+00:15:50,320 --> 00:15:52,340
+Non, monsieur et madame Bello.
+
+241
+00:15:52,720 --> 00:15:55,100
+Ah, eux, ils habitent au quatrième droite.
+
+242
+00:15:55,100 --> 00:15:57,920
+Ah, eux, ils habitent au quatrième droite.
+
 243
-00:18:27,520 --> 00:18:28,400
-Alors ?
+00:15:59,780 --> 00:16:04,520
+Ah, eux, ils habitent aux quatrièmes droites.
 
 244
-00:18:28,400 --> 00:18:29,060
-Il est là.
+00:16:05,160 --> 00:16:06,400
+Il y a un ascenseur ?
 
 245
-00:18:30,060 --> 00:18:31,040
-C'est grave ?
+00:16:06,400 --> 00:16:08,980
+Non, prenez l'escalier en face, l'ascenseur ne marche pas.
 
 246
-00:18:31,040 --> 00:18:32,000
-Il pense que non.
+00:16:09,400 --> 00:16:11,980
+Non, prenez l'escalier en face, l'ascenseur ne marche pas.
 
 247
-00:18:32,560 --> 00:18:33,680
-Heureusement qu'il a pu venir tout de suite.
+00:16:15,500 --> 00:16:18,340
+Non, prenez l'escalier en face, l'ascenseur ne marche pas.
 
 248
-00:18:34,140 --> 00:18:35,460
-Un coup de téléphone, il est arrivé.
+00:16:19,080 --> 00:16:20,900
+Robert va monter par l'escalier.
 
 249
-00:18:35,880 --> 00:18:36,640
-C'est une chance.
+00:16:22,160 --> 00:16:23,520
+Essuyez-vous les pieds.
 
 250
-00:18:46,220 --> 00:18:47,560
-Ça va, toi ?
+00:16:24,640 --> 00:16:27,340
+Robert, docile, s'essuie les pieds.
 
 251
-00:18:47,560 --> 00:18:48,160
-Oui, ça va.
+00:16:27,340 --> 00:16:40,400
+Il s'essuie les pieds. Il s'essuie le front. Elle s'essuie les mains. Et lui, il essuie un chapeau. C'est le verbe essuyer.
 
 252
-00:18:51,600 --> 00:18:58,220
-Bon, on aurait dû s'en douter, il était tout pâle la dernière fois qu'on l'a vu.
+00:16:40,400 --> 00:16:45,660
+Maintenant, Robert est dans l'entrée
 
 253
-00:18:58,440 --> 00:19:00,180
-C'est marrant, il faut dire aussi qu'il est plus doux.
+00:16:45,660 --> 00:16:48,580
+Cette dame est dans l'entrée
 
 254
-00:19:00,400 --> 00:19:01,860
-Quand même !
+00:16:48,580 --> 00:16:54,460
+Dans l'entrée, il y a un vase avec une demi-douzaine de roses
 
 255
-00:19:01,860 --> 00:19:03,400
-Alors, vous pouvez aller le voir.
+00:16:54,460 --> 00:16:56,240
+C'est-à-dire six roses
 
 256
-00:19:04,340 --> 00:19:06,620
-Oh, tu parles pas comme Paul, dis donc !
+00:16:56,240 --> 00:16:59,520
+Derrière le vase, il y a un miroir
 
 257
-00:19:06,620 --> 00:19:07,240
-Oh, ça a l'air de marre !
+00:16:59,520 --> 00:17:01,840
+Un miroir
 
 258
-00:19:07,240 --> 00:19:09,620
-Il a repris des couleurs, ouais !
+00:17:01,840 --> 00:17:03,740
+Un miroir
 
 259
-00:19:09,620 --> 00:19:10,760
-Tu vas commencer.
+00:17:03,740 --> 00:17:08,100
+Les six roses se reflètent dans le miroir
 
 260
-00:19:14,380 --> 00:19:17,920
-Les dépannages, 7 jours sur 7, c'est dans le contrat de confiance d'Arti.
+00:17:08,100 --> 00:17:10,340
+Ce qui fait une douzaine de roses
 
 261
-00:19:17,920 --> 00:19:22,580
-En attendant le dépanneur, Mireille effeuille des marguerites.
+00:17:10,340 --> 00:17:15,320
+Six roses dans le vase et six roses dans le miroir, douze roses.
 
 262
-00:19:23,000 --> 00:19:26,060
-Elle effeuille des marguerites pour passer le temps.
+00:17:16,520 --> 00:17:20,680
+Les roses se reflètent dans le miroir, c'est le verbe se refléter.
 
 263
-00:19:27,540 --> 00:19:32,560
-Normalement, ce sont les amoureux qui effeuillent des marguerites pour savoir si l'autre les aime.
+00:17:22,420 --> 00:17:25,580
+Ici, les maisons d'en face se reflètent dans les fenêtres.
 
 264
-00:19:33,380 --> 00:19:37,680
-On dit il m'aime ou elle m'aime, un peu, beaucoup.
+00:17:27,080 --> 00:17:29,360
+Voilà des gens qui se reflètent dans des vitrines.
 
 265
-00:19:38,440 --> 00:19:41,720
-Tenez, nous allons demander à cette dame. Elle m'a l'air très romantique.
+00:17:30,000 --> 00:17:31,920
+Les arbres se reflètent dans l'eau.
 
 266
-00:19:42,040 --> 00:19:45,260
-Qu'est-ce qu'on dit quand on effeuille une marguerite ?
+00:17:32,920 --> 00:17:36,540
+Ici, ce sont des flamants roses qui se reflètent dans l'eau.
 
 267
-00:19:45,260 --> 00:19:50,580
-On dit, je t'aime un peu, beaucoup, passionnément, à la folie.
+00:17:36,880 --> 00:17:39,320
+Ici, c'est un château qui se reflète dans l'eau.
 
 268
-00:19:51,420 --> 00:19:57,140
-Il m'aime un peu, beaucoup, passionnément, à la folie, on ne sait pas.
+00:17:40,340 --> 00:17:43,140
+Ici, les tours se reflètent dans l'eau.
 
 269
-00:19:59,140 --> 00:20:12,280
-Il va arriver dans une heure, dans une demi-heure, dans un quart d'heure, dans cinq minutes, tout de suite, près du tout.
+00:17:44,020 --> 00:17:47,240
+Ici, les bateaux et les maisons se reflètent dans l'eau.
 
 270
-00:20:12,280 --> 00:20:15,860
-Mais si, mais si, il va arriver. Justement, le voilà.
+00:17:47,680 --> 00:17:50,120
+Ici, c'est l'abbaye de Brantôme qui se reflète dans l'eau.
 
 271
-00:20:16,260 --> 00:20:19,140
-Les dépanneurs emmènent la voiture de Mireille au garage.
+00:17:51,120 --> 00:17:52,700
+Ce sont des réflexions.
 
 272
-00:20:19,480 --> 00:20:22,400
-On répare les pneus. Et Mireille repart.
+00:17:53,300 --> 00:17:54,600
+C'est mon cow-boy adoré.
 
 273
-00:20:23,340 --> 00:20:26,700
-On répare. Elle repart.
+00:17:54,840 --> 00:17:56,620
+Les Français adorent les cow-boys.
 
 274
-00:20:27,700 --> 00:20:30,400
-On répare, c'est le verbe réparer.
+00:17:57,000 --> 00:18:01,700
+Le Kiluk, l'homme qui tire plus vite que son ombre, est un héros très sympathique.
 
 275
-00:20:31,180 --> 00:20:34,440
-Elle repart, c'est le verbe repartir.
+00:18:04,120 --> 00:18:06,760
+Remarquez que les Français aiment aussi beaucoup les Indiens.
 
 276
-00:20:35,820 --> 00:20:40,520
-Bon, Mireille repart, mais elle n'a pas fait 100 mètres qu'il se met à pleuvoir.
+00:18:06,760 --> 00:18:21,360
+Bon, maintenant, visitons l'appartement. Nous avons déjà vu l'entrée. Voilà maintenant la salle de séjour. C'est une salle de séjour plutôt qu'un salon. Voilà un salon.
 
 277
-00:20:41,280 --> 00:20:42,980
-Il se met à pleuvoir.
+00:18:21,360 --> 00:18:26,960
+Dans la salle de séjour des Bélots, il y a un divan et des fauteuils.
 
 278
-00:20:43,460 --> 00:20:44,900
-Il commence à pleuvoir.
+00:18:27,340 --> 00:18:30,640
+Un divan, un divan et des fauteuils.
 
 279
-00:20:45,380 --> 00:20:47,500
-C'est le verbe se mettre à.
+00:18:31,260 --> 00:18:38,020
+Des fauteuils Second Empire, un fauteuil Louis XVI, un fauteuil chez la tante de Marcel Proust.
 
 280
-00:20:49,200 --> 00:20:50,580
-Regardez Marie-Laure ici.
+00:18:38,500 --> 00:18:45,420
+Une chaise, des chaises de jardin, des chaises de café, des chaises d'église.
 
 281
-00:20:50,880 --> 00:20:53,500
-Elle veut se mettre à regarder la télévision.
+00:18:46,480 --> 00:18:48,840
+Voilà quelqu'un qui répare les chaises.
 
 282
-00:20:53,760 --> 00:20:55,760
-Tu ne vas pas te mettre à regarder la télévision.
+00:18:48,840 --> 00:18:50,900
+Lui aussi, il répare les chaises.
 
 283
-00:20:56,440 --> 00:20:57,740
-Va faire tes devoirs.
+00:18:51,360 --> 00:18:59,960
+Il y a un piano, un piano, un piano, par terre, une moquette.
 
 284
-00:20:58,800 --> 00:21:02,520
-Il se met à pleuvoir et les essuie-glaces ne marchent pas.
+00:19:01,600 --> 00:19:03,620
+Sur le mur, quelques tableaux.
 
 285
-00:21:03,680 --> 00:21:05,540
-Les essuie-glaces marchent.
+00:19:04,700 --> 00:19:05,440
+Un tableau.
 
 286
-00:21:06,280 --> 00:21:08,120
-Les essuie-glaces ne marchent pas.
+00:19:08,080 --> 00:19:11,420
+La salle de séjour communique avec la salle à manger.
 
 287
-00:21:08,120 --> 00:21:12,460
-Mireille n'y voit rien à cause de la pluie
+00:19:11,860 --> 00:19:13,620
+Il n'y a pas de porte entre les deux pièces.
 
 288
-00:21:12,460 --> 00:21:17,180
-Alors elle est obligée de conduire en se penchant à la portière
+00:19:14,180 --> 00:19:15,580
+C'est presque la même pièce.
 
 289
-00:21:17,180 --> 00:21:19,300
-La portière
+00:19:16,260 --> 00:19:19,540
+La salle de séjour s'ouvre directement sur la salle à manger.
 
 290
-00:21:19,300 --> 00:21:21,480
-Une porte
+00:19:21,360 --> 00:19:26,220
+Dans la salle à manger, la table est mise pour sept couverts.
 
 291
-00:21:21,480 --> 00:21:23,100
-Une porte
+00:19:27,420 --> 00:19:28,200
+Un couvert.
 
 292
-00:21:23,100 --> 00:21:24,680
-Une porte
+00:19:29,140 --> 00:19:31,740
+Bonjour, monsieur. Un couvert, s'il vous plaît.
 
 293
-00:21:24,680 --> 00:21:26,240
-Une porte
+00:19:32,020 --> 00:19:32,840
+S'il vous plaît.
 
 294
-00:21:26,240 --> 00:21:27,980
-Une portière
+00:19:33,900 --> 00:19:37,220
+Ici, la table est mise pour sept couverts.
 
 295
-00:21:27,980 --> 00:21:29,860
-Une portière
+00:19:37,960 --> 00:19:38,920
+Ils vont être sept.
 
 296
-00:21:29,860 --> 00:21:31,900
-Un portail
+00:19:39,780 --> 00:19:42,120
+Voyons, monsieur et madame Belleau, ça fait deux.
 
 297
-00:21:31,900 --> 00:21:33,900
-Un portail
+00:19:42,660 --> 00:19:44,920
+Mireille, ça fait trois. Colette, ça fait quatre.
 
 298
-00:21:33,900 --> 00:21:36,460
-Un portail d'église
+00:19:45,280 --> 00:19:47,460
+Marie-Laure, ça fait cinq. Et Robert, ça fait six.
 
 299
-00:21:36,460 --> 00:21:40,240
-Évidemment, quand Mireille arrive, elle est trempée.
+00:19:48,380 --> 00:19:49,240
+Qui est le septième?
 
 300
-00:21:40,600 --> 00:21:41,660
-Elle est toute mouillée.
+00:19:49,240 --> 00:19:51,940
+Mystère et boule de gomme
 
 301
-00:21:41,980 --> 00:21:44,460
-Qu'est-ce qui t'arrive ? Tu es en retard ?
+00:19:51,940 --> 00:19:54,920
+Il y a trois chambres à coucher dans l'appartement des vélos
 
 302
-00:21:45,540 --> 00:21:46,800
-Es-tu toute trempée ?
+00:19:54,920 --> 00:19:59,320
+La chambre des parents, la chambre de Mireille et la chambre de Marie-Laure
 
 303
-00:21:46,800 --> 00:21:47,860
-Regardez Marie-Laure.
+00:19:59,320 --> 00:20:01,520
+Il y a aussi une salle de bain
 
 304
-00:21:48,640 --> 00:21:51,860
-Elle aussi, elle est trempée parce qu'elle est tombée dans le bassin.
+00:20:01,520 --> 00:20:04,580
+Il y a aussi une cuisine
 
 305
-00:21:53,380 --> 00:21:53,940
-Trempée.
+00:20:04,580 --> 00:20:06,580
+Voilà la cuisine des courtois
 
 306
-00:21:56,360 --> 00:21:58,460
-Mireille essaie les phares.
+00:20:06,580 --> 00:20:10,020
+La cuisine de Tante Georgette
 
 307
-00:21:59,360 --> 00:22:00,260
-Ils ne marchent pas.
+00:20:10,020 --> 00:20:12,820
+La cuisine de la maison de vacances
 
 308
-00:22:01,160 --> 00:22:02,200
-Ils essaient les phares.
+00:20:12,820 --> 00:20:16,180
+Et voilà la cuisine de la tante de Marcel Proust à Illiers
 
 309
-00:22:03,100 --> 00:22:03,860
-Un phare.
+00:20:16,180 --> 00:20:24,800
+Une salle de séjour, une salle à manger, trois chambres à coucher, une salle de bain et une cuisine
 
 310
-00:22:04,560 --> 00:22:07,260
-Zut, il ne marche pas. Je m'en doutais, j'en étais sûre.
+00:20:24,800 --> 00:20:27,660
+Au total, ça fait sept pièces
 
 311
-00:22:07,660 --> 00:22:11,580
-Je m'en doutais. Je le savais. C'est bien ce que je pensais.
+00:20:27,660 --> 00:20:31,440
+Sept pièces en comptant la cuisine et la salle de bain
 
 312
-00:22:12,060 --> 00:22:13,180
-Maintenant, regardez Marie-Laure.
+00:20:31,440 --> 00:20:35,920
+Mais sans compter l'entrée et le couloir qui ne sont pas vraiment des pièces
 
 313
-00:22:14,060 --> 00:22:17,260
-Elle se doutait bien que Mireille lui avait mangé tous ses chocolats.
+00:20:35,920 --> 00:20:38,140
+Et à quel étage habitez-vous ?
 
 314
-00:22:17,480 --> 00:22:20,180
-Elle le savait. Elle avait un pressentiment.
+00:20:38,140 --> 00:20:38,780
+Au cinquième
 
 315
-00:22:20,680 --> 00:22:21,600
-Elle s'en doutait.
+00:20:38,780 --> 00:20:43,640
+Qu'est-ce qu'il y a comme pièce dans votre appartement ?
 
 316
-00:22:22,480 --> 00:22:24,500
-Il n'y en a plus. Je m'en doutais.
+00:20:43,640 --> 00:20:47,960
+C'est un studio. Il y a une pièce principale et deux petites chambres.
 
 317
-00:22:25,120 --> 00:22:27,260
-C'est toi qui les as pris, hein, sale chipie.
+00:20:49,980 --> 00:20:50,940
+Il y a une cuisine?
 
 318
-00:22:27,520 --> 00:22:29,000
-Hé, doucement !
+00:20:51,420 --> 00:20:52,680
+Oui, toute petite.
 
 319
-00:22:29,000 --> 00:22:33,680
-Quand Mireille arrive à Paris, il y a un cycliste qui dérape devant elle.
+00:20:53,760 --> 00:20:54,260
+Autre chose?
 
 320
-00:22:33,860 --> 00:22:44,120
-Le cycliste dérape. Voilà une voiture qui dérape. Un beau dérapage. Attention, danger de dérapage.
+00:20:54,680 --> 00:20:55,660
+Une petite salle de bain.
 
 321
-00:22:47,120 --> 00:22:56,720
-Mireille veut éviter le cycliste. Pour l'éviter, elle donne un coup de volant et puis elle met son clignotant. Mais elle a mis son clignotant trop tard.
+00:20:56,340 --> 00:20:57,540
+Combien de pièces avez-vous?
 
 322
-00:22:56,720 --> 00:23:01,300
-Elle a accroché une autre voiture
+00:20:57,700 --> 00:20:58,680
+Il y a quatre pièces.
 
 323
-00:23:01,300 --> 00:23:04,380
-Un crochet, accroché
+00:20:59,400 --> 00:21:00,500
+Quelles sont ces pièces?
 
 324
-00:23:04,380 --> 00:23:06,340
-Un accrochage
+00:21:01,840 --> 00:21:09,800
+La salle de séjour, deux chambres, et puis le débarras, la salle de bain, les WC et tout.
 
 325
-00:23:06,340 --> 00:23:10,280
-Elle a accroché une voiture
+00:21:10,160 --> 00:21:11,200
+Vous n'avez pas de cuisine?
 
 326
-00:23:10,280 --> 00:23:13,620
-Bilan, total, résultat
+00:21:11,200 --> 00:21:17,280
+oui oui la cuisine aussi oui une grande cuisine la salle de séjour et la salle à manger des
 
 327
-00:23:13,620 --> 00:23:18,040
-Une aile enfoncée et une éraflure sur la portière
+00:21:17,280 --> 00:21:28,240
+vélos donne sur la rue il y a un balcon des balcons un balcon un balcon de ce balcon on
 
 328
-00:23:18,040 --> 00:23:21,960
-Une aile, une aile enfoncée
+00:21:28,240 --> 00:21:35,260
+a une très jolie vue on a la vue sur les jardins du luxembourg allons un moment sur le balcon je
 
 329
-00:23:21,960 --> 00:23:26,300
-Et une éraflure sur la portière de droite
+00:21:35,260 --> 00:21:39,640
+vous montrerai la vue c'est très important la vue tout le monde veut avoir une vue
 
 330
-00:23:26,300 --> 00:23:28,920
-Une éraflure
+00:21:41,200 --> 00:21:44,420
+La vue !
 
 331
-00:23:28,920 --> 00:23:32,880
-Le soir, Mireille téléphone à Robert
+00:21:44,420 --> 00:21:58,540
+Une vue sur les Pyrénées, une vue sur la vallée et le lac, une vue sur la vallée, une vue sur les Calanques.
 
 332
-00:23:32,880 --> 00:23:37,660
-Ça sonne, ça sonne, mais sa chambre ne répond pas
+00:21:59,160 --> 00:22:01,620
+De chez les Courtois, on a une vue sur Paris.
 
 333
-00:23:37,660 --> 00:23:39,240
-Sa chambre ne répond pas
+00:22:02,140 --> 00:22:09,380
+Du balcon des Belleaux, on voit le Sénat et le Luxembourg, le Panthéon et la Tour Montparnasse.
 
 334
-00:23:39,240 --> 00:23:42,000
-Vous êtes sûre ? Sa clé est là ?
+00:22:10,020 --> 00:22:13,580
+Mais on ne voit pas la tour Eiffel parce qu'elle est de l'autre côté.
 
 335
-00:23:42,000 --> 00:23:44,740
-Oui, madame, sa clé est là, il n'est pas rentré
+00:22:14,080 --> 00:22:18,760
+Mais on aperçoit le sommet de la tour Eiffel, des fenêtres qui donnent sur la cour.
 
 336
-00:23:44,740 --> 00:23:47,260
-Une clé, des clés
+00:22:21,060 --> 00:22:24,640
+De ces fenêtres, on voit aussi les tours de Saint-Sulpice.
 
 337
-00:23:47,260 --> 00:23:51,560
-Une clé, la clé de contact
+00:22:25,380 --> 00:22:26,900
+Voyons, faisons le tour des tours.
 
 338
-00:23:51,560 --> 00:23:57,500
-Sa clé n'est pas là, donc il doit être dans sa chambre.
+00:22:27,640 --> 00:22:31,240
+Les tours de Notre-Dame, les tours de la cathédrale de Chartres,
 
 339
-00:24:00,300 --> 00:24:04,180
-Sa clé est là, donc il n'est pas dans sa chambre.
+00:22:31,240 --> 00:22:35,720
+les tours de Carcassonne, une tour du château de Chinon,
 
 340
-00:24:04,340 --> 00:24:06,440
-Il est sorti et il n'est pas rentré.
+00:22:36,780 --> 00:22:39,080
+les tours d'un château de la fin du Moyen-Âge.
 
 341
-00:24:07,100 --> 00:24:09,140
-Onze heures passées, mais au petit bien-être.
+00:22:39,380 --> 00:22:42,740
+Les tours d'Aigues-Mortes, la tour Eiffel,
 
 342
-00:24:09,700 --> 00:24:11,480
-Eh bien, il est en Bourgogne.
+00:22:47,360 --> 00:22:51,020
+les tours de la Défense, la tour Montparnasse.
 
 343
-00:24:11,820 --> 00:24:14,820
-Il est en train de goûter les grands crus de Bourgogne.
+00:22:51,900 --> 00:22:53,440
+Une horreur, une catastrophe.
 
 344
-00:24:15,320 --> 00:24:18,560
-A l'Oxcorton, Nuit-Saint-Georges, Chevré-Chambertin...
+00:22:54,000 --> 00:22:56,500
+Monsieur Belleau n'aime pas la tour Montparnasse.
 
 345
-00:24:18,560 --> 00:24:25,400
-Je suis fier d'être Bourguignon, et je suis fier, et je suis fier...
+00:22:57,120 --> 00:22:58,420
+Elle ne lui plaît pas.
 
 346
-00:24:25,400 --> 00:24:28,560
-Robert Bourguignon ? Oh, quelle blague !
+00:22:58,780 --> 00:23:02,080
+Il dit une horreur, parce qu'il n'aime pas ça.
 
 347
-00:24:29,280 --> 00:24:31,420
-Bon, voyons ce que vous pouvez dire.
+00:23:02,600 --> 00:23:02,880
+Écoutez.
 
 348
-00:24:32,040 --> 00:24:35,900
-Regardez, écoutez, réfléchissez et répondez.
+00:23:03,680 --> 00:23:04,800
+Je sers le thé, madame.
 
 349
-00:24:37,720 --> 00:24:41,660
-Pourquoi est-ce que Mireille ne peut pas faire démarrer la voiture ?
+00:23:05,120 --> 00:23:06,540
+Le thé, quelle horreur.
 
 350
-00:24:41,660 --> 00:24:44,560
-Qu'est-ce qui est à plat ? Les accus ou les pneus ?
+00:23:06,540 --> 00:23:08,420
+C'est le scotch aujourd'hui.
 
 351
-00:24:45,120 --> 00:24:46,660
-Les accus.
+00:23:08,420 --> 00:23:12,780
+A part la tour Montparnasse, qui est une catastrophe, une horreur,
 
 352
-00:24:46,660 --> 00:24:51,980
-Qu'est-ce que Mireille et Colette vérifient ici ?
+00:23:13,480 --> 00:23:15,740
+M. Belleau est très fier de sa vue.
 
 353
-00:24:51,980 --> 00:24:54,060
-Elles vérifient les phares.
+00:23:17,180 --> 00:23:19,480
+Nous aimons bien cet appartement à cause de la vue.
 
 354
-00:24:55,060 --> 00:24:57,660
-Quand on n'a plus d'essence, qu'est-ce qu'il faut faire ?
+00:23:19,960 --> 00:23:22,400
+Une vue imprenable à cause du jardin du Luxembourg.
 
 355
-00:24:59,280 --> 00:25:01,080
-Il faut faire le plein.
+00:23:23,180 --> 00:23:24,080
+Ça appartient à l'État.
 
 356
-00:25:02,740 --> 00:25:05,660
-Qu'est-ce qui est le plus cher ? L'essence ou le super ?
+00:23:24,880 --> 00:23:28,180
+Personne ne pourra jamais construire devant chez nous et nous prendre notre vue.
 
 357
-00:25:07,180 --> 00:25:08,100
-Le super.
+00:23:29,540 --> 00:23:31,260
+Une vue imprenable.
 
 358
-00:25:09,440 --> 00:25:12,660
-Qu'est-ce que c'est ? L'avant de la voiture ou l'arrière ?
+00:23:32,360 --> 00:23:36,340
+Mireille explique à Robert qui va être la septième personne au dîner.
 
 359
-00:25:12,660 --> 00:25:14,000
-L'avant.
+00:23:36,340 --> 00:23:37,840
+C'est Hubert.
 
 360
-00:25:14,000 --> 00:25:18,000
-Quand vous êtes en panne, qui est-ce qu'il faut appeler ?
+00:23:38,420 --> 00:23:43,720
+Dis donc, je voulais te dire, mes parents ont invité un copain à moi, Hubert de Pinot-Chambrin.
 
 361
-00:25:20,240 --> 00:25:21,160
-Le dépanneur.
+00:23:44,300 --> 00:23:47,520
+C'est un ami d'enfance et il vient d'une famille très aristocratique.
 
 362
-00:25:21,560 --> 00:25:25,000
-Quand est-ce qu'il faut s'arrêter ? Au feu rouge ou au feu vert ?
+00:23:48,160 --> 00:23:51,560
+Et tu verras, il est toujours en train de parler de sa famille, ses ancêtres.
 
 363
-00:25:26,400 --> 00:25:27,480
-Au feu rouge.
+00:23:51,560 --> 00:24:06,160
+Sa famille possède tout un tas de châteaux, de chasses, avec des chiens, des chevaux, tout ça.
 
 364
-00:25:28,840 --> 00:25:31,340
-Vous voulez payer. Qu'est-ce que vous dites ?
+00:24:08,420 --> 00:24:15,260
+La famille possède une grosse entreprise de construction.
 
 365
-00:25:31,340 --> 00:25:33,000
-Je vous dois combien ?
+00:24:18,760 --> 00:24:20,220
+C'est un drôle de type, tu verras.
 
 366
-00:25:33,580 --> 00:25:38,000
-Qu'est-ce que le garagiste fait ? Il répare ou il repart ?
+00:24:20,580 --> 00:24:23,300
+Il n'est pas comme tout le monde et il est amusant.
 
 367
-00:25:38,560 --> 00:25:40,200
-Il répare.
+00:24:24,700 --> 00:24:25,720
+C'est un drôle de type.
 
 368
-00:25:41,000 --> 00:25:43,240
-Et Mireille, qu'est-ce qu'elle fait ?
+00:24:26,740 --> 00:24:28,620
+Regardez, vous allez voir un drôle de lapin.
 
 369
-00:25:43,240 --> 00:25:44,460
-Elle repart.
+00:24:29,740 --> 00:24:31,500
+Qu'est-ce que c'est ?
 
 370
-00:25:45,800 --> 00:25:48,460
-Mireille arrive à un feu rouge. Ses freins ne marchent pas.
+00:24:31,500 --> 00:24:32,360
+C'est un lapin.
 
 371
-00:25:48,820 --> 00:25:51,020
-Qu'est-ce qu'elle fait ?
+00:24:33,100 --> 00:24:34,160
+C'est un drôle de lapin.
 
 372
-00:25:51,020 --> 00:25:52,360
-Elle brûle le feu rouge.
+00:24:34,500 --> 00:24:36,480
+Qu'est-ce qu'il a de drôle, mon lapin ?
 
 373
-00:25:52,700 --> 00:25:55,420
-Oh là là là là ! Oh mon Dieu ! Il n'y a plus de frein !
+00:24:36,480 --> 00:24:38,360
+Voyons maintenant ce que vous pouvez dire.
 
 374
-00:25:55,420 --> 00:25:58,480
-Aïe aïe aïe ! J'ai brûlé le feu rouge ! Oh mon Dieu !
+00:24:38,420 --> 00:24:42,420
+Regardez, écoutez, réfléchissez et parlez.
 
 375
-00:25:58,480 --> 00:26:01,480
-Alors mademoiselle Mireille, c'est comme ça qu'on brûle les feux rouges ?
+00:24:45,420 --> 00:24:47,420
+Vous voulez aller rue de Vaugirard.
 
 376
-00:26:03,220 --> 00:26:06,060
-Ce n'est pas ma faute, monsieur le gendarme. Je n'ai pas de frein.
+00:24:47,420 --> 00:24:49,420
+Vous êtes un peu perdu.
 
 377
-00:26:08,540 --> 00:26:12,540
-Et le frein à main alors ? Vous n'avez pas de frein à main non plus ?
+00:24:49,420 --> 00:24:52,420
+Vous arrêtez un passant. Qu'est-ce que vous lui dites ?
 
 378
-00:26:12,540 --> 00:26:14,900
-Si j'ai un frein à main, mais il ne marche pas.
+00:24:55,420 --> 00:24:58,420
+Pardon, monsieur. Excusez-moi, je suis un peu perdu.
 
 379
-00:26:16,360 --> 00:26:20,020
-Mademoiselle Mireille, il faut avoir des freins qui marchent.
+00:24:58,420 --> 00:25:00,420
+La rue de Vaugirard, s'il vous plaît.
 
 380
-00:26:21,700 --> 00:26:22,220
-Pourquoi?
+00:25:01,420 --> 00:25:05,420
+D'après vous, ça, c'est le rez-de-chaussée ou le sixième étage ?
 
 381
-00:26:23,160 --> 00:26:25,240
-Pour s'arrêter, Mademoiselle Mireille.
+00:25:05,420 --> 00:25:08,700
+Le sixième étage.
 
 382
-00:26:26,620 --> 00:26:27,560
-Pour s'arrêter?
+00:25:09,680 --> 00:25:12,240
+Regardez-là. Les phares sont éteints ou allumés?
 
 383
-00:26:28,280 --> 00:26:32,880
-Mon papa, qui est chez Renaud, dit toujours que les voitures sont faites pour rouler, pas pour s'arrêter.
+00:25:15,640 --> 00:25:16,320
+Éteints.
 
 384
-00:26:35,540 --> 00:26:38,560
-Allez, allez, allez, pas de discussion, je vous arrête.
+00:25:17,040 --> 00:25:19,580
+Et ici, la lumière est allumée ou éteinte?
 
 385
-00:26:42,540 --> 00:27:11,540
-...
+00:25:21,680 --> 00:25:22,360
+Allumée.
 
 386
-00:27:11,540 --> 00:27:40,540
-...
+00:25:23,180 --> 00:25:26,400
+Regardez bien. Ça, c'est une rue ou une cour?
 
 387
-00:27:40,540 --> 00:28:10,520
-Sous-titrage ST' 501
+00:25:29,460 --> 00:25:30,720
+Une cour.
 
 388
-00:28:10,540 --> 00:28:13,960
-et la communication, le Commissariat général à la langue française,
+00:25:30,720 --> 00:25:33,220
+Et ça, c'est un escalier ou un ascenseur?
 
 389
-00:28:14,360 --> 00:28:16,080
-le Jesse B. Cox Charitable Trust
+00:25:35,420 --> 00:25:37,420
+Un escalier.
 
 390
-00:28:16,080 --> 00:28:18,380
-et le National Endowment for the Humanities.
+00:25:38,420 --> 00:25:41,420
+Qu'est-ce que c'est ça ? C'est une chaise ou un fauteuil ?
+
+391
+00:25:43,420 --> 00:25:44,420
+Un fauteuil.
+
+392
+00:25:44,420 --> 00:25:47,420
+C'est une salle à manger ou une chambre à coucher ?
+
+393
+00:25:49,420 --> 00:25:50,420
+Une salle à manger.
+
+394
+00:25:51,420 --> 00:25:53,420
+Vous avez un très bel appartement.
+
+395
+00:25:53,420 --> 00:25:58,420
+Oui, nous l'aimons beaucoup. Il est très bien situé, il y a beaucoup de soleil.
+
+396
+00:25:58,420 --> 00:26:02,660
+Il est très bien situé, il y a ses pièces,
+
+397
+00:26:02,660 --> 00:26:04,480
+on compte dans la cuisine et la salle de bain,
+
+398
+00:26:04,780 --> 00:26:09,100
+il y a beaucoup de soleil, les toilettes sont de style Louis XVI.
+
+399
+00:26:09,480 --> 00:26:12,080
+Gna gna gna gna gna gna gna gna.
+
+400
+00:26:12,540 --> 00:26:15,640
+Oh, il m'agace, ces deux-là.
+
+401
+00:26:16,120 --> 00:26:18,720
+J'en ai assez, je vais dormir.
+
+402
+00:26:19,500 --> 00:26:22,340
+J'en ai assez, je me couche.
+
+403
+00:26:23,680 --> 00:26:25,740
+Mais qu'est-ce que c'est que ça, monsieur Guignol?
+
+404
+00:26:26,220 --> 00:26:27,280
+Qu'est-ce que vous faites?
+
+405
+00:26:27,280 --> 00:26:29,280
+Je me couche.
+
+406
+00:26:30,280 --> 00:26:33,280
+Mais ce n'est pas une chambre à coucher, c'est une salle à manger.
+
+407
+00:26:33,280 --> 00:26:38,280
+Tant pis, mademoiselle Mireille, je suis fatigué, je me couche.
+
+408
+00:26:38,280 --> 00:26:41,280
+Oh, il est insupportable ce monsieur Guignol.
+
+409
+00:26:41,280 --> 00:26:46,280
+Oh, se coucher dans ma salle à manger, non, non, vraiment, écoutez, oh non.
+
+410
+00:26:46,280 --> 00:26:49,280
+Tenez, venez sur le balcon, je vous montrerai la vue.
+
+411
+00:26:49,280 --> 00:26:51,280
+Une vue imprenable.
+
+412
+00:26:57,280 --> 00:27:27,260
+Sous-titrage ST' 501
+
+413
+00:27:27,280 --> 00:27:52,280
+...
+
+414
+00:27:57,280 --> 00:28:00,780
+Annenberg Media
+
+415
+00:28:27,280 --> 00:28:57,260
+Sous-titrage Société Radio-Canada
 

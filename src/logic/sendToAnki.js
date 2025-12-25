@@ -1,28 +1,44 @@
-export default async function ankiConnectInvoke(action, version, params={}) {
-    return new Promise((resolve, reject) => {
-        const xhr = new XMLHttpRequest();
-        xhr.addEventListener('error', () => reject('failed to connect to AnkiConnect'));
-        xhr.addEventListener('load', () => {
-            try {
-                const response = JSON.parse(xhr.responseText);
-                if (response.error) {
-                    throw response.error;
-                } else {
-                    if (response.hasOwnProperty('result')) {
-                        resolve(response.result);
-                    } else {
-                        reject('failed to get results from AnkiConnect');
-                    }
-                }
-            } catch (e) {
-                reject(e);
-            }
-        });
 
-        xhr.open('POST', 'http://127.0.0.1:8765');
-        xhr.send(JSON.stringify({action, version, params}));
+let requestCounter = 0;
+
+export default async function ankiConnectInvoke(action, version, params = {}) {
+    return new Promise((resolve, reject) => {
+        const requestId = `anki-request-${Date.now()}-${requestCounter++}`;
+
+
+        const responseHandler = (event) => {
+            if (event.detail.requestId === requestId) {
+                window.removeEventListener('oubl-anki-response', responseHandler);
+
+                if (event.detail.success) {
+                    resolve(event.detail.result);
+                } else {
+                    reject(event.detail.error || 'Failed to communicate with AnkiConnect');
+                }
+            }
+        };
+
+
+        window.addEventListener('oubl-anki-response', responseHandler);
+
+
+        window.dispatchEvent(new CustomEvent('oubl-anki-request', {
+            detail: {
+                requestId,
+                action,
+                version,
+                params
+            }
+        }));
+
+
+        setTimeout(() => {
+            window.removeEventListener('oubl-anki-response', responseHandler);
+            reject('Timeod out after 30s');
+        }, 30000);
     });
 }
+
 
 try {
     const result = await ankiConnectInvoke('deckNames', 5);

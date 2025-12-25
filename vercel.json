@@ -1,4 +1,21 @@
 {
-  "framework": "vite",
-  "cleanUrls": true
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "/api/$1"
+    }
+  ],
+  "functions": {
+    "api/explain.js": {
+      "maxDuration": 30
+    },
+    "api/health.js": {
+      "maxDuration": 10
+    },
+    "api/translate.js": {
+      "maxDuration": 10
+    }
+  }
 }

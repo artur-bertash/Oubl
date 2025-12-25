@@ -3,1666 +3,1830 @@
 Sous-titrage ST' 501
 
 2
-00:00:30,000 --> 00:00:59,980
-Sous-titrage MFP.
+00:00:30,000 --> 00:00:32,000
+et s'involer.
 
 3
-00:01:00,000 --> 00:01:10,220
-Jeudi soir, on est encore à table chez les Bélots.
+00:00:32,000 --> 00:00:34,000
+Très bientôt, vous verrez ce qui se passe.
 
 4
-00:01:10,720 --> 00:01:12,980
-Colette, vous reprendrez bien un peu de foie gras. Vous aimez ça.
+00:00:34,000 --> 00:00:36,000
+Et vous serez en mesure de dire quelques choses
 
 5
-00:01:13,820 --> 00:01:16,820
-Colette n'a plus de pain. Marie-Laure, va chercher le pain, s'il te plaît.
+00:00:36,000 --> 00:00:38,000
+en français, vous-même.
 
 6
-00:01:20,720 --> 00:01:22,600
-Les loyers doivent être chers dans ce quartier.
+00:00:38,000 --> 00:00:40,000
+Oui.
 
 7
-00:01:23,140 --> 00:01:27,360
-Oui, assez. Mais nous, nous ne louons pas. Nous sommes en copropriété.
+00:00:40,000 --> 00:00:42,000
+La porte de la porte, encore une fois.
 
 8
-00:01:28,240 --> 00:01:30,740
-Nous avons acheté l'appartement il y a une vingtaine d'années.
+00:00:42,000 --> 00:00:44,000
+Marie-Laure reporte qu'il y avait un homme en noir
 
 9
-00:01:31,900 --> 00:01:41,240
-Chaque propriétaire paie sa part pour le chauffage, le traitement des gardiens, l'entretien, les réparations, le nettoyage périodique de la façade.
+00:00:44,000 --> 00:00:46,000
+qui demandait si elle avait une sœur
 
 10
-00:01:41,640 --> 00:01:45,400
-Mais au total, même avec toutes les charges, c'est plus économique que de louer.
+00:00:46,000 --> 00:00:48,000
+qui ressemblait à une actrice.
 
 11
-00:01:46,120 --> 00:01:48,960
-Oui, bien sûr, la propriété, ça a ses avantages.
+00:00:48,000 --> 00:00:50,000
+Elle l'a envoyée, et Mireille est en colère.
 
 12
-00:01:49,520 --> 00:01:50,340
-Mais ça devient infernal.
+00:00:50,000 --> 00:00:52,000
+Peut-être que c'était sa grande chance.
 
 13
-00:01:50,340 --> 00:02:10,300
-Alors, ma famille possédait autrefois un domaine en Vendée, un petit château en Touraine, un autre en Bourgogne avec quelques vignes, un manoir en Bretagne, un pavillon de chasse en Sologne, un mas en Provence, un chalet dans les Alpes, une gentille aumière dans le Périgord et un cottage en Normandie.
+00:00:52,000 --> 00:00:54,000
+En même temps, Robert essaie, en vain,
 
 14
-00:02:10,300 --> 00:02:14,600
-Mais maintenant, c'est devenu impossible
+00:00:54,000 --> 00:00:56,000
+d'arranger la salle de boulot à la Belle-Ôse.
 
 15
-00:02:14,600 --> 00:02:16,820
-Avec les impôts
+00:01:00,000 --> 00:01:09,900
+Jeudi soir, on est toujours à table chez les Bélots.
 
 16
-00:02:16,820 --> 00:02:20,360
-Et surtout, surtout, le manque de domestique
+00:01:11,700 --> 00:01:14,160
+À ça, on peut dire qu'on y a travaillé sur cette maison de rue.
 
 17
-00:02:20,360 --> 00:02:23,420
-Car enfin, il faut bien le dire, on n'est plus servi
+00:01:14,620 --> 00:01:15,820
+Oh là là !
 
 18
-00:02:23,420 --> 00:02:25,420
-Comme vous avez raison, cher ami
+00:01:15,820 --> 00:01:18,300
+C'est sans doute pour ça que je m'y suis tellement attachée.
 
 19
-00:02:25,420 --> 00:02:31,060
-Est-ce que vous voudriez bien me passer le sel, s'il vous plaît ?
+00:01:18,740 --> 00:01:21,080
+On sonne de nouveau. Tout le monde s'arrête de manger et de parler.
 
 20
-00:02:31,060 --> 00:02:33,640
-Nous, nous n'avons pas de problème de domestique
-
-21
-00:02:33,640 --> 00:02:36,540
-Il faut dire que nous n'avons pas de grand domaine
-
-22
-00:02:36,540 --> 00:02:40,180
-Mais nous avons tout de même une petite maison à la campagne
-
-23
-00:02:40,180 --> 00:02:42,800
-qui nous sert de résidence secondaire, près de Dreux.
-
-24
-00:02:44,120 --> 00:02:46,020
-C'était une petite maison de paysans
-
-25
-00:02:46,020 --> 00:02:48,140
-qui était en très mauvais état quand nous avons acheté.
-
-26
-00:02:48,940 --> 00:02:52,280
-Les portes ne fermaient pas, il n'y avait plus de vitres aux fenêtres.
-
-27
-00:02:52,700 --> 00:02:54,840
-Nous avons fait toutes les réparations nous-mêmes.
-
-28
-00:02:55,260 --> 00:02:57,440
-Il a fallu changer presque toutes les tuiles du toit,
-
-29
-00:02:57,600 --> 00:03:00,080
-il a fallu tout repeindre, tout retapisser.
-
-30
-00:03:00,800 --> 00:03:05,440
-On a fait les maçons, les moduisiers, les charpentiers,
-
-31
-00:03:05,960 --> 00:03:07,640
-les plombiers, les peintres.
-
-32
-00:03:08,260 --> 00:03:09,760
-Toute la famille a travaillé.
-
-33
-00:03:10,180 --> 00:03:12,560
-Ça nous a pris deux ans pour la rendre habitable.
-
-34
-00:03:13,640 --> 00:03:16,560
-On a fait amener l'eau, mettre l'électricité.
-
-35
-00:03:17,000 --> 00:03:19,620
-On a transformé la grange en garage.
-
-36
-00:03:20,780 --> 00:03:21,920
-Ça, c'était pas le plus difficile.
-
-37
-00:03:22,220 --> 00:03:26,020
-Il suffisait de laisser tomber un N et d'ajouter un A.
-
-38
-00:03:26,920 --> 00:03:29,580
-Oh, arrête. Arrête tes jeux de mots absurdes.
-
-39
-00:03:29,580 --> 00:03:33,040
-Qu'est-ce que c'est, le jeu de mots absurdes ?
-
-40
-00:03:33,040 --> 00:03:34,500
-Grange, garage.
-
-41
-00:03:35,300 --> 00:03:39,640
-Tu as grange, le mot grange, et tu veux faire garage.
-
-42
-00:03:40,180 --> 00:03:44,320
-Tu enlèves un N et tu ajoutes un A. Tu vois ?
-
-43
-00:03:44,320 --> 00:03:44,760
-Non.
-
-44
-00:03:46,080 --> 00:03:48,160
-Va chercher ton scrabble, je vais te montrer.
-
-45
-00:03:49,400 --> 00:03:50,680
-Marie-Laure se lève.
-
-46
-00:03:51,740 --> 00:03:53,640
-Madame Belleau la réprimande.
-
-47
-00:03:53,860 --> 00:03:56,040
-Marie-Laure, qu'est-ce que tu fais ? Veux-tu bien t'asseoir ?
-
-48
-00:03:56,040 --> 00:03:57,320
-C'est papa qui m'a dit.
-
-49
-00:03:58,360 --> 00:03:58,720
-Ah bon.
-
-50
-00:03:58,720 --> 00:04:22,800
-Alors, tu agranges, tu enlèves un N, tu ajoutes un A, et tu fais un garage.
-
-51
-00:04:23,340 --> 00:04:23,560
-Voilà.
-
-52
-00:04:24,880 --> 00:04:26,000
-C'est ça ?
-
-53
-00:04:26,000 --> 00:04:27,720
-C'était pas difficile, hein ?
-
-54
-00:04:29,720 --> 00:04:33,420
-Pendant ce temps, Mme Belleau continue sa conversation avec Robert.
-
-55
-00:04:33,880 --> 00:04:35,260
-Ça se fait beaucoup depuis quelques temps.
-
-56
-00:04:35,800 --> 00:04:38,020
-Les gens de la ville achètent de vieilles maisons de paysans,
-
-57
-00:04:38,360 --> 00:04:41,620
-ils les modernisent et ils s'en servent comme résidents secondaires.
-
-58
-00:04:42,500 --> 00:04:43,520
-Ils y viennent pour le week-end.
-
-59
-00:04:44,960 --> 00:04:47,380
-Je trouve ça triste de voir les paysans chasser de leurs vieilles maisons.
-
-60
-00:04:47,720 --> 00:04:48,640
-Mais on ne chasse personne.
-
-61
-00:04:49,400 --> 00:04:52,480
-Ce sont de vieilles maisons abandonnées qui tombent en ruine la plupart du temps.
-
-62
-00:04:53,520 --> 00:04:55,320
-En tout cas, nous, notre maison, on l'a bien gagnée.
-
-63
-00:04:55,500 --> 00:04:57,300
-On y a drôlement travaillé et elle est bien à nous.
-
-64
-00:04:58,720 --> 00:05:01,300
-À ce moment, on entend un coup de sonnette.
-
-65
-00:05:02,880 --> 00:05:04,000
-Il me semble qu'on a sonné.
-
-66
-00:05:04,720 --> 00:05:08,260
-Marie-Laure, veux-tu bien aller voir, s'il te plaît ?
-
-67
-00:05:08,260 --> 00:05:10,640
-Marie-Laure se lève et sort de la pièce.
-
-68
-00:05:16,780 --> 00:05:17,440
-Bonjour, petite.
-
-69
-00:05:18,440 --> 00:05:20,580
-Est-ce que tu voudrais des billets de ton beau-là ?
-
-70
-00:05:20,580 --> 00:05:21,460
-Ah, non, non.
-
-71
-00:05:22,800 --> 00:05:23,620
-Ah oui, c'est ce que je veux.
-
-72
-00:05:24,800 --> 00:05:25,460
-Très joliment.
-
-73
-00:05:26,080 --> 00:05:27,300
-Non !
-
-74
-00:05:27,300 --> 00:05:33,820
-Un moment après, elle revient.
-
-75
-00:05:35,160 --> 00:05:36,380
-Qu'est-ce que c'était ?
-
-76
-00:05:36,380 --> 00:05:37,240
-Une bonne sœur.
-
-77
-00:05:37,480 --> 00:05:38,580
-Qu'est-ce qu'elle voulait ?
-
-78
-00:05:38,580 --> 00:05:43,740
-Elle voulait me vendre des billets de loterie pour gagner un vieux prioré du 16e siècle.
-
-79
-00:05:44,100 --> 00:05:47,260
-Qu'est-ce que c'est que cette histoire ? Et qu'est-ce que tu as fait ?
-
-80
-00:05:47,260 --> 00:05:51,800
-Je lui ai dit que ça ne nous intéressait pas, qu'on avait déjà une résidence secondaire
-
-81
-00:05:51,800 --> 00:05:56,180
-et qu'avec les impôts, le manque de domestique, ça suffisait comme ça.
-
-82
-00:05:56,180 --> 00:05:57,520
-Marie-Laure
-
-83
-00:05:57,520 --> 00:05:59,600
-Quoi ? C'est pas vrai ?
-
-84
-00:05:59,600 --> 00:06:02,060
-Mais tu aurais dû m'appeler, voyons, cette pauvre bonne soeur
-
-85
-00:06:02,060 --> 00:06:04,660
-Bah, c'était pas une vraie
-
-86
-00:06:04,660 --> 00:06:05,880
-Comment ça ?
-
-87
-00:06:05,880 --> 00:06:07,860
-Bah non, c'était une fausse bonne soeur
-
-88
-00:06:07,860 --> 00:06:09,700
-Comment le sais-tu ?
-
-89
-00:06:09,700 --> 00:06:10,880
-Elle avait de la moustache
-
-90
-00:06:10,880 --> 00:06:12,480
-C'est pas une raison
-
-91
-00:06:12,480 --> 00:06:14,640
-C'est sûrement des bonnes soeurs qui ont de la moustache
-
-92
-00:06:14,640 --> 00:06:16,120
-Peut-être, oui
-
-93
-00:06:16,120 --> 00:06:18,660
-Tante Amélie, elle a de la moustache
-
-94
-00:06:18,660 --> 00:06:22,100
-Mais elle, elle avait une moustache comme ça
-
-95
-00:06:22,100 --> 00:06:25,660
-Bizarre
-
-96
-00:06:26,980 --> 00:06:27,540
-Bizarre.
-
-97
-00:06:30,780 --> 00:06:33,880
-Aujourd'hui, il est surtout question de l'appartement des Bélots
-
-98
-00:06:33,880 --> 00:06:35,700
-et de leur résidence secondaire.
-
-99
-00:06:36,500 --> 00:06:40,200
-Les Bélots habitent au 18 rue de Vaugirard, dans un appartement.
-
-100
-00:06:40,900 --> 00:06:42,320
-Ils ne sont pas locataires.
-
-101
-00:06:43,640 --> 00:06:46,080
-Quand on n'a pas de voiture, on peut louer une voiture.
-
-102
-00:06:47,260 --> 00:06:50,240
-Vous vous rappelez que Robert a loué une voiture pour aller à Provins.
-
-103
-00:06:51,840 --> 00:06:55,740
-Quand on n'a pas de maison, on peut louer une maison ou un appartement.
-
-104
-00:06:56,180 --> 00:07:00,420
-Vous vous rappelez que les Bélots ont loué une maison de vacances en Bretagne.
-
-105
-00:07:01,340 --> 00:07:05,140
-Quand on loue une maison ou un appartement, on est locataire.
-
-106
-00:07:06,000 --> 00:07:09,800
-Quand on est locataire, tous les mois, il faut payer le loyer.
-
-107
-00:07:10,800 --> 00:07:15,080
-Il faut envoyer un chèque au propriétaire pour le loyer.
-
-108
-00:07:17,600 --> 00:07:23,580
-Les Bélots ne paient pas de loyer parce qu'ils ne sont pas locataires, ils sont propriétaires.
-
-109
-00:07:23,580 --> 00:07:44,580
-L'appartement est à eux. Ils ne paient pas de loyer, mais ils paient des charges. Ils paient pour le chauffage de l'immeuble, pour les réparations, pour le nettoyage périodique de la façade, pour le traitement des gardiens. Les gardiens, c'est le concierge ou la concierge.
-
-110
-00:07:44,580 --> 00:07:54,240
-Tous les mois, les propriétaires, enfin les copropriétaires de l'immeuble, doivent payer la gardienne, la concierge.
-
-111
-00:07:54,860 --> 00:08:02,700
-D'après M. Bello, même avec ces charges qu'il faut payer, c'est plus avantageux d'être propriétaire que locataire.
-
-112
-00:08:02,840 --> 00:08:06,660
-Mais au total, même avec toutes les charges, c'est plus économique que de louer.
-
-113
-00:08:06,860 --> 00:08:09,680
-Oui, bien sûr, la propriété, ça a ses avantages.
-
-114
-00:08:10,240 --> 00:08:11,060
-Mais ça devient infernal.
-
-115
-00:08:11,060 --> 00:08:38,200
-Ma famille possédait autrefois un domaine en Vendée, un petit château en Touraine, un autre en Bourgogne avec quelques vignes, un manoir en Bretagne, un pavillon de chasse en Sologne, un mas en Provence, un chalet dans les Alpes, une gentille aumière dans le Périgord et un cotage en Normandie.
-
-116
-00:08:38,200 --> 00:08:46,660
-Hubert énumère tout un tas de propriétés, de domaines que sa famille aurait eu un peu partout en France
-
-117
-00:08:46,660 --> 00:09:00,280
-En Normandie, en Bretagne, en Vendée, en Touraine, en Bourgogne, en Sologne
-
-118
-00:09:00,280 --> 00:09:03,800
-En Provence
-
-119
-00:09:03,800 --> 00:09:07,300
-Dans les Alpes
-
-120
-00:09:07,300 --> 00:09:09,980
-Dans le Périgord
-
-121
-00:09:09,980 --> 00:09:16,980
-Évidemment, quand Hubert énumère toutes ses propriétés, tous ses beaux domaines, il s'amuse un peu
-
-122
-00:09:16,980 --> 00:09:22,300
-Il joue un rôle, le rôle de descendant d'une grande famille aristocratique
-
-123
-00:09:22,900 --> 00:09:30,060
-Marie-Laure le prend au sérieux, mais il n'est pas entièrement sérieux, il exagère peut-être un peu
-
-124
-00:09:30,060 --> 00:09:40,400
-Ce petit château en Touraine, par exemple, c'est le château de Chambord, construit au XVIe siècle par le roi François Ier
-
-125
-00:09:40,400 --> 00:09:48,180
-Il appartient aujourd'hui à l'État et n'a jamais, que je sache, appartenu à la famille de Pinot-Chambre
-
-126
-00:09:48,180 --> 00:09:55,140
-Un manoir, une gentillomière, ce sont de petits châteaux, la maison d'un gentilhomme
-
-127
-00:09:55,140 --> 00:09:58,840
-Le masque, c'est la maison typique de Provence.
-
-128
-00:09:59,300 --> 00:10:02,880
-Et le chalet, c'est la maison en bois typique des Alpes.
-
-129
-00:10:05,020 --> 00:10:06,920
-Voilà des chalets dans les Alpes.
-
-130
-00:10:10,080 --> 00:10:11,800
-De vieux chalets de paysans.
-
-131
-00:10:14,080 --> 00:10:16,940
-Et des chalets modernes des résidences secondaires.
-
-132
-00:10:18,460 --> 00:10:22,920
-Donc, autrefois, la famille Dubert possédait tout un tas de propriétés.
-
-133
-00:10:22,920 --> 00:10:25,400
-Mais maintenant, ce n'est plus possible.
-
-134
-00:10:25,860 --> 00:10:28,920
-Oui, bien sûr, la propriété, ça a ses avantages.
-
-135
-00:10:29,460 --> 00:10:30,280
-Mais ça devient infernal.
-
-136
-00:10:30,880 --> 00:10:32,860
-Ce n'est plus possible d'avoir des propriétés.
-
-137
-00:10:32,980 --> 00:10:35,900
-C'est trop difficile. C'est horrible, affreux.
-
-138
-00:10:36,080 --> 00:10:39,140
-C'est un enfer. Ça devient infernal.
-
-139
-00:10:40,060 --> 00:10:42,540
-C'est devenu impossible pour deux raisons.
-
-140
-00:10:42,780 --> 00:10:46,400
-D'abord, à cause des impôts, des taxes sur la propriété.
-
-141
-00:10:47,160 --> 00:10:49,900
-Il faut donner de l'argent à l'État tous les ans.
-
-142
-00:10:50,520 --> 00:10:51,180
-C'est très cher.
-
-143
-00:10:51,180 --> 00:10:55,820
-Et puis, l'autre raison, c'est le manque de domestiques.
-
-144
-00:10:57,380 --> 00:10:59,540
-Autrefois, on avait des domestiques.
-
-145
-00:11:00,080 --> 00:11:02,260
-On avait des domestiques qui vous servaient.
-
-146
-00:11:03,860 --> 00:11:06,600
-Aujourd'hui, il n'y a plus de domestiques pour vous servir.
-
-147
-00:11:07,160 --> 00:11:08,480
-On n'est plus servi.
-
-148
-00:11:09,380 --> 00:11:13,160
-Les courtois ont une bonne qui les sert, oui, mais c'est rare.
-
-149
-00:11:14,000 --> 00:11:18,100
-Et puis, les bonnes d'aujourd'hui, elles ne travaillent plus comme autrefois.
-
-150
-00:11:18,340 --> 00:11:20,720
-Car enfin, il faut bien le dire, on n'est plus servi.
-
-151
-00:11:21,180 --> 00:11:22,300
-Tenez, regardez.
-
-152
-00:11:22,700 --> 00:11:28,040
-Aline ! Aline ! Aline !
-
-153
-00:11:28,040 --> 00:11:29,580
-C'est incroyable ce qu'on peut te mal servir.
-
-154
-00:11:30,000 --> 00:11:30,900
-Excusez-moi, madame.
-
-155
-00:11:31,340 --> 00:11:35,040
-Les Belleau, eux, n'ont pas de domestique du tout. Ils n'ont pas de bonne.
-
-156
-00:11:35,920 --> 00:11:37,420
-Heureusement, ils ont Marie-Laure.
-
-157
-00:11:37,980 --> 00:11:39,400
-Marie-Laure, va chercher du pain, s'il te plaît.
-
-158
-00:11:39,840 --> 00:11:40,080
-Oui.
-
-159
-00:11:46,520 --> 00:11:51,160
-Il me semble qu'on a sonné. Marie-Laure, veux-tu bien aller voir, s'il te plaît ?
-
-160
-00:11:51,160 --> 00:11:56,940
-Tiens, tu veux bien passer le livre, là?
-
-161
-00:12:01,720 --> 00:12:02,120
-Merci.
-
-162
-00:12:06,780 --> 00:12:08,200
-Tu vas me chercher un crayon?
-
-163
-00:12:09,320 --> 00:12:11,500
-Oh là là, hé, je suis pas ta bonne, hein?
-
-164
-00:12:11,700 --> 00:12:13,700
-Si tu veux un crayon, tu vas le chercher toi-même.
-
-165
-00:12:14,780 --> 00:12:17,020
-Oh là là, il faut bien le dire, on n'est plus servi.
-
-166
-00:12:17,420 --> 00:12:19,360
-Hé, non, on n'est plus servi.
-
-167
-00:12:19,360 --> 00:12:21,480
-Il faut tout faire soi-même.
-
-168
-00:12:22,300 --> 00:12:25,000
-Quand on n'a qu'un petit appartement, comme Tante Georgette,
-
-169
-00:12:25,120 --> 00:12:27,160
-ça va encore, on peut se débrouiller.
-
-170
-00:12:28,080 --> 00:12:30,340
-Mais quand on a une maison un peu grande,
-
-171
-00:12:30,700 --> 00:12:34,660
-quand on a plusieurs propriétés, ce n'est plus possible.
-
-172
-00:12:34,980 --> 00:12:35,760
-On n'y arrive pas.
-
-173
-00:12:36,780 --> 00:12:39,400
-Nous, nous n'avons pas de problème de domestique.
-
-174
-00:12:40,120 --> 00:12:42,300
-Il faut dire que nous n'avons pas de grand domaine.
-
-175
-00:12:43,100 --> 00:12:45,940
-Mais nous avons tout de même une petite maison à la campagne
-
-176
-00:12:45,940 --> 00:12:47,660
-qui nous sert de résidence secondaire.
-
-177
-00:12:47,660 --> 00:12:52,580
-Les Bélots ont cet appartement à Paris. C'est leur résidence principale.
-
-178
-00:12:53,060 --> 00:12:56,460
-Et puis, ils ont aussi une petite maison à la campagne.
-
-179
-00:12:57,040 --> 00:12:59,700
-Ça, c'est leur résidence secondaire.
-
-180
-00:13:00,260 --> 00:13:05,280
-Ça leur sert de résidence secondaire pour les vacances, les week-ends.
-
-181
-00:13:05,760 --> 00:13:09,720
-C'était une petite maison de paysans qui était en très mauvais état que nous avons acheté.
-
-182
-00:13:10,140 --> 00:13:10,860
-Des paysans.
-
-183
-00:13:13,300 --> 00:13:15,060
-Une maison de paysans en Vendée.
-
-184
-00:13:15,060 --> 00:13:17,440
-Une maison de paysans dans les Pyrénées.
-
-185
-00:13:17,660 --> 00:13:21,560
-Une maison de paysans en Bourgogne.
-
-186
-00:13:23,300 --> 00:13:25,760
-Une maison en mauvais état.
-
-187
-00:13:26,680 --> 00:13:28,400
-Une autre maison en mauvais état.
-
-188
-00:13:29,160 --> 00:13:30,980
-Une maison en très mauvais état.
-
-189
-00:13:31,640 --> 00:13:35,260
-Une maison en très, très mauvais état, en ruine.
-
-190
-00:13:35,920 --> 00:13:38,380
-Et voilà un château en ruine.
-
-191
-00:13:38,380 --> 00:13:42,100
-Et voilà une voiture en très mauvais état.
-
-192
-00:13:42,880 --> 00:13:46,840
-Quand les Bélots ont acheté cette maison, elle était en très mauvais état.
-
-193
-00:13:47,480 --> 00:13:49,160
-Les portes ne fermaient pas.
-
-194
-00:13:49,700 --> 00:13:52,180
-Les portes sont faites pour fermer, n'est-ce pas ?
-
-195
-00:13:52,180 --> 00:13:52,940
-Je ferme la porte.
-
-196
-00:13:57,820 --> 00:13:59,860
-Voilà une porte qui ferme bien.
-
-197
-00:14:00,420 --> 00:14:04,660
-Mais les portes de la maison des Bélots ne fermaient pas, ou fermaient mal.
-
-198
-00:14:05,120 --> 00:14:06,440
-Il a fallu les réparer.
-
-199
-00:14:07,680 --> 00:14:09,560
-Il n'y avait pas de vitres aux fenêtres.
-
-200
-00:14:10,220 --> 00:14:12,080
-Normalement, il y a des vitres aux fenêtres.
-
-201
-00:14:12,080 --> 00:14:13,560
-Ici, il y a des vitres.
-
-202
-00:14:14,020 --> 00:14:16,220
-Vous voyez la réflexion dans les vitres.
-
-203
-00:14:16,840 --> 00:14:23,840
-Mais dans la maison des Bélots, il n'y avait pas de vitres aux fenêtres, ou elles étaient cassées.
-
-204
-00:14:23,840 --> 00:14:26,840
-Il a fallu les remplacer.
-
-205
-00:14:26,840 --> 00:14:30,840
-Il a fallu remplacer aussi les tuiles du toit.
-
-206
-00:14:30,840 --> 00:14:35,840
-Beaucoup de tuiles étaient cassées. Il a fallu les remplacer.
-
-207
-00:14:35,840 --> 00:14:38,840
-Il a fallu tout repeindre.
-
-208
-00:14:38,840 --> 00:14:41,840
-Voilà des peintres.
-
-209
-00:14:41,840 --> 00:14:49,780
-Il a fallu retapisser, retapisser les murs.
-
-210
-00:14:50,460 --> 00:14:52,220
-Les Bélots ont tout fait eux-mêmes.
-
-211
-00:14:52,880 --> 00:14:54,380
-Ils ont repeint eux-mêmes.
-
-212
-00:14:55,400 --> 00:14:56,920
-Ils ont fait les peintres.
-
-213
-00:14:58,040 --> 00:14:59,380
-Ce monsieur-là est peintre.
-
-214
-00:15:00,140 --> 00:15:01,980
-C'est un peintre, un vrai peintre.
-
-215
-00:15:02,900 --> 00:15:04,700
-Mais est-ce que M. Bélot est peintre ?
-
-216
-00:15:04,700 --> 00:15:06,300
-Non, il n'est pas peintre.
-
-217
-00:15:06,440 --> 00:15:07,700
-Il est ingénieur chez Renault.
-
-218
-00:15:08,080 --> 00:15:10,480
-Mais il fait le peintre.
-
-219
-00:15:10,480 --> 00:15:31,440
-Il n'est pas maçon, mais il fait le maçon. Il fait tous les métiers. Les vélos ont fait les peintres, les maçons, les menuisiers. Voilà un menuisier. Les charpentiers, voilà des charpentiers. Les charpentiers construisent les charpentes.
-
-220
-00:15:31,440 --> 00:15:34,760
-Les vélos ont fait les plombiers
-
-221
-00:15:34,760 --> 00:15:36,520
-Un plombier
-
-222
-00:15:36,520 --> 00:15:41,440
-Les vélos ne sont pas charpentiers ou plombiers
-
-223
-00:15:41,440 --> 00:15:44,400
-Mais ils ont fait les plombiers
-
-224
-00:15:44,400 --> 00:15:47,560
-Regardez Marie-Laure là
-
-225
-00:15:47,560 --> 00:15:48,900
-Elle fait l'avion
-
-226
-00:15:48,900 --> 00:15:50,740
-Est-ce que Marie-Laure est un avion ?
-
-227
-00:15:50,740 --> 00:15:52,860
-Non, mais elle fait l'avion
-
-228
-00:15:52,860 --> 00:15:55,980
-Tais-toi un peu, il n'y a pas moyen de travailler
-
-229
-00:15:55,980 --> 00:15:58,000
-Arrête de faire l'imbécile
-
-230
-00:15:58,000 --> 00:16:00,480
-Je ne fais pas l'imbécile, je fais l'avion
-
-231
-00:16:00,480 --> 00:16:06,700
-Les bélots ont fait amener l'eau et ils ont fait mettre l'électricité.
-
-232
-00:16:08,120 --> 00:16:09,960
-Ils ont fait mettre l'eau.
-
-233
-00:16:10,560 --> 00:16:15,800
-Il n'y avait pas l'eau dans cette maison, alors les bélots ont fait amener l'eau.
-
-234
-00:16:16,620 --> 00:16:17,900
-Ils ne l'ont pas fait eux-mêmes.
-
-235
-00:16:18,500 --> 00:16:23,140
-Ils ont appelé des ouvriers, des spécialistes qui ont amené l'eau.
-
-236
-00:16:23,140 --> 00:16:29,300
-Les bélots ont fait amener l'eau, les ouvriers ont amené l'eau.
-
-237
-00:16:30,480 --> 00:16:38,600
-Il n'y avait pas d'électricité non plus, alors les bélots ont fait mettre l'électricité.
-
-238
-00:16:38,600 --> 00:16:42,240
-Ils n'ont pas mis l'électricité eux-mêmes, c'est trop dangereux.
-
-239
-00:16:42,680 --> 00:16:46,580
-Ils ont fait venir des spécialistes, des électriciens.
-
-240
-00:16:49,080 --> 00:16:53,040
-Ils ont beaucoup travaillé pour rendre la maison habitable.
-
-241
-00:16:53,680 --> 00:16:57,760
-Quand ils l'ont achetée, elle n'était pas habitable, on ne pouvait pas y habiter.
-
-242
-00:16:58,260 --> 00:16:59,820
-Maintenant, elle est habitable.
-
-243
-00:17:00,360 --> 00:17:02,720
-Ils l'ont rendue habitable.
-
-244
-00:17:05,320 --> 00:17:07,140
-Ça a été beaucoup de travail.
-
-245
-00:17:07,940 --> 00:17:10,480
-Ils ont mis deux ans pour la rendre habitable.
-
-246
-00:17:11,200 --> 00:17:12,880
-Ça leur a pris deux ans.
-
-247
-00:17:13,720 --> 00:17:15,580
-Ils ont mis deux ans.
-
-248
-00:17:16,880 --> 00:17:18,360
-Ça leur a pris deux ans.
-
-249
-00:17:19,420 --> 00:17:22,080
-Ça nous a pris deux ans pour la rendre habitable.
-
-250
-00:17:22,080 --> 00:17:24,900
-On a fait amener l'eau, mettre l'électricité.
-
-251
-00:17:25,400 --> 00:17:27,680
-On a transformé la grange en garage.
-
-252
-00:17:27,760 --> 00:17:31,760
-Il y avait une grange, parce que c'était une maison de paysans.
-
-253
-00:17:32,620 --> 00:17:34,420
-Une grange pour mettre le foin.
-
-254
-00:17:36,240 --> 00:17:41,060
-Les Bélots n'avaient pas besoin de grange, mais ils avaient besoin d'un garage pour leur voiture.
-
-255
-00:17:41,800 --> 00:17:45,240
-Alors, ils ont transformé la grange en garage.
-
-256
-00:17:46,720 --> 00:17:48,000
-Facile, dit Mireille.
-
-257
-00:17:48,140 --> 00:17:51,440
-Ça, c'était pas le plus difficile. Il suffisait de laisser tomber Anne et d'ajouter un A.
-
-258
-00:17:52,100 --> 00:17:52,620
-Regardez.
-
-259
-00:17:52,620 --> 00:17:57,400
-Tu as grange, le mot grange, et tu veux faire garage.
-
-260
-00:17:57,760 --> 00:18:01,560
-Tu enlèves un N et tu ajoutes un A. Tu vois ?
-
-261
-00:18:01,560 --> 00:18:01,820
-Non.
-
-262
-00:18:02,860 --> 00:18:05,940
-Marie-Laure ne voit pas. Elle ne comprend pas.
-
-263
-00:18:05,940 --> 00:18:20,120
-Tu agranges, tu enlèves un N, tu ajoutes un A, tu agarrages. Voilà.
-
-264
-00:18:20,820 --> 00:18:25,960
-Tu enlèves un N. Tu enlèves. C'est le verbe enlever.
-
-265
-00:18:25,960 --> 00:18:32,580
-Regardez, je mets mes lunettes, j'enlève mes lunettes.
-
-266
-00:18:33,460 --> 00:18:36,160
-Regardez, il enlève ses lunettes.
-
-267
-00:18:37,540 --> 00:18:39,100
-Il enlève sa casquette.
-
-268
-00:18:40,220 --> 00:18:41,260
-Elle enlève son pull.
-
-269
-00:18:42,540 --> 00:18:43,520
-Il y a du rouge sur la joue.
-
-270
-00:18:45,100 --> 00:18:46,280
-Attendez, je vais vous l'enlever.
-
-271
-00:18:46,280 --> 00:18:47,300
-Oui, attendez.
-
-272
-00:18:47,300 --> 00:18:56,880
-Bon, donc les Bélots habitent à Paris, rue de Vaugirard, dans un appartement.
-
-273
-00:18:57,460 --> 00:18:58,620
-Ils sont propriétaires.
-
-274
-00:18:59,360 --> 00:19:01,520
-Ça, c'est leur résidence principale.
-
-275
-00:19:02,280 --> 00:19:04,360
-Ils ont aussi une maison à la campagne.
-
-276
-00:19:05,120 --> 00:19:07,760
-Ils sont propriétaires de cette maison aussi.
-
-277
-00:19:08,160 --> 00:19:10,240
-Elle est à eux. Ils l'ont achetée.
-
-278
-00:19:11,040 --> 00:19:16,780
-Cette maison à la campagne leur sert de résidence secondaire pour les vacances.
-
-279
-00:19:16,780 --> 00:19:18,180
-Ça se fait beaucoup depuis quelques temps.
-
-280
-00:19:18,700 --> 00:19:20,940
-Les gens de la ville achètent de vieilles maisons de paysans,
-
-281
-00:19:21,280 --> 00:19:24,520
-ils les modernisent et ils s'en servent comme résidents secondaires.
-
-282
-00:19:25,420 --> 00:19:26,420
-Ils y viennent pour le week-end.
-
-283
-00:19:26,820 --> 00:19:32,080
-Robert, imaginez de pauvres paysans chassés de chez eux par les gens de la ville.
-
-284
-00:19:33,640 --> 00:19:35,200
-Mais Mireille le rassure.
-
-285
-00:19:36,020 --> 00:19:36,960
-Mais on ne chasse personne.
-
-286
-00:19:37,200 --> 00:19:38,680
-Mais lui, oui, on le chasse.
-
-287
-00:19:40,380 --> 00:19:42,000
-Mais on ne chasse pas les paysans.
-
-288
-00:19:42,220 --> 00:19:45,340
-Ce sont de vieilles maisons abandonnées qui tombent en ruine la plupart du temps.
-
-289
-00:19:45,340 --> 00:19:51,460
-Bon, voyons, nous allons demander à cette dame où elle habite et si elle a une résidence secondaire.
-
-290
-00:19:52,060 --> 00:19:54,340
-Vous habitez dans quel quartier ?
-
-291
-00:19:54,900 --> 00:19:58,260
-J'habite le cinquième arrondissement, pas très loin de ce jardin.
-
-292
-00:20:00,140 --> 00:20:03,800
-Est-ce que vous habitez dans une villa ?
-
-293
-00:20:03,800 --> 00:20:07,540
-J'habite dans un immeuble, dans un appartement.
-
-294
-00:20:08,840 --> 00:20:10,820
-Est-ce que vous êtes propriétaire ?
-
-295
-00:20:10,820 --> 00:20:13,640
-Non, je suis locataire de l'appartement.
-
-296
-00:20:13,640 --> 00:20:36,420
-Vous habitez dans quel quartier? Dans le quatrième, près de, dans le Marais. Vous êtes propriétaire? Oui. C'est une maison? C'est un appartement. Alors vous êtes copropriétaire? Oui, exactement. Est-ce que les charges sont lourdes?
-
-297
-00:20:37,080 --> 00:20:39,200
-Oui, assez, parce qu'il y a des travaux.
-
-298
-00:20:40,200 --> 00:20:41,860
-Vous habitez dans quel quartier ?
-
-299
-00:20:41,860 --> 00:20:43,260
-Dans le 15e arrondissement.
-
-300
-00:20:45,480 --> 00:20:48,140
-Vous êtes propriétaire ?
-
-301
-00:20:48,140 --> 00:20:48,560
-Oui.
-
-302
-00:20:51,040 --> 00:20:54,160
-Le loyer est cher ?
-
-303
-00:20:54,160 --> 00:20:58,180
-Je ne paie pas de loyer puisque je suis propriétaire.
-
-304
-00:20:58,920 --> 00:21:00,920
-Alors vous payez des charges ?
-
-305
-00:21:00,920 --> 00:21:01,240
-Oui.
-
-306
-00:21:02,140 --> 00:21:04,260
-Vous êtes en copropriété ?
-
-307
-00:21:04,260 --> 00:21:04,780
-Oui.
-
-308
-00:21:04,780 --> 00:21:07,720
-Qu'est-ce que ça comprend, les charges ?
-
-309
-00:21:07,720 --> 00:21:11,640
-Le salaire de la concierge, l'enlèvement des ordures et les travaux.
-
-310
-00:21:13,060 --> 00:21:15,340
-Et est-ce que vous avez une résidence secondaire ?
-
-311
-00:21:15,340 --> 00:21:15,540
-Non.
-
-312
-00:21:16,940 --> 00:21:18,620
-Où est-ce que vous allez en vacances ?
-
-313
-00:21:18,620 --> 00:21:21,240
-Dans le sud de la France, près d'Aix-en-Provence.
-
-314
-00:21:21,960 --> 00:21:24,920
-Puisque vous n'avez pas de résidence secondaire, comment vous faites ?
-
-315
-00:21:24,920 --> 00:21:26,360
-Je loue une maison.
-
-316
-00:21:27,360 --> 00:21:32,640
-Pendant que les Bélots parlent de leur résidence secondaire, on sonne à la porte.
-
-317
-00:21:32,640 --> 00:21:34,240
+00:01:21,340 --> 00:01:22,360
 Marie-Laure va ouvrir.
 
-318
-00:21:34,780 --> 00:21:41,500
-Qu'est-ce que c'était ?
+21
+00:01:22,520 --> 00:01:23,780
+Je me demande ce que ça peut bien être.
 
-319
-00:21:41,500 --> 00:21:42,380
-Une bonne sœur.
+22
+00:01:30,000 --> 00:01:35,760
+Alors, qu'est-ce que c'était ?
 
-320
-00:21:42,800 --> 00:21:43,920
-Une bonne sœur.
+23
+00:01:35,760 --> 00:01:37,620
+Le frère de la bonne soeur de tout à l'heure.
 
-321
-00:21:44,540 --> 00:21:45,420
-Une bonne sœur.
+24
+00:01:38,040 --> 00:01:39,320
+Qu'est-ce que c'est que cette histoire ?
 
-322
-00:21:46,060 --> 00:21:47,140
-Qu'est-ce qu'elle voulait ?
+25
+00:01:39,320 --> 00:01:41,320
+Ben oui, il avait la même moustache qu'elle.
 
-323
-00:21:47,140 --> 00:21:52,340
-Elle voulait me vendre des billets de loterie pour gagner un vieux prioré du XVIe siècle.
+26
+00:01:41,640 --> 00:01:42,880
+Et qu'est-ce qu'il voulait ?
 
-324
-00:21:53,180 --> 00:21:53,940
-Un prioré.
+27
+00:01:42,880 --> 00:01:47,400
+Il m'a demandé si je n'avais pas une grande soeur qui avait l'air d'une actrice de cinéma.
 
-325
-00:21:55,940 --> 00:21:58,940
-Est-ce que Marie-Laure a acheté des billets de loterie ?
+28
+00:01:48,380 --> 00:01:49,700
+Et qu'est-ce que tu as dit ?
 
-326
-00:21:58,940 --> 00:21:59,080
-Non.
+29
+00:01:49,700 --> 00:01:52,240
+Ben, cette question. J'ai dit que non, bien sûr.
 
-327
-00:21:59,620 --> 00:22:01,500
-Elle a dit que ça ne l'intéressait pas.
+30
+00:01:52,960 --> 00:01:55,480
+Quel culot ! C'était peut-être la chance de ma vie de faire du cinéma.
 
-328
-00:22:01,740 --> 00:22:03,640
-Je lui ai dit que ça ne nous intéressait pas.
+31
+00:01:56,200 --> 00:01:57,020
+Maintenant, c'est raté.
 
-329
-00:22:04,120 --> 00:22:07,780
-Marie-Laure ne veut pas gagner un vieux prieret du 16e siècle.
+32
+00:01:57,020 --> 00:01:58,560
+Enfin
 
-330
-00:22:08,060 --> 00:22:08,980
-Ça ne l'intéresse pas.
+33
+00:01:58,560 --> 00:02:00,140
+C'est vraiment bizarre
 
-331
-00:22:09,400 --> 00:22:11,580
-Elle a déjà une résidence secondaire.
+34
+00:02:00,140 --> 00:02:02,780
+C'est vrai j'ai longtemps voulu être actrice
 
-332
-00:22:12,580 --> 00:22:14,800
-Une résidence secondaire, ça suffit.
+35
+00:02:02,780 --> 00:02:04,280
+Je rêvais d'aller à Hollywood
 
-333
-00:22:15,020 --> 00:22:18,520
-Avec les impôts, le manque de domestique, tout ça.
+36
+00:02:04,280 --> 00:02:06,360
+Jouer l'inconnue de l'Orient Express
 
-334
-00:22:18,900 --> 00:22:21,320
-Qu'est-ce que c'est que cette histoire ? Et qu'est-ce que tu as fait ?
+37
+00:02:06,360 --> 00:02:09,380
+Voyager, descendre dans les palaces
 
-335
-00:22:21,320 --> 00:22:23,320
-Je lui ai dit que ça ne nous intéressait pas.
+38
+00:02:09,380 --> 00:02:11,300
+Maintenant je ne sais pas
 
-336
-00:22:23,320 --> 00:22:25,320
-Qu'on avait déjà une résidence secondaire.
+39
+00:02:11,300 --> 00:02:13,540
+C'est fou ce que je me suis attachée à notre maison de campagne
 
-337
-00:22:26,360 --> 00:22:30,240
-Et qu'avec les impôts, le manque de domestique, ça suffisait comme ça.
+40
+00:02:13,540 --> 00:02:15,040
+Quand j'étais petite
 
-338
-00:22:30,660 --> 00:22:31,320
+41
+00:02:15,040 --> 00:02:17,340
+Je trouvais ridicule ce désir de beaucoup de français
+
+42
+00:02:17,340 --> 00:02:18,600
+D'avoir une petite maison à eux
+
+43
+00:02:18,600 --> 00:02:21,320
+Le genre mon rêve, mon repos
+
+44
+00:02:21,320 --> 00:02:23,180
+Et bien maintenant en vieillissant
+
+45
+00:02:23,180 --> 00:02:24,380
+Je commence à comprendre
+
+46
+00:02:24,380 --> 00:02:26,400
+Avoir une petite maison bien à soi
+
+47
+00:02:26,400 --> 00:02:28,600
+Même si elle est très modeste
+
+48
+00:02:28,600 --> 00:02:30,020
+Je vois
+
+49
+00:02:30,020 --> 00:02:32,480
+Une chaumière et un coeur
+
+50
+00:02:32,480 --> 00:02:34,620
+Notre maison n'est pas vraiment une chaumière
+
+51
+00:02:34,620 --> 00:02:36,820
+D'abord, le toit n'est pas en chaume, mais en tuile
+
+52
+00:02:36,820 --> 00:02:39,700
+Oh, de la tuile ?
+
+53
+00:02:39,700 --> 00:02:41,960
+Vous ne préférez pas de l'ardoise ?
+
+54
+00:02:41,960 --> 00:02:43,440
+Moi, je trouve ça tellement plus distingué
+
+55
+00:02:43,440 --> 00:02:46,620
+Ah, l'ardoise, c'est très joli, mais c'est plus cher
+
+56
+00:02:46,620 --> 00:02:49,220
+Et puis, ça doit être joliment lourd
+
+57
+00:02:49,220 --> 00:02:50,940
+C'est moins lourd que la tuile
+
+58
+00:02:50,940 --> 00:02:53,480
+Mais évidemment, ce serait trop lourd pour vos maisons en bois
+
+59
+00:02:53,480 --> 00:02:57,160
+Pourquoi dites-vous nos maisons en bois ?
+
+60
+00:02:57,160 --> 00:02:59,300
+Vous n'avez pas de maison en bois en France ?
+
+61
+00:02:59,300 --> 00:03:02,440
+Non, très peu. Quelques chalets en montagne.
+
+62
+00:03:03,040 --> 00:03:05,000
+Mais à part ça, on construit en dur.
+
+63
+00:03:05,480 --> 00:03:08,360
+En pierre, en briques, en blocs de ciment.
+
+64
+00:03:09,140 --> 00:03:10,980
+En France, on aime ce qui dure.
+
+65
+00:03:11,560 --> 00:03:13,740
+Votre maison de campagne est en dur ?
+
+66
+00:03:13,740 --> 00:03:15,240
+Bien sûr, c'est de la belle pierre du pays.
+
+67
+00:03:15,960 --> 00:03:17,540
+Et les murs ont au moins deux ou trois cents ans.
+
+68
+00:03:17,960 --> 00:03:20,800
+Et je compte bien qu'ils seront encore debout pour mes arrières petits-enfants.
+
+69
+00:03:20,960 --> 00:03:22,940
+Tu ne peux pas avoir d'arrières petits-enfants.
+
+70
+00:03:22,940 --> 00:03:24,360
+Et pourquoi ça ?
+
+71
+00:03:24,360 --> 00:03:26,580
+Tu es trop jeune, tu n'es même pas mariée.
+
+72
+00:03:27,580 --> 00:03:30,400
+J'ai lu dans Le Monde qu'il y avait plus de 300 000 étudiants à Paris.
+
+73
+00:03:30,940 --> 00:03:32,400
+Où est-ce qu'ils habitent ?
+
+74
+00:03:32,400 --> 00:03:33,200
+Eh bien, ça dépend.
+
+75
+00:03:33,860 --> 00:03:36,660
+Ceux qui ont la chance d'avoir leurs parents à Paris comme Mireille
+
+76
+00:03:36,660 --> 00:03:38,540
+habitent en général chez eux, bien sûr.
+
+77
+00:03:39,240 --> 00:03:40,340
+Et les étrangers ?
+
+78
+00:03:40,340 --> 00:03:42,640
+Certains habitent à la cité universitaire.
+
+79
+00:03:43,040 --> 00:03:45,760
+La plupart des pays étrangers ont une maison à la cité.
+
+80
+00:03:46,600 --> 00:03:50,660
+D'autres habitent à l'hôtel ou bien louent une chambre chez les particuliers.
+
+81
+00:03:50,980 --> 00:03:52,580
+Il y en a qui habitent dans des familles.
+
+82
+00:03:52,940 --> 00:03:54,800
+Ils ont leur chambre, un cabinet de toilette.
+
+83
+00:03:55,300 --> 00:03:56,700
+Ils prennent leur repas avec la famille.
+
+84
+00:03:57,320 --> 00:03:58,960
+Un seul repas ou une pension complète.
+
+85
+00:03:59,520 --> 00:04:01,780
+Je croyais que les familles françaises étaient très fermées.
+
+86
+00:04:02,820 --> 00:04:04,000
+C'est assez vrai dans un sens.
+
+87
+00:04:04,740 --> 00:04:08,920
+Mais il y a des gens qui prennent des étudiants étrangers chez eux.
+
+88
+00:04:09,740 --> 00:04:12,000
+Parce qu'ils ont un appartement trop grand pour eux,
+
+89
+00:04:12,440 --> 00:04:15,520
+qu'ils ont besoin d'argent, des dames veuves, des retraités.
+
+90
+00:04:16,580 --> 00:04:21,880
+Il y a aussi des gens qui veulent donner des amis étrangers à leurs enfants.
+
+91
+00:04:22,640 --> 00:04:25,800
+La famille Belleau n'aurait pas l'intention de recevoir des étrangers, par hasard.
+
+92
+00:04:26,220 --> 00:04:28,900
+Vous savez, nous n'avons pas un grand appartement, nous n'avons que cette pièce.
+
+93
+00:04:29,740 --> 00:04:31,580
+En comptant, la cuisine et la salle de bain.
+
+94
+00:04:32,720 --> 00:04:34,660
+Je ne suis ni veuve, ni retraitée.
+
+95
+00:04:36,060 --> 00:04:38,800
+Et Mireille n'a pas besoin qu'on lui trouve des amis étrangers.
+
+96
+00:04:39,300 --> 00:04:40,200
+Elle les collectionne.
+
+97
+00:04:40,940 --> 00:04:45,700
+En un an de fac, elle a réussi à connaître un Canadien, une Chilienne,
+
+98
+00:04:45,700 --> 00:04:51,780
+une Algérienne, un Israélien, une Syrienne, un Tunisien, un Égyptien,
+
+99
+00:04:51,880 --> 00:04:55,240
+Une italienne, une japonaise, une danoise.
+
+100
+00:04:55,480 --> 00:05:02,220
+Trois anglais, une allemande, deux américains et un roumain.
+
+101
+00:05:02,760 --> 00:05:08,360
+Un hongrois, un turc, une grecque, un espagnol, une russe et un suisse.
+
+102
+00:05:08,740 --> 00:05:09,840
+Et tu oublies un suédois.
+
+103
+00:05:15,180 --> 00:05:17,440
+Mireille parle de leur maison de campagne.
+
+104
+00:05:18,120 --> 00:05:21,340
+Elle y est très attachée parce qu'elle y a beaucoup travaillé.
+
+105
+00:05:21,880 --> 00:05:24,300
+À ça, on peut dire qu'on y a travaillé, sur cette maison de rue.
+
+106
+00:05:24,760 --> 00:05:25,980
+Oh là là !
+
+107
+00:05:25,980 --> 00:05:28,440
+C'est sans doute pour ça que je m'y suis tellement attachée.
+
+108
+00:05:29,340 --> 00:05:32,040
+Elle s'est attachée à cette maison. Elle l'aime beaucoup.
+
+109
+00:05:32,980 --> 00:05:34,620
+Attachée a d'abord un sens concret.
+
+110
+00:05:34,740 --> 00:05:37,280
+Par exemple, le cow-boy attache son cheval.
+
+111
+00:05:38,180 --> 00:05:41,680
+En avion ou en voiture, il faut attacher sa ceinture.
+
+112
+00:05:42,040 --> 00:05:44,600
+Nous vous prions de bien vouloir attacher vos ceintures.
+
+113
+00:05:44,600 --> 00:05:48,720
+Dans la mythologie grecque, Prométhée était attachée à un rocher.
+
+114
+00:05:49,860 --> 00:05:51,180
+Ils sont attachés.
+
+115
+00:05:51,840 --> 00:05:53,380
+La chèvre aussi est attachée.
+
+116
+00:05:54,800 --> 00:05:56,620
+Et puis, il y a un sens moral.
+
+117
+00:05:57,140 --> 00:06:02,320
+Mireille est attachée à sa maison de campagne, pas physiquement, mais moralement.
+
+118
+00:06:02,680 --> 00:06:03,760
+Elle l'aime, elle l'aime beaucoup.
+
+119
+00:06:04,320 --> 00:06:07,020
+Elle est très attachée à sa petite sœur, elle l'aime bien.
+
+120
+00:06:09,260 --> 00:06:12,780
+Marie-Laure est très attachée à tonton Guillaume, elle l'aime bien.
+
+121
+00:06:13,320 --> 00:06:14,760
+Il faut dire qu'il la gâte beaucoup.
+
+122
+00:06:16,640 --> 00:06:18,420
+Elle est très attachée à son oncle.
+
+123
+00:06:19,360 --> 00:06:20,580
+Il faut dire qu'il la gâte beaucoup.
+
+124
+00:06:22,140 --> 00:06:24,440
+Tante Georgette est très attachée à Fido.
+
+125
+00:06:25,180 --> 00:06:27,200
+C'est vrai, on s'y attache à ces petites bêtes.
+
+126
+00:06:28,820 --> 00:06:30,160
+Écoutez encore ce que dit Mireille.
+
+127
+00:06:30,780 --> 00:06:33,080
+À ça, on peut dire qu'on y a travaillé sur cette maison de rue.
+
+128
+00:06:33,540 --> 00:06:34,800
+Oh là là !
+
+129
+00:06:34,800 --> 00:06:37,220
+C'est sans doute pour ça que je m'y suis tellement attachée.
+
+130
+00:06:38,140 --> 00:06:41,080
+C'est pour ça que je m'y suis tellement attachée.
+
+131
+00:06:42,000 --> 00:06:43,820
+Tellement marque l'intensité.
+
+132
+00:06:43,980 --> 00:06:46,200
+Oui, remarque, t'as raison, les gens sont tellement bêtes.
+
+133
+00:06:46,920 --> 00:06:49,120
+Oui, remarque, t'as raison, les gens sont tellement bêtes.
+
+134
+00:06:51,180 --> 00:07:04,300
+« Pourquoi vous avez mis le feu à mon cognac ? C'est tellement plus beau. Oh ! C'est tellement plus beau. Oh ! »
+
+135
+00:07:04,300 --> 00:07:09,000
+« Oh, je voudrais tellement connaître le truc. Oh, je voudrais tellement connaître le truc. »
+
+136
+00:07:09,000 --> 00:07:12,100
+Vous vous rappelez qu'au lycée, il y a beaucoup de matière à étudier.
+
+137
+00:07:12,460 --> 00:07:17,000
+Il y a tellement de matière qu'on n'a pas le temps de faire de l'histoire de l'art.
+
+138
+00:07:17,860 --> 00:07:20,380
+« Il y a tellement d'autres matières à étudier. »
+
+139
+00:07:20,380 --> 00:07:24,920
+Pendant que Mireille parle de son attachement pour leur maison de campagne, on sonne.
+
+140
+00:07:26,140 --> 00:07:28,240
+Marie-Laure se lève et va voir ce que c'est.
+
+141
+00:07:31,260 --> 00:07:32,820
+Je me demande ce que ça peut bien être.
+
+142
+00:07:34,300 --> 00:07:37,300
+Marie-Laure revient, très calme, et va se rasseoir.
+
+143
+00:07:37,800 --> 00:07:39,400
+Alors, qu'est-ce que c'était ?
+
+144
+00:07:39,400 --> 00:07:41,320
+Le frère de la bonne soeur de tout à l'heure.
+
+145
+00:07:41,680 --> 00:07:43,380
+Qu'est-ce que c'est que cette histoire ?
+
+146
+00:07:43,380 --> 00:07:45,340
+C'est simple.
+
+147
+00:07:46,060 --> 00:07:47,540
+Tout à l'heure, on a sonné.
+
+148
+00:07:47,540 --> 00:07:55,600
+Et Marie-Laure est allée voir, c'était une bonne sœur, une drôle de bonne sœur d'ailleurs, avec une grosse moustache noire.
+
+149
+00:07:56,140 --> 00:08:00,140
+Une drôle de bonne sœur qui proposait des billets pour une loterie.
+
+150
+00:08:00,860 --> 00:08:04,780
+Cette fois-ci, ce n'est pas la sœur, mais c'est quelqu'un qui lui ressemble.
+
+151
+00:08:05,260 --> 00:08:09,800
+Un homme qui a une grosse moustache noire, comme celle de la sœur de tout à l'heure.
+
+152
+00:08:10,360 --> 00:08:12,000
+Donc, ça doit être son frère.
+
+153
+00:08:13,140 --> 00:08:15,660
+Ça doit être le frère de la sœur.
+
+154
+00:08:15,660 --> 00:08:17,060
+C'est clair, non ?
+
+155
+00:08:17,060 --> 00:08:21,040
+Bon, maintenant, écoutez bien le dialogue entre Mme Belleau et Marie-Laure.
+
+156
+00:08:21,220 --> 00:08:26,960
+Ensuite, vous essayerez d'expliquer les choses à Mme Belleau, qui n'a pas l'air de très bien comprendre.
+
+157
+00:08:27,440 --> 00:08:29,100
+Alors, qu'est-ce que c'était ?
+
+158
+00:08:29,100 --> 00:08:30,980
+Le frère de la bonne sœur de tout à l'heure.
+
+159
+00:08:31,420 --> 00:08:32,800
+Qu'est-ce que c'est que cette histoire ?
+
+160
+00:08:32,800 --> 00:08:34,820
+Ben oui, il avait la même moustache qu'elle.
+
+161
+00:08:35,280 --> 00:08:38,940
+Maintenant, répondez à Mme Belleau comme si vous étiez Marie-Laure.
+
+162
+00:08:39,000 --> 00:08:40,640
+Alors, qu'est-ce que c'était ?
+
+163
+00:08:40,640 --> 00:08:42,540
+Le frère de la bonne sœur de tout à l'heure.
+
+164
+00:08:42,960 --> 00:08:44,780
+Le frère de la bonne sœur de tout à l'heure.
+
+165
+00:08:45,140 --> 00:08:47,020
+Le frère de la bonne sœur de tout à l'heure.
+
+166
+00:08:47,060 --> 00:08:52,660
+Le frère de la bonne sœur de tout à l'heure
+
+167
+00:08:52,660 --> 00:08:54,500
+Qu'est-ce que c'est que cette histoire ?
+
+168
+00:08:54,500 --> 00:08:56,480
+Ben oui, il avait la même moustache qu'elle
+
+169
+00:08:56,480 --> 00:08:58,820
+Ben oui, il avait la même moustache qu'elle
+
+170
+00:08:58,820 --> 00:09:01,060
+Ben oui, il avait la même moustache qu'elle
+
+171
+00:09:01,060 --> 00:09:07,000
+Ben oui, il avait la même moustache qu'elle
+
+172
+00:09:07,000 --> 00:09:08,380
+Oui, c'est pas mal
+
+173
+00:09:08,380 --> 00:09:10,260
+Mais recommençons encore une fois
+
+174
+00:09:10,260 --> 00:09:13,780
+Faites bien attention à la bonne sœur de tout à l'heure
+
+175
+00:09:13,780 --> 00:09:16,660
+Le frère de la bonne sœur de tout à l'heure
+
+176
+00:09:16,660 --> 00:09:17,720
+Allons-y
+
+177
+00:09:17,720 --> 00:09:19,440
+Alors, qu'est-ce que c'était ?
+
+178
+00:09:19,440 --> 00:09:21,540
+Le frère de la bonne sœur de tout à l'heure
+
+179
+00:09:21,540 --> 00:09:22,520
+Le top article
+
+180
+00:09:27,280 --> 00:09:29,440
+Le frère de la bonne sœur de tout à l'heure
+
+181
+00:09:29,440 --> 00:09:31,320
+Qu'est-ce que c'est que cette histoire ?
+
+182
+00:09:31,320 --> 00:09:33,320
+Bah oui, il avait la même moustache qu'elle
+
+183
+00:09:33,320 --> 00:09:37,760
+Bah oui, il avait la même moustache qu'elle
+
+184
+00:09:37,760 --> 00:09:41,640
+Bah oui, il avait la même moustache qu'elle
+
+185
+00:09:41,640 --> 00:09:42,100
+Bah oui, il avait la même moustache qu'elle
+
+186
+00:09:42,100 --> 00:09:43,380
+Ce coup de sonnette, c'était
+
+187
+00:09:43,380 --> 00:09:45,660
+le frère de la bonne sœur de tout à l'heure.
+
+188
+00:09:46,460 --> 00:09:47,900
+La bonne sœur de tout à l'heure.
+
+189
+00:09:48,320 --> 00:09:49,460
+Tout à l'heure.
+
+190
+00:09:51,600 --> 00:09:53,500
+Vous vous rappelez que tout à l'heure
+
+191
+00:09:53,500 --> 00:09:54,960
+peut avoir un sens passé.
+
+192
+00:09:55,160 --> 00:09:57,360
+Tout à l'heure veut dire il y a peu de temps.
+
+193
+00:09:57,900 --> 00:09:59,180
+C'est un passé récent.
+
+194
+00:09:59,720 --> 00:10:00,280
+Ici aussi.
+
+195
+00:10:00,780 --> 00:10:03,040
+Tu connais l'âge de l'eau pétrée ? Depuis quand ?
+
+196
+00:10:03,040 --> 00:10:03,740
+Depuis tout à l'heure.
+
+197
+00:10:05,400 --> 00:10:06,360
+Et ici aussi.
+
+198
+00:10:06,780 --> 00:10:08,400
+J'ai téléphoné au courtois tout à l'heure.
+
+199
+00:10:09,680 --> 00:10:10,740
+Ou encore ici.
+
+200
+00:10:10,740 --> 00:10:14,340
+« Madame, c'est le monsieur de tout à l'heure ! »
+
+201
+00:10:14,340 --> 00:10:15,380
+Ou encore ici.
+
+202
+00:10:15,560 --> 00:10:20,680
+« Quand je lui ai dit que maman la cherchait tout à l'heure, c'était pas vrai. C'était une blague. »
+
+203
+00:10:20,680 --> 00:10:24,740
+Mais « tout à l'heure » peut aussi vouloir dire « dans peu de temps ».
+
+204
+00:10:25,300 --> 00:10:29,500
+Ça peut donc indiquer un futur immédiat, comme ici par exemple.
+
+205
+00:10:30,080 --> 00:10:31,460
+« Tu ne vas pas au musée ? »
+
+206
+00:10:31,460 --> 00:10:33,620
+« Oui, si, tout à l'heure. »
+
+207
+00:10:33,620 --> 00:10:40,460
+« Je pars demain. Enfin, tout à l'heure. Je pars demain. Enfin, tout à l'heure. »
+
+208
+00:10:40,460 --> 00:10:47,680
+Le monsieur qui vient de sonner a demandé à Marie-Laure si elle n'avait pas une sœur qui avait l'air d'une actrice de cinéma.
+
+209
+00:10:48,580 --> 00:10:52,980
+Il m'a demandé si je n'avais pas une grande sœur qui avait l'air d'une actrice de cinéma.
+
+210
+00:10:53,820 --> 00:10:55,280
+Mireille est tout de suite intéressée.
+
+211
+00:10:55,500 --> 00:10:56,600
+Et qu'est-ce que tu as dit ?
+
+212
+00:10:56,600 --> 00:10:59,380
+Ben, cette question, je lui ai dit que non, bien sûr.
+
+213
+00:11:00,220 --> 00:11:05,000
+Tiens, cette question ! Quelle question stupide ! La réponse est évidente.
+
+214
+00:11:05,680 --> 00:11:08,500
+Ben, cette question, je lui ai dit que non, bien sûr.
+
+215
+00:11:08,500 --> 00:11:11,840
+Mais quel culot ! C'était peut-être la chance de ma vie de faire du cinéma.
+
+216
+00:11:12,560 --> 00:11:13,380
+Maintenant, c'est raté.
+
+217
+00:11:13,560 --> 00:11:16,200
+Quel culot ! Mireille n'est pas contente.
+
+218
+00:11:16,840 --> 00:11:18,520
+Elle trouve que Marie-Laure a du culot.
+
+219
+00:11:19,900 --> 00:11:22,880
+Quel culot ! Quelle audace !
+
+220
+00:11:22,880 --> 00:11:24,740
+Marie-Laure n'aurait pas dû dire ça.
+
+221
+00:11:25,580 --> 00:11:26,240
+Regardez ici.
+
+222
+00:11:26,880 --> 00:11:29,020
+C'est Marie-Laure qui trouve que Mireille a du culot
+
+223
+00:11:29,020 --> 00:11:32,440
+parce qu'elle a profité de son absence pour lui prendre sa place.
+
+224
+00:11:32,980 --> 00:11:34,400
 Marie-Laure !
 
+225
+00:11:34,400 --> 00:11:35,600
+Oui !
+
+226
+00:11:39,500 --> 00:11:41,500
+Il y a maman qui t'appelle.
+
+227
+00:11:41,500 --> 00:11:43,500
+Je sais, j'y vais.
+
+228
+00:11:55,500 --> 00:11:59,500
+Eh bien, dis donc, tu as du culot ? Quel culot ?
+
+229
+00:11:59,500 --> 00:12:01,500
+Allez, Oust, sors de là, c'est ma place.
+
+230
+00:12:01,500 --> 00:12:05,500
+Eh bien, dis donc, tu as du culot ? Quel culot ?
+
+231
+00:12:05,500 --> 00:12:08,640
+C'est un culot. Allez, Oust, sors de là. C'est ma place.
+
+232
+00:12:08,800 --> 00:12:10,560
+C'était peut-être la chance de ma vie de faire du cinéma.
+
+233
+00:12:11,260 --> 00:12:12,100
+Maintenant, c'est raté.
+
+234
+00:12:12,740 --> 00:12:13,960
+La chance de ma vie.
+
+235
+00:12:14,860 --> 00:12:17,380
+Mireille avait peut-être une chance unique,
+
+236
+00:12:17,860 --> 00:12:19,560
+une possibilité de faire du cinéma.
+
+237
+00:12:19,760 --> 00:12:20,920
+Et maintenant, c'est raté.
+
+238
+00:12:21,320 --> 00:12:22,620
+Elle a perdu cette chance.
+
+239
+00:12:23,080 --> 00:12:24,200
+Elle a raté l'occasion.
+
+240
+00:12:25,100 --> 00:12:28,360
+On peut rater une occasion, on peut rater un examen.
+
+241
+00:12:28,740 --> 00:12:29,620
+Oh zut, je suis collée.
+
+242
+00:12:30,420 --> 00:12:33,820
+On peut rater sa vie, on peut aussi rater un train.
+
+243
+00:12:35,500 --> 00:12:39,820
+Mireille a longtemps voulu être actrice
+
+244
+00:12:39,820 --> 00:12:41,960
+Vous vous rappelez, quand elle était petite
+
+245
+00:12:41,960 --> 00:12:45,800
+Elle voulait être infirmière le jour et actrice le soir
+
+246
+00:12:45,800 --> 00:12:49,180
+Vous savez ce que je voulais être moi quand j'étais petite ?
+
+247
+00:12:49,180 --> 00:12:51,060
+Je voulais être infirmière et actrice
+
+248
+00:12:51,060 --> 00:12:54,280
+Infirmière pendant le jour et actrice le soir
+
+249
+00:12:54,280 --> 00:12:56,000
+Je rêvais d'aller à Hollywood
+
+250
+00:12:56,000 --> 00:12:58,500
+Elle rêvait, elle imaginait
+
+251
+00:12:58,500 --> 00:13:00,540
+Elle espérait aller à Hollywood
+
+252
+00:13:00,540 --> 00:13:03,500
+Jouer l'inconnue de l'Orient Express
+
+253
+00:13:03,500 --> 00:13:08,620
+Une héroïne mystérieuse dans l'Orient Express, le train qui va d'Europe en Orient.
+
+254
+00:13:10,280 --> 00:13:13,060
+Un train plein de mystères et d'intrigues.
+
+255
+00:13:16,040 --> 00:13:20,560
+Regardez cette publicité qui joue sur le mythe de l'Orient Express.
+
+256
+00:13:21,740 --> 00:13:28,940
+C'était en janvier 34, dans l'Orient Express, que j'allais rencontrer celle que je ne devais jamais plus oublier.
+
+257
+00:13:33,500 --> 00:13:48,100
+De celle que j'appelais l'Orientale, il ne me resterait désormais qu'une image et un parfum.
+
+258
+00:13:48,980 --> 00:13:51,840
+L'Orientale, un parfum inoubliable.
+
+259
+00:13:54,060 --> 00:14:00,400
+Quand elle était petite, Mireille rêvait de voyager, de descendre dans des palaces.
+
+260
+00:14:01,280 --> 00:14:03,120
+Mais maintenant, elle a vieilli.
+
+261
+00:14:03,500 --> 00:14:08,080
+Et elle devient comme tous ces Français qui rêvent d'avoir une petite maison à eux.
+
+262
+00:14:08,560 --> 00:14:12,700
+D'être propriétaire d'une maison même très modeste, même très petite.
+
+263
+00:14:13,360 --> 00:14:23,660
+Ces petites maisons qui s'appellent mon rêve, mon but, le destin, c'est la vie, mon repos, mon travail, murmure des flots.
+
+264
+00:14:24,400 --> 00:14:27,600
+Minouche, Robert se moque d'elle.
+
+265
+00:14:28,360 --> 00:14:31,220
+Je vois, une chaumière et un cœur.
+
+266
+00:14:31,900 --> 00:14:37,340
+Je vois. Ton rêve, c'est le cliché banal, une chaumière et un cœur.
+
+267
+00:14:37,940 --> 00:14:41,640
+Une chaumière, c'est une petite maison très modeste, avec un toit de chaume.
+
+268
+00:14:42,180 --> 00:14:45,360
+Autrefois, il y avait beaucoup de chaumières dans les campagnes.
+
+269
+00:14:45,780 --> 00:14:48,080
+Mais aujourd'hui, c'est devenu très rare.
+
+270
+00:14:49,140 --> 00:14:53,080
+Et un cœur, c'est le siège de l'amour et d'autres sentiments.
+
+271
+00:14:54,040 --> 00:14:57,780
+Une chaumière et un cœur, c'est un rêve de bonheur
+
+272
+00:14:57,780 --> 00:15:00,100
+dans une petite maison, très modeste,
+
+273
+00:15:00,340 --> 00:15:02,880
+pauvre même, avec quelqu'un qu'on aime.
+
+274
+00:15:04,920 --> 00:15:05,920
+Mireille proteste.
+
+275
+00:15:06,320 --> 00:15:07,880
+Notre maison n'est pas vraiment une chaumière.
+
+276
+00:15:08,200 --> 00:15:10,700
+D'abord, le toit n'est pas en chaume, mais en tuile.
+
+277
+00:15:11,200 --> 00:15:14,340
+Il y a essentiellement trois sortes de toits en France.
+
+278
+00:15:14,900 --> 00:15:17,340
+Les toits de chaume, très rares aujourd'hui.
+
+279
+00:15:18,000 --> 00:15:19,640
+Ensuite, les toits de tuile.
+
+280
+00:15:19,640 --> 00:15:24,140
+On trouve les toits de tuile surtout dans le midi.
+
+281
+00:15:25,460 --> 00:15:27,080
+Voilà un toit de tuile.
+
+282
+00:15:27,780 --> 00:15:37,440
+Et puis, il y a les ardoises.
+
+283
+00:15:38,020 --> 00:15:40,200
+Voilà des toits en ardoises.
+
+284
+00:15:41,060 --> 00:15:45,880
+L'ardoise est moins lourde que la tuile, mais elle coûte plus cher.
+
+285
+00:15:46,780 --> 00:15:49,680
+Elle est considérée comme plus élégante que la tuile.
+
+286
+00:15:50,780 --> 00:15:54,440
+Les toits des châteaux sont presque toujours en ardoises.
+
+287
+00:15:54,440 --> 00:15:58,840
+Les toits des maisons sont en tuiles ou en ardoises
+
+288
+00:15:58,840 --> 00:16:01,460
+Et les murs sont en dur
+
+289
+00:16:01,460 --> 00:16:07,820
+C'est-à-dire en pierre, en brique ou en parpaing, en bloc de ciment
+
+290
+00:16:07,820 --> 00:16:12,840
+En dur, en matériaux durs comme la pierre
+
+291
+00:16:12,840 --> 00:16:14,620
+La pierre, c'est dur
+
+292
+00:16:14,620 --> 00:16:19,060
+Beaucoup de maisons sont en pierre
+
+293
+00:16:19,060 --> 00:16:27,040
+les châteaux, les églises sont aussi généralement en pierre.
+
+294
+00:16:28,100 --> 00:16:30,660
+Mais on construit aussi en briques.
+
+295
+00:16:31,180 --> 00:16:32,920
+Il y a beaucoup de maisons en briques.
+
+296
+00:16:35,500 --> 00:16:38,220
+Et il y a aussi de vieux châteaux en briques.
+
+297
+00:16:41,740 --> 00:16:44,880
+Il y a aussi quelques églises en briques,
+
+298
+00:16:45,080 --> 00:16:46,860
+comme par exemple la cathédrale d'Albi.
+
+299
+00:16:46,860 --> 00:16:52,740
+On construit aussi beaucoup de maisons modernes en parpaing, en bloc de ciment.
+
+300
+00:16:53,900 --> 00:16:59,300
+Mais on n'utilise pas beaucoup le bois dans la construction, sauf pour les chalets de montagne.
+
+301
+00:17:00,720 --> 00:17:05,740
+En général, on construit en dur. C'est le verbe construire.
+
+302
+00:17:06,960 --> 00:17:10,220
+Écoutez, voyons si vous reconnaissez le verbe construire.
+
+303
+00:17:11,000 --> 00:17:14,700
+Mon père était architecte et un jour il a construit une villa au bord de la mer pour un grand chirurgien.
+
+304
+00:17:14,700 --> 00:17:18,700
+Mon père était architecte et un jour il a construit une villa au bord de la mer pour un grand chirurgien.
+
+305
+00:17:18,920 --> 00:17:25,220
+On utilise le bois pour les chalets de montagne, mais à part ça, on construit en dur.
+
+306
+00:17:25,920 --> 00:17:29,680
+À part ça, à part les chalets, écoutez Guylaine.
+
+307
+00:17:30,540 --> 00:17:33,060
+Il pleut, j'arrube, mais à part ça, ça va.
+
+308
+00:17:33,780 --> 00:17:41,340
+En France, on construit en dur parce qu'on aime ce qui dure, ce qui dure longtemps.
+
+309
+00:17:41,340 --> 00:17:46,920
+La pierre, c'est solide, ça dure longtemps
+
+310
+00:17:46,920 --> 00:17:52,900
+Regardez le pont du Gard, il dure depuis presque 20 siècles, presque 2000 ans
+
+311
+00:17:52,900 --> 00:17:55,400
+La maison Carré de Nîmes aussi
+
+312
+00:17:55,400 --> 00:17:59,540
+La pierre dure plus longtemps que le bois
+
+313
+00:17:59,540 --> 00:18:04,900
+Les roses, c'est très joli, mais ça ne dure pas
+
+314
+00:18:04,900 --> 00:18:07,540
+Les chocolats non plus, ça ne dure pas
+
+315
+00:18:07,540 --> 00:18:13,500
+La maison de campagne d'Ebello est en dur, elle est en pierre
+
+316
+00:18:13,500 --> 00:18:17,720
+Et Mireille espère bien qu'elle va durer très longtemps
+
+317
+00:18:17,720 --> 00:18:20,160
+Bien sûr, c'est de la belle pierre du pays
+
+318
+00:18:20,160 --> 00:18:22,480
+Et les murs ont au moins deux ou trois cents ans
+
+319
+00:18:22,480 --> 00:18:25,460
+Et j'espère qu'ils seront encore debout pour mes arrières petits-enfants
+
+320
+00:18:25,460 --> 00:18:27,780
+Debout, vous vous rappelez ?
+
+321
+00:18:27,780 --> 00:18:29,240
+Ici, Mireille est debout
+
+322
+00:18:29,240 --> 00:18:30,780
+Et ici, elle est assise
+
+323
+00:18:30,780 --> 00:18:32,680
+Ici, elle est couchée
+
+324
+00:18:32,680 --> 00:18:34,820
+Debout
+
+325
+00:18:34,820 --> 00:18:36,740
+Assis
+
+326
+00:18:36,740 --> 00:18:49,220
+couché. Debout, assis, debout, assis, couché. Debout, assis.
+
+327
+00:18:49,880 --> 00:18:56,680
+Alors vous travaillez debout alors ? Comme moi, vous travaillez debout aussi.
+
+328
+00:18:57,660 --> 00:19:03,680
+Regardez ce mur, il est encore debout. Ce morceau de mur est encore debout.
+
+329
+00:19:03,680 --> 00:19:13,260
+La maison de campagne des Bélots, c'est très intéressant, mais Robert s'intéresse davantage au logement des étudiants étrangers à Paris.
+
+330
+00:19:14,100 --> 00:19:19,460
+J'ai lu dans Le Monde qu'il y avait plus de 300 000 étudiants à Paris. Où est-ce qu'ils logent ?
+
+331
+00:19:19,460 --> 00:19:20,200
+Eh bien, ça dépend.
+
+332
+00:19:20,880 --> 00:19:24,900
+Ça dépend. Il y a plusieurs cas, plusieurs possibilités.
+
+333
+00:19:25,880 --> 00:19:28,820
+D'abord, il y a les étudiants qui ont leurs parents à Paris.
+
+334
+00:19:29,400 --> 00:19:32,160
+Ceux-là habitent en général chez leurs parents.
+
+335
+00:19:32,160 --> 00:19:36,160
+C'est plus simple, c'est plus commode, c'est surtout moins cher.
+
+336
+00:19:36,660 --> 00:19:39,380
+Mireille, par exemple, habite chez ses parents.
+
+337
+00:19:40,020 --> 00:19:42,200
+Et puis, il y a les étudiants étrangers.
+
+338
+00:19:43,320 --> 00:19:44,200
+Là aussi, ça dépend.
+
 339
-00:22:31,880 --> 00:22:33,520
-Quoi ? C'est pas vrai ?
+00:19:44,760 --> 00:19:48,220
+Il y a des étudiants étrangers qui habitent à la cité universitaire.
 
 340
-00:22:33,520 --> 00:22:36,460
-Mais tu aurais dû m'appeler, voyons, la pauvre bonne sœur.
+00:19:48,920 --> 00:19:52,220
+Il y a des étudiants étrangers qui habitent à l'hôtel.
 
 341
-00:22:36,900 --> 00:22:38,440
-Bah, c'était pas une vraie.
+00:19:52,900 --> 00:19:56,460
+Ils louent une chambre dans un hôtel, comme Robert, par exemple.
 
 342
-00:22:38,880 --> 00:22:40,120
-Comment ça ?
+00:19:57,060 --> 00:20:01,560
+Et puis, il y a aussi des étudiants qui habitent chez des particuliers.
 
 343
-00:22:40,120 --> 00:22:42,120
-Bah non, c'était une fausse bonne sœur.
+00:20:01,560 --> 00:20:12,660
+Il loue une chambre chez des particuliers. Un particulier, ça peut être M. Pellot ou Tante Georgette, par exemple, quelqu'un qui n'est pas hôtelier.
 
 344
-00:22:42,640 --> 00:22:43,880
-Comment le sais-tu ?
+00:20:14,060 --> 00:20:22,220
+Un hôtelier loue des chambres par profession. Un particulier peut louer une chambre, mais ce n'est pas sa profession.
 
 345
-00:22:43,880 --> 00:22:45,140
-Elle avait de la moustache.
+00:20:22,220 --> 00:20:27,160
+On peut louer une chambre dans un hôtel ou dans une maison particulière.
 
 346
-00:22:45,880 --> 00:22:48,180
-Ce n'était pas une vraie bonne sœur.
+00:20:27,940 --> 00:20:32,560
+De même, il y a des taxis et il y a des voitures particulières.
 
 347
-00:22:48,800 --> 00:22:50,420
-Ça, oui, c'est une vraie bonne sœur.
+00:20:33,060 --> 00:20:36,400
+Ça, c'est un taxi et ça, c'est une voiture particulière.
 
 348
-00:22:50,780 --> 00:22:53,200
-Mais ça, non, ce n'est pas une vraie bonne sœur.
+00:20:37,100 --> 00:20:40,260
+Voyons, demandons à cette jeune fille si elle est étudiante et où elle habite.
 
 349
-00:22:53,720 --> 00:22:55,120
-Vous voyez la moustache ?
+00:20:40,760 --> 00:20:42,540
+Vous êtes étudiante ?
 
 350
-00:22:56,540 --> 00:23:02,260
-Bon, maintenant, écoutez bien le dialogue entre Marie-Laure et sa mère au sujet de la bonne sœur.
+00:20:42,540 --> 00:20:43,820
+Oui, je suis à l'université.
 
 351
-00:23:02,260 --> 00:23:06,060
-Ensuite, vous répondrez à Mme Belleau comme si vous étiez Marie-Laure.
+00:20:44,240 --> 00:20:45,260
+Où est-ce que vous habitez ?
 
 352
-00:23:06,520 --> 00:23:09,460
-Mais tu aurais dû m'appeler, voyons, la pauvre bonne sœur.
+00:20:45,260 --> 00:20:46,520
+Dans la banlieue parisienne.
 
 353
-00:23:09,900 --> 00:23:11,420
-Bah, c'était pas une vraie.
+00:20:46,520 --> 00:20:51,000
+Où est-ce que vous habitez ?
 
 354
-00:23:11,840 --> 00:23:13,040
-Comment ça ?
+00:20:51,000 --> 00:20:52,880
+La cité universitaire ?
 
 355
-00:23:13,040 --> 00:23:15,020
-Bah non, c'était une fausse bonne sœur.
+00:20:52,880 --> 00:20:54,480
+Vous louez une chambre ?
 
 356
-00:23:15,540 --> 00:23:16,760
-Comment le sais-tu ?
+00:20:54,480 --> 00:20:55,920
+Ou vous habitez chez vos parents ?
 
 357
-00:23:16,760 --> 00:23:18,040
-Elle avait de la moustache.
+00:20:55,920 --> 00:20:57,080
+Non, j'habite chez mes parents
 
 358
-00:23:18,820 --> 00:23:21,420
-Maintenant, répondez comme si vous étiez Marie-Laure.
+00:20:57,080 --> 00:20:59,620
+Il y a beaucoup d'étudiants étrangers
 
 359
-00:23:21,920 --> 00:23:24,880
-Mais tu aurais dû m'appeler, voyons, la pauvre bonne sœur.
+00:20:59,620 --> 00:21:01,040
+Qui habitent dans des familles
 
 360
-00:23:25,580 --> 00:23:27,140
-Bah, c'était pas une vraie.
+00:21:01,040 --> 00:21:02,280
+Chez des particuliers
 
 361
-00:23:27,920 --> 00:23:29,680
-Bah, c'était pas une vraie.
+00:21:02,280 --> 00:21:05,000
+Ils prennent pension dans une famille
 
 362
-00:23:32,260 --> 00:23:34,920
-Bah, c'était pas une vraie.
+00:21:05,000 --> 00:21:07,780
+Ils ont une chambre avec un cabinet de toilette
 
 363
-00:23:35,280 --> 00:23:36,500
-Comment ça ?
+00:21:07,780 --> 00:21:10,440
+Un cabinet de toilette c'est une petite salle de bain
 
 364
-00:23:36,500 --> 00:23:38,480
-Bah non, c'était une fausse bonne sœur.
+00:21:10,440 --> 00:21:11,720
+Mais sans baignoire
 
 365
-00:23:38,940 --> 00:23:40,880
-Bah non, c'était une fausse bonne sœur.
+00:21:11,720 --> 00:21:14,060
+Il y a essentiellement un lavabo
 
 366
-00:23:43,980 --> 00:23:46,240
-Bah non, c'était une fausse bonne sœur.
+00:21:14,060 --> 00:21:18,720
+et ils prennent un repas ou tous les repas avec la famille.
 
 367
-00:23:46,700 --> 00:23:48,060
-Et comment le sais-tu ?
+00:21:20,220 --> 00:21:24,360
+La demi-pension ou la pension complète.
 
 368
-00:23:48,060 --> 00:23:49,320
-Elle avait de la moustache.
+00:21:25,200 --> 00:21:27,440
+Je croyais que les familles françaises étaient très fermées.
 
 369
-00:23:50,080 --> 00:23:51,340
-Elle avait de la moustache.
+00:21:28,480 --> 00:21:29,640
+C'est assez vrai dans un sens.
 
 370
-00:23:54,160 --> 00:23:55,620
-Elle avait de la moustache.
+00:21:30,080 --> 00:21:33,900
+Dans un sens, c'est un peu vrai, mais ce n'est pas tout à fait vrai.
 
 371
-00:23:56,280 --> 00:23:58,080
-Voyons maintenant ce que vous avez retenu.
+00:21:33,900 --> 00:21:37,200
+Il y a beaucoup de familles qui reçoivent des étrangers
 
 372
-00:23:58,460 --> 00:24:01,640
-Écoutez, regardez, réfléchissez et parlez.
+00:21:37,200 --> 00:21:40,380
+parce qu'ils pensent que c'est bien pour les enfants.
 
 373
-00:24:03,060 --> 00:24:07,920
-Les Belleaux ont un très bel appartement, rue de Vaugirard, mais ils ne paient pas de loyer.
+00:21:40,940 --> 00:21:43,820
+C'est intéressant pour leurs enfants de connaître des étrangers.
 
 374
-00:24:08,540 --> 00:24:10,260
-Pourquoi est-ce qu'ils ne paient pas de loyer ?
+00:21:44,560 --> 00:21:47,540
+Quelquefois aussi parce qu'ils sont seuls dans un grand appartement,
 
 375
-00:24:11,380 --> 00:24:14,400
-Parce qu'ils sont propriétaires.
+00:21:47,720 --> 00:21:50,040
+une dame veuve par exemple, ou un retraité,
 
 376
-00:24:15,600 --> 00:24:18,260
-La gardienne, qui est-ce ? Vous savez qui c'est ?
+00:21:50,520 --> 00:21:52,960
+un monsieur qui ne travaille plus, qui est à la retraite.
 
 377
-00:24:19,100 --> 00:24:20,560
-C'est la concierge.
+00:21:53,680 --> 00:21:57,100
+Quelquefois parce qu'ils ont besoin d'argent.
 
 378
-00:24:21,460 --> 00:24:26,260
-D'après vous, ça, c'est un chalet dans les Alpes ou un masse en Provence ?
+00:21:57,700 --> 00:21:59,040
+Ils n'ont pas assez d'argent.
 
 379
-00:24:27,100 --> 00:24:28,800
-Un chalet dans les Alpes.
+00:21:59,880 --> 00:22:02,960
+Regardez ce pauvre homme, il a besoin d'argent.
 
 380
-00:24:28,800 --> 00:24:34,920
-Ça, c'est un cotage normand ou un masse provençale ?
+00:22:03,580 --> 00:22:06,780
+Hé copain, t'as pas cinq balles pour que je la remplisse ?
 
 381
-00:24:34,920 --> 00:24:37,000
-C'est plutôt un masse provençale.
+00:22:06,780 --> 00:22:09,540
+Regardez Mireille ici, elle a besoin d'un livre.
 
 382
-00:24:37,820 --> 00:24:41,800
-D'après vous, est-ce que M. Bello fait le maçon ou le menuisier ici ?
+00:22:10,220 --> 00:22:11,780
+Tiens, tu peux me passer ce livre-là ?
 
 383
-00:24:43,080 --> 00:24:44,740
-Il fait le maçon.
+00:22:11,780 --> 00:22:15,880
+Et puis, elle a besoin d'une feuille de papier.
 
 384
-00:24:45,320 --> 00:24:47,800
-Et ici, il fait le peintre ou le plombier ?
+00:22:17,260 --> 00:22:18,500
+Donne-moi cette feuille, là.
 
 385
-00:24:48,400 --> 00:24:49,740
-Le peintre.
+00:22:22,980 --> 00:22:25,120
+Et puis, elle a besoin d'un crayon.
 
 386
-00:24:50,220 --> 00:24:54,800
-Regardez bien. Est-ce que les Bello font amener l'eau ou mettre l'électricité ?
+00:22:27,380 --> 00:22:30,780
+Il me faut un crayon. Tu veux pas me chercher un crayon ?
 
 387
-00:24:55,320 --> 00:24:57,700
-Ils font amener l'eau.
+00:22:31,860 --> 00:22:36,780
+Qu'est-ce qu'il te faut encore ? Il te faut autre chose ?
 
 388
-00:24:57,700 --> 00:25:00,700
-Et ça, c'est une grange ou un garage ?
+00:22:36,780 --> 00:22:37,780
+Vous êtes un artiste.
 
 389
-00:25:01,900 --> 00:25:03,100
-Une grange.
+00:22:39,440 --> 00:22:40,240
+J'oubliais.
 
 390
-00:25:03,880 --> 00:25:06,120
-Attention, ça va être très difficile.
+00:22:40,240 --> 00:22:43,460
+Qu'est-ce que vous avez contre les artistes ? On en a besoin.
 
 391
-00:25:07,120 --> 00:25:14,700
-Pour transformer grange en garage, est-ce qu'il faut ajouter un N ou enlever un N ?
+00:22:44,620 --> 00:22:47,800
+Qu'est-ce que vous avez contre les artistes ? On en a besoin.
 
 392
-00:25:16,280 --> 00:25:19,620
-Il faut enlever un N.
+00:22:50,100 --> 00:22:53,040
+Tipou, tu sais que j'ai besoin de toi.
 
 393
-00:25:20,960 --> 00:25:21,880
-Regardez cette maison.
+00:22:55,060 --> 00:22:58,000
+Tipou, tu sais que j'ai besoin de toi.
 
 394
-00:25:22,640 --> 00:25:26,700
-En résumé, est-ce qu'elle est habitable ou est-ce qu'elle est en mauvais état ?
+00:22:59,520 --> 00:23:06,220
+Cette conversation sur les étudiants étrangers qui prennent pension dans une famille donne des idées à Robert.
 
 395
-00:25:27,700 --> 00:25:32,300
-Elle est en mauvais état. Elle est en très mauvais état.
+00:23:07,180 --> 00:23:10,320
+La famille Bello n'aurait pas l'intention de recevoir des étrangers par hasard.
 
 396
-00:25:32,880 --> 00:25:35,560
-Il faut tout réparer. Tout est à faire.
+00:23:11,280 --> 00:23:12,920
+Mais Mme Bello n'est pas d'accord.
 
 397
-00:25:36,200 --> 00:25:37,660
-Monsieur Guignol, il fait froid.
+00:23:13,540 --> 00:23:16,200
+D'abord, leur appartement n'est pas trop grand pour eux.
 
 398
-00:25:38,240 --> 00:25:41,240
-Voulez-vous mettre le chauffage, s'il vous plaît ?
+00:23:16,640 --> 00:23:19,300
+Vous savez, nous n'avons pas un grand appartement, nous n'avons que cette pièce.
 
 399
-00:25:41,240 --> 00:25:48,400
-Monsieur Guignol, les vitres sont sales.
+00:23:19,960 --> 00:23:21,980
+En comptant la cuisine et la salle de bain.
 
 400
-00:25:48,520 --> 00:25:50,560
-On ne peut même plus voir la tour Moparnasse.
+00:23:22,740 --> 00:23:27,660
+Et puis, Mme Bello n'est pas retraitée, puisqu'elle travaille encore au ministère de la Santé.
 
 401
-00:25:51,080 --> 00:25:54,120
-Voulez-vous laver les vitres, s'il vous plaît, monsieur Guignol ?
+00:23:28,200 --> 00:23:31,640
+Et elle n'est pas veuve non plus, puisque M. Bello est là.
 
 402
-00:25:57,700 --> 00:26:02,120
-Monsieur Guignol, les murs du salon sont sales.
+00:23:32,140 --> 00:23:33,940
+Il n'est pas mort, il est encore vivant.
 
 403
-00:26:02,240 --> 00:26:03,900
-Voulez-vous les repeindre, s'il vous plaît?
+00:23:34,940 --> 00:23:37,040
+Je ne suis ni veuve ni retraitée.
 
 404
-00:26:04,620 --> 00:26:06,960
-En rose, hein, s'il vous plaît, Monsieur Guignol.
+00:23:38,440 --> 00:23:41,180
+Et Mireille n'a pas besoin qu'on lui trouve des amis étrangers.
 
 405
-00:26:14,100 --> 00:26:17,000
-Monsieur Guignol, il pleut dans ma chambre.
+00:23:41,660 --> 00:23:42,580
+Elle les collectionne.
 
 406
-00:26:17,520 --> 00:26:20,580
-Il va falloir remplacer les tuiles du toit, s'il vous plaît.
+00:23:43,660 --> 00:23:44,480
+Elle en a beaucoup.
 
 407
-00:26:20,580 --> 00:26:28,280
-Oh là là, ça devient infernal
+00:23:44,940 --> 00:23:46,360
+Elle est très sociable.
 
 408
-00:26:28,280 --> 00:26:30,300
-On n'est même plus servi
+00:23:46,740 --> 00:23:49,160
+Elle a beaucoup d'amis de toutes les nationalités.
 
 409
-00:26:30,300 --> 00:26:35,260
-Hé, monsieur Guignol, réveillez-vous
+00:23:50,420 --> 00:23:51,400
+Ben bon, tant pis.
 
 410
-00:26:35,260 --> 00:26:38,220
-Oh, hé, doucement, doucement
+00:23:52,080 --> 00:23:54,620
+Robert va devoir rester au homme latin.
 
 411
-00:26:38,220 --> 00:26:40,280
-Vous voyez bien que je dors, non ?
+00:23:54,940 --> 00:23:55,900
+Oh, c'est dommage.
 
 412
-00:26:50,580 --> 00:27:20,560
-Sous-titrage ST' 501
+00:23:57,180 --> 00:23:59,240
+Voyons maintenant ce que vous pouvez dire.
 
 413
-00:27:20,580 --> 00:27:50,560
-Sous-titrage ST' 501
+00:23:59,700 --> 00:24:02,960
+Regardez, écoutez, réfléchissez et parlez.
 
 414
-00:27:50,580 --> 00:28:20,560
-Sous-titrage ST' 501
+00:24:03,940 --> 00:24:11,940
+Est-ce que Mireille déteste sa sœur ou est-ce qu'elle est attachée à elle ?
 
 415
-00:28:20,580 --> 00:28:22,820
-and other Annenberg Media programs,
+00:24:11,940 --> 00:24:13,640
+Elle est attachée à elle.
 
 416
-00:28:23,240 --> 00:28:24,600
-call 1-800-LEARNER
+00:24:14,860 --> 00:24:17,840
+Maintenant, Marie-Laure vous raconte quelque chose de bizarre.
 
 417
-00:28:24,600 --> 00:28:28,860
-and visit us at www.learner.org.
+00:24:18,240 --> 00:24:18,920
+Qu'est-ce que vous dites ?
+
+418
+00:24:18,920 --> 00:24:20,420
+Qu'est-ce que c'est que cette histoire ?
+
+419
+00:24:20,420 --> 00:24:24,940
+Vous dites ?
+
+420
+00:24:24,940 --> 00:24:27,400
+Qu'est-ce que c'est que cette histoire ?
+
+421
+00:24:27,400 --> 00:24:30,240
+Votre sœur a pris votre place pendant votre absence.
+
+422
+00:24:30,860 --> 00:24:32,940
+Vous êtes indignée. Qu'est-ce que vous dites ?
+
+423
+00:24:33,940 --> 00:24:39,120
+Eh bien, dis donc, tu as du culot? Quel culot? Allez, oust!
+
+424
+00:24:39,580 --> 00:24:44,300
+Eh bien, dis donc, tu as du culot? Quel culot? Allez, oust!
+
+425
+00:24:45,180 --> 00:24:47,800
+Est-ce que ce toit est en chaume ou en tuile?
+
+426
+00:24:51,400 --> 00:24:52,520
+En chaume.
+
+427
+00:24:52,700 --> 00:24:56,480
+En chaume, très bien. Est-ce que ce toit est en ardoise ou en tuile?
+
+428
+00:24:58,960 --> 00:25:00,060
+En tuile.
+
+429
+00:25:00,060 --> 00:25:04,740
+En tuiles, c'est ça. Est-ce que ce toit est en chaume ou en ardoise?
+
+430
+00:25:07,620 --> 00:25:08,740
+En ardoise.
+
+431
+00:25:09,140 --> 00:25:13,760
+En ardoise. Est-ce que les murs sont en bois ou en pierre ici?
+
+432
+00:25:15,720 --> 00:25:16,780
+En pierre.
+
+433
+00:25:17,200 --> 00:25:19,020
+Et ici, ils sont en bois ou en briques?
+
+434
+00:25:22,000 --> 00:25:22,860
+En briques.
+
+435
+00:25:23,160 --> 00:25:27,400
+En briques, très bien. Et ce chalet, il est en bois ou en briques?
+
+436
+00:25:30,060 --> 00:25:41,520
+en bois en bois est ce que mireille est assise debout ou couché debout debout et
+
+437
+00:25:41,520 --> 00:25:53,700
+ici assise assise et ici couché couché et ça c'est un taxi ou une voiture
+
+438
+00:25:53,700 --> 00:26:01,980
+particulière une voiture particulière une voiture particulière d'après vous ça c'est
+
+439
+00:26:01,980 --> 00:26:10,080
+un hôtel ou une maison particulière une maison particulière une maison particulière
+
+440
+00:26:10,080 --> 00:26:22,920
+mais qu'est ce que vous faites là monsieur guignol je dors mademoiselle mireille mais
+
+441
+00:26:22,920 --> 00:26:25,260
+Mais non, M. Guignol, ça ne va pas du tout.
+
+442
+00:26:25,880 --> 00:26:27,660
+Vous ne pouvez pas coucher dans ma salle à manger.
+
+443
+00:26:28,340 --> 00:26:29,060
+Vous rêvez.
+
+444
+00:26:30,240 --> 00:26:32,660
+Justement, Mlle Mireille, je rêvais.
+
+445
+00:26:33,020 --> 00:26:36,940
+Je rêvais que j'avais une petite maison bien modeste,
+
+446
+00:26:37,040 --> 00:26:40,500
+une choumière presque, qui s'appelait mon rêve.
+
+447
+00:26:41,840 --> 00:26:42,720
+Oui, eh bien, c'est ça.
+
+448
+00:26:43,080 --> 00:26:44,720
+Allez dormir dans la maison de vos rêves,
+
+449
+00:26:44,980 --> 00:26:46,520
+mais pas dans ma salle à manger.
+
+450
+00:26:47,360 --> 00:26:48,140
+Allez, oust!
+
+451
+00:26:48,140 --> 00:26:53,280
+Oh non mais, on n'est plus chez soi
+
+452
+00:27:18,140 --> 00:27:48,120
+Sous-titrage MFP.
+
+453
+00:27:48,140 --> 00:28:18,120
+Sous-titrage ST' 501
+
+454
+00:28:18,140 --> 00:28:20,640
+le ministère de la Culture et de la Communication,
+
+455
+00:28:21,220 --> 00:28:23,360
+le Commissariat général à la langue française,
+
+456
+00:28:23,740 --> 00:28:25,480
+le Jesse B. Cox Charitable Trust
+
+457
+00:28:25,480 --> 00:28:27,780
+et le National Endowment for the Humanities.
+
+458
+00:28:48,140 --> 00:29:18,120
+Sous-titrage FR ?
 
