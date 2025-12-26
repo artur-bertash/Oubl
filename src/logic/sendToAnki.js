@@ -40,9 +40,3 @@ export default async function ankiConnectInvoke(action, version, params = {}) {
 }
 
 
-try {
-    const result = await ankiConnectInvoke('deckNames', 5);
-    console.log(`got list of decks: ${result}`);
-} catch (e) {
-    console.log(`error getting decks: ${e}`);
-}
