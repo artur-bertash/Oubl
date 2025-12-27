@@ -34,7 +34,7 @@ export default async function ankiConnectInvoke(action, version, params = {}) {
 
         setTimeout(() => {
             window.removeEventListener('oubl-anki-response', responseHandler);
-            reject('Timeod out after 30s');
+            reject('Timeod out after 30s')
         }, 30000);
     });
 }
