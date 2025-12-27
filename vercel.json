@@ -5,6 +5,14 @@
     {
       "source": "/api/(.*)",
       "destination": "/api/$1"
+    },
+    {
+      "source": "/vps-3001/(.*)",
+      "destination": "http://74.208.167.229:3001/$1"
+    },
+    {
+      "source": "/vps-3002/(.*)",
+      "destination": "http://74.208.167.229:3002/$1"
     }
   ],
   "functions": {

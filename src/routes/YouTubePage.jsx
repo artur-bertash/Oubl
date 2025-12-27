@@ -8,7 +8,7 @@ import convertVtt from "../logic/vttToObj"
 import StatusConenction from "../components/StatusConnection"
 import sendToAnki from "../logic/sendToAnki"
 
-const API_BASE_URL = "http://74.208.167.229:3002"
+const API_BASE_URL = "/vps-3002"
 
 function YouTubePage() {
     const { videoId } = useParams()

@@ -127,9 +127,9 @@ async function createAnkiCard({
     const audioFile = `oubl_audio_${episodeId}_${timestamp}_${suffix}.mp3`
 
 
-    const vpsPort = isYouTube ? 3002 : 3001
-    const imgUrl = `http://74.208.167.229:${vpsPort}/screenshot?id=${episodeId}&timestamp=${timestamp}`
-    const audioUrl = `http://74.208.167.229:${vpsPort}/audio?id=${episodeId}&timestamp=${timestamp}&duration=${duration}`
+    const vpsPrefix = isYouTube ? "/vps-3002" : "/vps-3001"
+    const imgUrl = `${window.location.origin}${vpsPrefix}/screenshot?id=${episodeId}&timestamp=${timestamp}`
+    const audioUrl = `${window.location.origin}${vpsPrefix}/audio?id=${episodeId}&timestamp=${timestamp}&duration=${duration}`
 
     const storedImg = await storeMedia(imgFile, imgUrl)
     const storedAudio = await storeMedia(audioFile, audioUrl)
