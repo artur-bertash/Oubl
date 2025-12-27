@@ -12,6 +12,7 @@ export default function WordExplanation({
     episodeId,
     timestamp,
     duration,
+    isYouTube = false,
 }) {
     const [loading, setLoading] = useState(true)
     const [explanation, setExplanation] = useState(null)
@@ -62,6 +63,7 @@ export default function WordExplanation({
                 timestamp,
                 duration,
                 episode,
+                isYouTube,
             })
         } catch (err) {
             console.error(err)
@@ -117,25 +119,30 @@ async function createAnkiCard({
     timestamp,
     duration,
     episode,
+    isYouTube = false,
 }) {
     const suffix = Date.now()
 
     const imgFile = `oubl_img_${episodeId}_${timestamp}_${suffix}.jpg`
     const audioFile = `oubl_audio_${episodeId}_${timestamp}_${suffix}.mp3`
 
-    const imgUrl = `http://74.208.167.229:3001/screenshot?id=${episodeId}&timestamp=${timestamp}`
-    const audioUrl = `http://74.208.167.229:3001/audio?id=${episodeId}&timestamp=${timestamp}&duration=${duration}`
+
+    const vpsPort = isYouTube ? 3002 : 3001
+    const imgUrl = `http://74.208.167.229:${vpsPort}/screenshot?id=${episodeId}&timestamp=${timestamp}`
+    const audioUrl = `http://74.208.167.229:${vpsPort}/audio?id=${episodeId}&timestamp=${timestamp}&duration=${duration}`
 
     const storedImg = await storeMedia(imgFile, imgUrl)
     const storedAudio = await storeMedia(audioFile, audioUrl)
 
+    const deckName = isYouTube ? `YouTube::${episodeId}` : `FIA::${episodeId} EP`
+
     await ankiConnectInvoke("createDeck", 5, {
-        deck: `FIA::${episodeId} EP`,
+        deck: deckName,
     }).catch(console.error)
 
     await ankiConnectInvoke("addNote", 5, {
         note: {
-            deckName: `FIA::${episodeId} EP`,
+            deckName: deckName,
             modelName: "Basic",
             fields: {
                 Front: front({

@@ -84,7 +84,7 @@ function VideoPage() {
       if (!video) return
 
       if (e.code === "Space") {
-        e.preventDefault() 
+        e.preventDefault()
         if (isPlaying) {
           video.pause()
           setPlaing(false)
@@ -106,7 +106,7 @@ function VideoPage() {
 
       if (e.key === "ArrowLeft") {
         const t = video.currentTime
-       
+
         let prevCue = null
         for (let i = subs.length - 1; i >= 0; i--) {
           if (subs[i].start < t - 0.5) {
