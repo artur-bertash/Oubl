@@ -5,7 +5,7 @@ import { dirname, resolve } from 'path';
 
 // 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-dotenv.config({ path: resolve(__dirname, '../.env.local') });
+dotenv.config({ path: resolve(__dirname, '../.env.local'), override: true });
 
 export default async function handler(req, res) {
     setCorsHeaders(res);
@@ -20,6 +20,7 @@ export default async function handler(req, res) {
         const translated = await translateText(body.text);
         return res.status(200).json({ translated });
     } catch (error) {
+
         console.error("Translation Error:", error);
         return res.status(500).json({ error: error.message || "Translation failed" });
     }
@@ -37,11 +38,17 @@ function parseBody(body) {
 
 function validateRequest({ text }) {
     if (!text) throw new Error("Text is required");
+    if (Array.isArray(text) && text.length === 0) throw new Error("Text array cannot be empty");
     if (!process.env.DEEPL_KEY) throw new Error("DeepL API key is not configured");
 }
 
 async function translateText(text) {
     const client = new deepl.Translator(process.env.DEEPL_KEY);
+    // client.translateText supports both string and string[]
     const result = await client.translateText(text, null, "en-US");
+
+    if (Array.isArray(result)) {
+        return result.map(r => r.text);
+    }
     return result.text;
 }
