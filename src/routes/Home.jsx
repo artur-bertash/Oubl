@@ -1,11 +1,23 @@
 import { useNavigate } from "react-router"
+import { useState } from "react"
 
 function Home() {
     const navigate = useNavigate()
 
+    const [showYoutubeInput, setShowYoutubeInput] = useState(false)
+    const [youtubeUrl, setYoutubeUrl] = useState("")
+
     function handleYouTubeClick() {
-        const url = prompt("Paste YouTube URL:")
-        if (!url) return
+        setShowYoutubeInput(true)
+    }
+
+    function handleYoutubeSubmit(e) {
+        e.preventDefault()
+        const url = youtubeUrl
+        if (!url) {
+            setShowYoutubeInput(false)
+            return
+        }
 
         // Extract video ID from various YouTube URL formats
         let videoId = null
@@ -39,13 +51,27 @@ function Home() {
 
             <div className="wrapper-home">
                 <h1>Oubl — Classic French, modern memory.</h1>
-                <div className="buttons">
-                    <button onClick={() => navigate("/videos")}>Begin</button>
-                    <button onClick={handleYouTubeClick}>Youtube</button>
-                    <button onClick={() => navigate("/learn-more")}>Why not Dualingo</button>
-
-                </div>
-
+                {!showYoutubeInput ? (
+                    <div className="buttons">
+                        <button onClick={() => navigate("/videos")}>Begin</button>
+                        <button onClick={handleYouTubeClick}>Youtube</button>
+                        <button onClick={() => navigate("/learn-more")}>Why not Dualingo</button>
+                    </div>
+                ) : (
+                    <form className="youtube-input-container" onSubmit={handleYoutubeSubmit}>
+                        <input
+                            type="text"
+                            placeholder="Paste YouTube video link..."
+                            value={youtubeUrl}
+                            onChange={(e) => setYoutubeUrl(e.target.value)}
+                            autoFocus
+                        />
+                        <div className="input-actions">
+                            <button type="submit">Go</button>
+                            <button type="button" onClick={() => setShowYoutubeInput(false)}>Cancel</button>
+                        </div>
+                    </form>
+                )}
             </div>
             <div className="bottom">
                 This website makes use of video and audio materials from French in Action (© Yale University and WGBH Educational Foundation). All rights remain with the original copyright holders.
