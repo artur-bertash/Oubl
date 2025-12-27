@@ -2,9 +2,9 @@
 
 function Subtitles({currTime, subs, clickedWord, setClickedWord}) {
     
-    const cue = subs.find(s=> s.start <= currTime && s.end >= currTime)
+    // Match the same logic as YouTubePage: start <= currTime < end (exclusive end)
+    const cue = subs.find(s => s.start <= currTime && s.end > currTime)
     let isNothing = false
-    console.log(currTime)
     let sub = ""
     if (cue) {
         sub = cue.text
