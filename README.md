@@ -1,51 +1,31 @@
-# React + Vite
+# What is it?
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A website + chrome extension extension that automates Anki cards creation for a language course French in Action and YouTube.
 
-## Environment Variables
+## Usage
 
 This project uses environment variables to store sensitive API keys. Follow these steps to set them up:
 
-### Local Development
+### How to install?
 
-1. Copy the example environment file:
+1. Go to [Oubl Chrome Extension](https://github.com/artur-bertash/oubl-extension) and install the zip file. Then import it in chrome extension tab. Turn on Developer Mode -> Load Unpacked -> Select the chrome ext dir.
+2. Install [AnkiConnect](https://ankiweb.net/shared/info/2055492159) extension.
+3. Replace localhost with \* so that Oubl can talk to Anki. It should look like this:
+   ![alt text](image.png)
+4. Go to [Oubl](http://vercel.oubl.com/) with Anki open in the background.
 
-   ```bash
-   cp .env.example .env
-   ```
+Note: there is no official Anki API so it would stop working if you close the app. There is a green/red indicator top left corner that tells you if it is conencted.
 
-2. Edit `.env` and add your actual API key:
+### Architecture
 
-   ```
-   OPENROUTER_KEY=your_actual_api_key_here
-   ```
+VPS server: ffmpeg for audio/video processing + yt-dlp for youtube video/subtitles downloading
+Chrome extension: sends requests to port 8765 that lets Anki extension: [AnkiConnect](https://github.com/amikey/anki-connect) created cards.
+Vercel back serverless: DeepL API for subs/sentences translation + OpenRouter API for word in context explanation
+Vercel front: Custom events to chrome extension to talk to Anki locally
 
-3. The `.env` file is already in `.gitignore`, so it won't be committed to git.
+.
 
-### Vercel Deployment
+## To do
 
-To set environment variables in Vercel:
-
-1. Go to your project in the [Vercel Dashboard](https://vercel.com/dashboard)
-2. Navigate to **Settings** → **Environment Variables**
-3. Add your environment variables:
-   - **Name**: `OPENROUTER_KEY`
-   - **Value**: Your actual OpenRouter API key
-   - **Environment**: Select all (Production, Preview, Development)
-4. Click **Save**
-5. Redeploy your application for the changes to take effect
-
-**Important**: Never commit your `.env` file to git. The `.env.example` file is safe to commit as it only contains placeholder values.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Run a local translation using soem open source translation
+Implement storing the subtitles
