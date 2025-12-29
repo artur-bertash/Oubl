@@ -21,7 +21,7 @@ function YouTubePage() {
     const [subsEnglish, setSubsEnglish] = useState([{ start: 0, end: 10, text: "Loading subtitles..." }])
     const [clickedWord, setClickedWord] = useState({ index: -1, word: "" })
     const [isAnkiConencted, setAnkiConnection] = useState(true)
-    const [isPlaying, setIsPlaying] = useState(true)
+    const [isPlaying, setIsPlaying] = useState(false)
     const [videoTitle] = useState("YouTube Video")
 
     function handleTimeUpdate() {
@@ -47,10 +47,10 @@ function YouTubePage() {
             if (e.code === "Space") {
                 e.preventDefault()
                 if (isPlaying) {
-                    video.pause()
+                    video.pause().catch(() => {})
                     setIsPlaying(false)
                 } else {
-                    video.play()
+                    video.play().catch(() => {})
                     setIsPlaying(true)
                 }
             }
@@ -59,7 +59,7 @@ function YouTubePage() {
                 const next = subs.find(s => s.start > video.currentTime + 0.2)
                 if (next) {
                     video.currentTime = next.start + 0.01
-                    video.play()
+                    video.play().catch(() => {}).then(() => setIsPlaying(true))
                 }
             }
 
@@ -67,7 +67,7 @@ function YouTubePage() {
                 for (let i = subs.length - 1; i >= 0; i--) {
                     if (subs[i].start < video.currentTime - 0.5) {
                         video.currentTime = subs[i].start + 0.01
-                        video.play()
+                        video.play().catch(() => {}).then(() => setIsPlaying(true))
                         break
                     }
                 }
@@ -95,8 +95,9 @@ function YouTubePage() {
 
                 if (!res.ok) break
 
-                const { translatedText: out } = await res.json()
-                console.log(out)
+                const data = await res.json()
+                const out = data.translatedText 
+
 
 
                 translated = translated.concat(out)
@@ -153,7 +154,11 @@ function YouTubePage() {
     useEffect(() => {
         if (videoRef.current) {
             videoRef.current.load()
-            videoRef.current.play().catch(e => console.warn("Autoplay blocked:", e))
+
+            videoRef.current.play().catch(() => {
+ 
+                setIsPlaying(false)
+            })
         }
     }, [videoUrl])
 
@@ -169,6 +174,8 @@ function YouTubePage() {
                     src={videoUrl}
                     onTimeUpdate={handleTimeUpdate}
                     onEnded={handleEnded}
+                    onPlay={() => setIsPlaying(true)}
+                    onPause={() => setIsPlaying(false)}
                     className="video-player"
                     controls={false}
                     disablePictureInPicture

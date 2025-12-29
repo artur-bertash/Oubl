@@ -39,13 +39,16 @@ export default async function handler(req, res) {
                 "target": target
             })
         })
+        
+       
+        
         console.log("Server hit!")
         const data = await response.json()
         console.log(data)
         res.status(200).json(data)
-    } catch (err) {
+    } catch (error) {
 
-        return res.status(500).json({ err })
+        return res.status(500).json({ error: error.message || "Translation failed" })
     }
 
 
