@@ -55,6 +55,10 @@ export default function WordExplanation({
         try {
             try {
                 const res = await postJson("/api/translate", { text: content })
+                console.log(res)
+                if (!res.translated) {
+                    throw new Error("Primary failed")
+                }
                 translation = res.translated
             } catch (e) {
                 console.warn("fallback trans.", e)
