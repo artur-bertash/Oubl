@@ -45,6 +45,11 @@ export default function WordExplanation({
 
     async function handleAdd(type) {
         const content = type === "word" ? word : currCue
+        if (!content || !content.trim()) {
+            alert("No text to translate!")
+            return
+        }
+
         let translation = null
 
         try {
@@ -52,7 +57,21 @@ export default function WordExplanation({
                 const res = await postJson("/api/translate", { text: content })
                 translation = res.translated
             } catch (e) {
-                console.warn("Translation failed:", e)
+                console.warn("fallback trans.", e)
+                try {
+
+                    const res = await postJson("/api/translatesubs", {
+                        "text": [content]
+                    })
+                    if (!res.translatedText || !res.translatedText[0]) {
+                        throw new Error("Fallback response invalid: " + JSON.stringify(res))
+                    }
+                    translation = res.translatedText[0]
+                    console.log(`Translation: ${translation}`)
+                } catch (fallbackErr) {
+                    console.error("ERR:", fallbackErr)
+                
+                }
             }
 
             await createAnkiCard({
