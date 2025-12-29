@@ -39,7 +39,10 @@ function parseBody(body) {
 function validateRequest({ text }) {
     if (!text) throw new Error("Text is required");
     if (Array.isArray(text) && text.length === 0) throw new Error("Text array cannot be empty");
-    if (!process.env.DEEPL_KEY) throw new Error("DeepL API key is not configured");
+    if (!process.env.DEEPL_KEY) {
+        console.error("CRITICAL: DEEPL_KEY is missing in environment variables.");
+        throw new Error("DeepL API key is not configured in .env.local");
+    }
 }
 
 async function translateText(text) {

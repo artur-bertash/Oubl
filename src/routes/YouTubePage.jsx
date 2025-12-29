@@ -87,7 +87,7 @@ function YouTubePage() {
                 const slice = parsedSubs.slice(i, i + size)
                 const text = slice.map(s => s.text)
 
-                const res = await fetch("/api/translate", {
+                const res = await fetch("/api/translatesubs", {
                     method: "POST",
                     headers: { "Content-Type": "application/json" },
                     body: JSON.stringify({ text }),
@@ -95,8 +95,9 @@ function YouTubePage() {
 
                 if (!res.ok) break
 
-                const { translated: out } = await res.json()
-                if (!Array.isArray(out)) break
+                const { translatedText: out } = await res.json()
+                console.log(out)
+
 
                 translated = translated.concat(out)
 
@@ -120,7 +121,7 @@ function YouTubePage() {
 
                 if (parsed.length) {
                     setSubs(parsed)
-                    setSubsEnglish(parsed)
+
                     translateSubs(parsed)
                 }
             } catch {
@@ -149,6 +150,13 @@ function YouTubePage() {
 
     const videoUrl = `${API_BASE_URL}/download?id=${videoId}`
 
+    useEffect(() => {
+        if (videoRef.current) {
+            videoRef.current.load()
+            videoRef.current.play().catch(e => console.warn("Autoplay blocked:", e))
+        }
+    }, [videoUrl])
+
     return (
         <div className="video-page">
             <GoBack />
@@ -157,14 +165,14 @@ function YouTubePage() {
                 <video
                     ref={videoRef}
                     autoPlay
+                    playsInline
+                    src={videoUrl}
                     onTimeUpdate={handleTimeUpdate}
                     onEnded={handleEnded}
                     className="video-player"
                     controls={false}
                     disablePictureInPicture
-                >
-                    <source src={videoUrl} type="video/mp4" />
-                </video>
+                />
 
                 <div className="subtitle-wrapper">
                     <Subtitles

@@ -13,6 +13,10 @@
     {
       "source": "/vps-3002/(.*)",
       "destination": "http://74.208.167.229:3002/$1"
+    },
+    {
+      "source": "/vps-5000/(.*)",
+      "destination": "http://209.46.122.109:5000/$1"
     }
   ],
   "functions": {
@@ -24,6 +28,9 @@
     },
     "api/translate.js": {
       "maxDuration": 10
+    },
+    "api/translatesubs.js": {
+      "maxDuration": 120
     }
   }
 }
