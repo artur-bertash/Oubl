@@ -11,7 +11,11 @@ Read more about sentence mining: [SM basics](https://refold.la/roadmap/stage-2/a
 
 
 
-https://github.com/user-attachments/assets/9244993c-8954-4e27-949f-366939dc261a
+
+
+https://github.com/user-attachments/assets/fd60f6bc-142d-4ff3-a7f4-577047d45292
+
+
 
 
 
