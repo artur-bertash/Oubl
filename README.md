@@ -1,9 +1,8 @@
 # What is it?
 
-Inspired by [Language Reactor](https://forum.languagelearningwithnetflix.com/) and [Yomitan](https://github.com/yomidevs/yomitan), Oubl is a sentence mining tool (the process of taking words and sentences directly from your immersion and learning them with the SRS) for a language course French in Action and YouTube.
+Inspired by [Language Reactor](https://forum.languagelearningwithnetflix.com/) and [Yomitan](https://github.com/yomidevs/yomitan), Oubl is a sentence mining tool (the process of taking words and sentences directly from your immersion and learning them with the SRS) for a language course *French in Action* and YouTube.
 
-Read more about this project: [Blog link](https://medium.com/@arturbertash88/xp-driven-learning-that-feeds-the-ego-endlessly-3e6fdacafdd3)  
-Read more about sentence mining: [SM basics](https://refold.la/roadmap/stage-2/a/basic-sentence-mining/)
+[**Read the Blog Post**](https://medium.com/@arturbertash88/xp-driven-learning-that-feeds-the-ego-endlessly-3e6fdacafdd3) | [**Learn about Sentence Mining**](https://refold.la/roadmap/stage-2/a/basic-sentence-mining/)
 
 ---
 
@@ -59,7 +58,7 @@ https://github.com/user-attachments/assets/af21e188-1c89-412f-8e48-9c7be6382f88
 
 ## To do
 
-- Implement storing the subtitles
+- [ ] Make persistent subtitle storage.
 
-##P.S.
-A huge thanks to [The Odin PRoject](https://github.com/theodinproject) for giving me the knowledge required to build this. 
+#P.S.
+A huge thanks to [The Odin Project](https://github.com/theodinproject) for giving me the knowledge required to build this. 
